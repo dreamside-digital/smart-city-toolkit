@@ -73,5 +73,5 @@ The presence of children in public parks and recreational spaces make the liabil
 | ✅ The same solutions to IP will address procurement issues:  e.g., negotiating licensing agreements and contractual agreements at the outset. |
 | ✅ Negotiation of the ownership of data and other data entitlements as part of the conditions of procurement and contract. |
 | ✅ Deciding on high-tech and low-tech solutions will depend on several factors:  \(a\) What is the use case? Long-term planning, or baseline measurement of activity within the city, may not require the speed, accuracy, and scalability that “smarter” technologies offer. However, enhancing the user experience with real-time information and features may benefit from these features. \(b\) Technologies that rely on other hardware devices such as sensors may increase initial costs, as well as maintenance costs associated with TPMs. \(c\) Cost: low-tech solutions tend to be cheaper to acquire and maintain. |
-| ✅ Follow[ sound procurement practices](../meta-issues/untitled-2.md). |
+| ✅ Follow[ sound procurement practices](../meta-issues/procurement.md). |
 

@@ -60,7 +60,7 @@ In buildings, connecting sensors with BAS software can coordinate live monitorin
 | ⚠ Community based insights created by third-party developers may thwart municipal efforts or identify more costly solutions required for procurement. |
 | **Managing issues.** |
 | ✅ Share data using open license with terms of use for third-party developers. Embed contract terms if directly procuring market data that connects insights with measurable outcomes. |
-| ✅ Follow [sound procurement practices](../meta-issues/untitled-2.md). |
+| ✅ Follow [sound procurement practices](../meta-issues/procurement.md). |
 
 | Operations |
 | :--- |

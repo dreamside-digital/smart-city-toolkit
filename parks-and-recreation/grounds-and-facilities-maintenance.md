@@ -96,5 +96,5 @@ The presence of children in public parks and recreational spaces make the liabil
 | ✅ Count, don’t track.  Record numbers of smart bin use frequency, truck deployment, optimal collection times, and types of waste. Numerical data about the frequency of waste collection will not necessarily track identities. |
 | ✅ Count, don’t track.  Record numbers of smart bin use frequency, truck deployment, optimal collection times, and types of waste. Numerical data about the frequency of waste collection will not necessarily track identities. |
 | ✅ Awareness. Municipalities need to be aware that taxpayer funds are vulnerable not only through the technology selection process, but also throughout the life cycle of the technology. Short term savings often come with outsize long term costs. |
-| ✅ Employ [sound procurement practices.](../meta-issues/untitled-2.md) |
+| ✅ Employ [sound procurement practices.](../meta-issues/procurement.md) |
 

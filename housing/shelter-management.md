@@ -63,7 +63,7 @@ Tech solutions for homeless must consider that many homeless lack the capacity t
 | ⚠ Untested technologies can introduce unforeseen harms. |
 | **Managing issues.** |
 | ✅ Procuring dumb phones to distribute to homeless is key to adoption and program success. |
-| ✅ Follow [sound procurement practices](../meta-issues/untitled-2.md). |
+| ✅ Follow [sound procurement practices](../meta-issues/procurement.md). |
 
 | Operations |
 | :--- |

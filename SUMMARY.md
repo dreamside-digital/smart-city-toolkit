@@ -11,8 +11,8 @@
 * [Privacy](meta-issues/privacy.md)
 * [Security](meta-issues/security.md)
 * [Inclusion](meta-issues/inclusion.md)
-* [Intellectual Property](meta-issues/untitled-1.md)
-* [Procurement](meta-issues/untitled-2.md)
+* [Intellectual Property](meta-issues/intellectual-property.md)
+* [Procurement](meta-issues/procurement.md)
 
 ## Civic Engagement
 

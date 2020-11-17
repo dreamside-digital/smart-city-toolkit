@@ -65,7 +65,7 @@ Energy modelling ensures that building design will meet performance requirements
 | ⚠ Compatibility and synchronicity across hardware and software systems is a critical liability risk because the effectiveness of smart systems relies upon coordinating functions. |
 | **Managing issues.** |
 | ✅ Linking sensors, monitors, and energy consumption information to optimize performance is envisioned as the ideal in theory. But introduces contractual, privacy, security and safety risks when examining  building systems at an ecosystem level. |
-| ✅ Follow [sound procurement practices](../meta-issues/untitled-2.md). |
+| ✅ Follow [sound procurement practices](../meta-issues/procurement.md). |
 
 | Operations |
 | :--- |

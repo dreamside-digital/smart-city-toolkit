@@ -56,7 +56,7 @@ Hacking is creative problem solving. Hackathons, also called codefests or hackfe
 | ✅ Licensing if use of a trademarked technology is necessary. |
 | ✅ Warranties and representations of ownership and/or non-infringement to avoid future disagreements. |
 | ✅ Contractually allocating liability arising from app use to either the municipality, the author or the user. |
-| ✅ See also:[ intellectual property issues](../../meta-issues/untitled-1.md). |
+| ✅ See also:[ intellectual property issues](../../meta-issues/intellectual-property.md). |
 
 **Hackathon Resources**
 

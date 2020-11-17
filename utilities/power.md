@@ -50,5 +50,5 @@ Municipalities select and maintain street lighting to improve street safety for 
 | ✅  Maintenance of Hardware. This prevents a breach of the security parameters on hardware by hackers or thieves. Hardware devices that are identified to be compromised can be isolated until maintenance is performed. |
 | ✅ Security platform. Establishing a security platform that analyzes data, searches for potential indicators of compromise with the capability of implementing security measures such as isolating affected devices. |
 | ✅ Ensure that partners have adequate safeguards. All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control. |
-| ✅ Follow [sound procurement practices](../meta-issues/untitled-2.md). |
+| ✅ Follow [sound procurement practices](../meta-issues/procurement.md). |
 

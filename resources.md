@@ -76,7 +76,7 @@ Allison Bramwell, Ken Coates, and Neil Bradford, [“Expanding digital opportuni
 
 Nicole Goodman and Zac Spicer, [“Winning the smart cities challenge with equity, inclusion”](https://policyoptions.irpp.org/magazines/march-2018/winning-smart-cities-challenge-equity-inclusion/)
 
-OECD, “Bridging the Digital Divide”\]\([https://www.oecd.org/site/schoolingfortomorrowknowledgebase/themes/ict/bridgingthedigitaldivide.htm](https://www.oecd.org/site/schoolingfortomorrowknowledgebase/themes/ict/bridgingthedigitaldivide.htm)\)
+OECD, [“Bridging the Digital Divide”](https://www.oecd.org/site/schoolingfortomorrowknowledgebase/themes/ict/bridgingthedigitaldivide.htm)
 
 Open Media, [“11 things Canada should do now to close the Digital Divide for good”](https://openmedia.org/article/item/11-things-against-digital-divide), \(2020\)
 

@@ -46,7 +46,7 @@ Innovation Hubs are a dynamic incubator space where support services can be gath
 | ✅ Licensing agreements. Negotiations for licensing or other contractual use agreements regarding the ownership of innovation results can be made where R&D equipment, facilities or human resources are provided for by different public and private entities. |
 | ✅ Confidentiality agreements. Where startups develop novel products and services with other entities at innovation hubs, agreements should be in place to ensure that the intellectual property is confidential throughout the patent, trademark or copyright process. |
 | ✅ Contractual allocation of liability. The allocation of liability arising from the app should be negotiated between the municipality, institutions and other private entities and assigned to any appropriate parties. |
-| ✅ Carefully review [intellectual property issues](../meta-issues/untitled-1.md). |
+| ✅ Carefully review [intellectual property issues](../meta-issues/intellectual-property.md). |
 
 | Employment Issues |
 | :--- |

@@ -66,7 +66,7 @@ Smart heritage is a concept that seeks to overcome the idea that architectural h
 | ⚠ Compatibility and synchronicity across hardware and software systems is a critical liability risk because the effectiveness of smart systems relies upon coordinating functions. If third parties are involved in data collection and analysis, contracts should be reviewed to ensure data stewardship is aligned with privacy policies. |
 | **Managing issues.** |
 | ✅ Linking sensors, monitors, and energy consumption information to optimize performance is envisioned as the ideal in theory. But introduces contractual, privacy, security and safety risks when examining building systems at an ecosystem level. |
-| ✅ Follow[ sound procurement practices](../meta-issues/untitled-2.md). |
+| ✅ Follow[ sound procurement practices](../meta-issues/procurement.md). |
 
 | Operations |
 | :--- |

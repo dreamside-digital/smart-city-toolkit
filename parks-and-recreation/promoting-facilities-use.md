@@ -62,5 +62,5 @@ Encouraging and facilitating the use of public recreational spaces is no less im
 | ⚠ Technology acquisitions often implicate long term commitment to a specific vendor. This creates a danger that a municipality, having committed itself to a particular vendor through a competitive and transparent procurement process, is now at the mercy of the vendor for follow-on services and products. |
 | **Managing Issues.** |
 | ✅ Awareness. Municipalities need to be aware that taxpayer funds are vulnerable not only through the technology selection process, but also throughout the life cycle of the technology. Short term savings often come with outsize long term costs. |
-| ✅ Employ [sound procurement practices](../meta-issues/untitled-2.md). |
+| ✅ Employ [sound procurement practices](../meta-issues/procurement.md). |
 

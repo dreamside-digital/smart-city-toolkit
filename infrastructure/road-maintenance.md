@@ -54,7 +54,7 @@ Smart city solutions are effective at automating monitoring, tracking, and sensi
 | ⚠ Costs of deploying wildlife crossing strategies should be considered from a lifecycle perspective. |
 | **Managing issues.** |
 | ✅ Smart technologies may appear to eliminate a problem altogether but can have significant operational and maintenance costs associated with their implementation including structural requirements, damage from weather, technical failures, false-positive and false negative detection rates, and more. |
-| ✅ Follow [sound procurement practices](../meta-issues/untitled-2.md). |
+| ✅ Follow [sound procurement practices](../meta-issues/procurement.md). |
 
 | Operations |
 | :--- |
