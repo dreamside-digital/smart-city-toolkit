@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Home](README.md)
-* [About](untitled-1.md)
-* [Resources](untitled-1-1.md)
-* [Glossary](untitled-2.md)
-* [Contact](untitled-3.md)
+* [About](about.md)
+* [Resources](resources.md)
+* [Glossary](glossary.md)
+* [Contact](contact.md)
 
 ## Meta-issues
 
