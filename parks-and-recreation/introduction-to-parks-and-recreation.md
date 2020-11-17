@@ -4,19 +4,14 @@ title: Parks and Recreation
 permalink: /park-recreation
 ---
 
-# Introduction to Parks and Recreation
+Les parcs publics et les installations de loisirs sont des espaces auxquels peuvent accéder tous les membres de la communauté pour bouger, jouer et profiter du plein air.
 
-Public parks and recreational facilities engage community and civic activity by providing accessible spaces for exercise, play and interaction with the natural world.
+Cependant, certains de ces espaces sont sous-utilisés, et les municipalités ont du mal à continuer d’offrir les services communautaires essentiels par manque de ressources.
 
-But parks and recreational facilities are sometimes underutilized, struggling to maintain essential community services in the face of diminishing resources.
+Une des solutions à ce problème consiste à recourir aux données et aux technologies pour faciliter l’accès aux services et assurer un entretien plus efficace des installations. En effet, les installations de loisirs et les parcs intelligents ont le potentiel d’attirer les membres de la communauté qui n’utilisaient plus ces espaces.
 
-Municipalities can use data and technology to increase the efficiency with which these areas are maintained and the ease with which these services are accessed. Smart parks and recreational facilities can involve members of the community who may have become disconnected from these public spaces.
+**Pour explorer les solutions et technologies de la ville intelligente, cliquez sur l’un des liens de la barre latérale à gauche.**
 
-**To explore smart city solutions and technologies, click any of the links on the sidebar to the left.**
-
-## Resources
-
-Luskin Centre for Innovation, [Smart Parks: A Toolkit](https://innovation.luskin.ucla.edu/wp-content/uploads/2019/03/Smart_Parks-A_Toolkit.pdf) \(Los Angeles, CA: UCLA Luskin School of Public Affairs, 2018\).
-
-* This is the authoritative document on Smart Park implementation best practices. Authored by the University of California’s Luskin Centre for Innovation, the toolkit identifies and rates Smart Park technologies; as well, it provides guidance on effective implementation and funding strategies.
-
+### Resources
+Luskin Centre for Innovation, [Smart Parks: A Toolkit](https://innovation.luskin.ucla.edu/wp-content/uploads/2019/03/Smart_Parks-A_Toolkit.pdf) (Los Angeles, Californie, UCLA Luskin School of Public Affairs, 2018).
+ * Il s’agit du document faisant autorité sur la mise en œuvre de pratiques exemplaires en matière de parcs intelligents. Publiée par le Luskin Centre for Innovation de l’Université de la Californie à Los Angeles, cette trousse d’outils présente et les technologies pour parcs intelligents et en établit le classement, en plus d’offrir des conseils sur la mise en œuvre et les stratégies de financement.

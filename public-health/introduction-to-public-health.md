@@ -4,9 +4,6 @@ title: Public Health
 permalink: /public-health
 ---
 
-# Introduction to Public Health
+Volets essentiels de tout gouvernement, les initiatives de santé publique jouent un rôle central dans la vie quotidienne des citoyens et des citoyennes. Ce type de programme soutient les malades et protège la santé du reste de la population. La surveillance des menaces qui pèsent sur la santé publique peut grandement améliorer la qualité de vie. Les municipalités qui analysent les tendances et font le suivi des données liées aux problèmes de santé publique de manière proactive plutôt que réactive peuvent prendre les mesures nécessaires avant que la situation empire.
 
-As one of the central aspects of government, public health initiatives play a vital role in the everyday lives of citizens. Programs in this domain not only assist people who are sick, but also ensures those who are healthy stay that way. Monitoring issues that pose a threat to public health can greatly improve quality of life. Municipalities that analyze trends and track data in an anticipatory, not reactive, manner to public health issues, are able to take preemptive action before they worsen.
-
-**To explore smart city solutions and technologies, click any of the links on the sidebar to the left.**
-
+**Pour explorer les solutions et technologies de la ville intelligente, cliquez sur l’un des liens de la barre latérale à gauche.**

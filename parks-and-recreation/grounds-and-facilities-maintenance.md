@@ -3,98 +3,97 @@ layout: default
 title: Grounds and Facilities Maintenance
 permalink: /park-recreation/grounds-and-facilities-maintenance
 ---
+# Services : Entretien des terrains et des installations
 
-# Grounds and Facilities Maintenance
+Les parcs et les centres récréatifs doivent être entretenus. Les travaux d’entretien nécessaires sont diversifiés et impliquent un important nombre d’heures-personnes et une grande consommation d’énergie et d’eau.
 
-Parks and recreational centres must be maintained. The range of maintenance necessary in these venues is diverse and multifaceted, involving both significant man-hours and consumption of both energy and water.
+## Applications et solutions
 
-## Applications and Solutions
+**Suivi** – Les municipalités peuvent faire le suivi de l’achalandage des installations et des parcs et se servir des données recueillies pour prendre des décisions en ce qui concerne l’entretien. Elles peuvent également recourir à des appareils photo et à des capteurs pour obtenir des données pertinentes sur l’environnement qui éclaireront leur prise de décisions. L’entretien prédictif s’appuie sur des technologies de surveillance et des analyses statistiques qui permettent de déterminer l’état de l’équipement utilisé, minimisant ainsi les interruptions et les coûts d’entretien.
 
-**Monitoring** – Municipalities can track facility and park traffic and use this information to inform maintenance allocations. Further, they can use photographic and sensor technologies to record relevant environmental data and inform their decision-making processes. Predictive maintenance uses monitoring technologies and statistical analysis to determine the condition of in-service equipment, minimizing equipment downtime and maintenance costs.
-
-**Utility Use** – Municipalities can implement green and smart technologies to reduce cost and waste with respect to energy and water use.
+**Utilisation des services publics** – Les municipalités peuvent recourir à des technologies vertes et intelligentes pour réduire les coûts et les pertes en énergie et en eau.
 
 ## Technologies
 
-**Monitoring Technologies**
+**Technologies de surveillance**
 
-**Tracking Recreational Centre Use via Receipts** – In areas that charge a fee for use \(e.g. swimming pools and indoor skating rinks\) data is readily available and probably already being used.
+**Suivi de l’achalandage des centres récréatifs à l’aide des reçus** – Les installations qui exigent un droit d’entrée (p. ex. piscines, patinoires) disposent de données pour faire un suivi et les utilisent probablement déjà.
 
-**Passive Infrared Sensors** – Thermal imaging sensors can detect passing objects and classify them as pedestrians or cyclists based on shape.
+**Capteurs infrarouges passifs** – Les capteurs à imagerie thermique détectent des personnes en mouvement et déterminent s’il s’agit d’un piéton ou d’un cycliste en fonction de la forme.
 
-**Battery-Powered Inductive Loops** – Information collected from these products shows the number of objects that have passed and the direction they are going.
+**Boucles d’induction alimentées par batterie** – Ces dispositifs servent à enregistrer le nombre de personnes qui les franchissent et la direction dans laquelle ils s’en vont.
 
-**Cameras** – Cameras can be coupled with algorithms that allow the camera to “see” the a given area and recognize object types – bicycles, pedestrians, wildlife - and record their actions.
+**Caméras** – Certains algorithmes permettent de braquer la caméra sur un secteur donné et de reconnaître différentes choses – bicyclettes, piétons, animaux – puis d’enregistrer ce qui se passe.
 
-**Third party data acquisition** – Fitness app developers have moved into the business of selling participatory or crowd-sourced biking data to municipalities. Apps can collect information from their users’ phone’s embedded accelerometer, microphone, and GPS.
+**Acquisition de données auprès de tiers** – Les concepteurs d’applications de mise en forme se sont tournés vers la vente aux municipalités de données sur les déplacements à vélo recueillies de manière participative. Ces applications recueillent des données à partir de l’accéléromètre, du microphone et du GPS intégrés au téléphone de l’utilisateur.
 
-**Cloud-Based Data Platforms** – Some service providers offer internet-based services for accessing and displaying sensor output. These services allow their municipal customers to access the data in a single online space.
+**Plateformes de données infonuagiques** – Certains fournisseurs offrent des services sur le Web pour accéder aux données des capteurs. Grâce à ces services, les clients municipaux peuvent accéder aux données à partir d’un seul espace en ligne.
 
-**Smart Benches** – Solar-powered, technologically equipped benches \(i.e. WIFI, phone charging ports, etc.\) can be outfitted with sensors to monitor pedestrian activity, air quality, noise levels and other information.
+**Bancs intelligents** – Ces bancs alimentés à l’énergie solaire et dotés de dispositifs technologiques (p. ex. WIFI, ports de recharge pour téléphone) peuvent également être munis de capteurs qui mesurent la circulation piétonnière, la qualité de l’air, les niveaux de bruit et de recueillent d’autres données.
 
-**Drones** – Particularly useful for covering large areas, unmanned aerial vehicles can be paired with cameras, sensors or sampling equipment. Geographic Information Systems and Services – GIS uses digital software to capture, store, manipulate, analyze, manage and present geographical data. GIS can be a useful planning and assessment tool and provide opportunities for park visitors to contribute information about the park and its use.
+**Drones** – Ces véhicules aériens sans pilote sont particulièrement utiles pour couvrir de vastes étendues; on peut y ajouter des caméras, des capteurs et du matériel d’échantillonnage.
+Systèmes et services d’information géographique – Les systèmes d’information géographique comportent des logiciels numériques leur permettant d’acquérir, de stocker, de manipuler, de gérer et de présenter des données géographiques. Ils constituent des outils de planification et d’évaluation pratiques et permettent de recueillir des renseignements sur les parcs et les utilisations qu’en font les visiteurs.
 
-**Sensor Networks and the Internet of Things** – Similar to GIS. Sensor networks can record, store and transmit data about light, humidity, temperature, air pressure, air and water quality, resource consumption, etc… Software can then compile and analyze this data and trigger various automatic responses, e.g. sending a text message alerting municipal workers that some maintenance action is required.
+**Réseau de capteurs et Internet des objets** – D’une manière similaire aux systèmes d’information géographique, les réseaux de capteurs enregistrent, stockent et transmettent des données sur la lumière, l’humidité, la température, la pression atmosphérique, la qualité de l’air et de l’eau, la consommation des ressources, etc. Un logiciel se charge de compiler et d’analyser ces données et d’envoyer divers messages automatisés, comme des messages textes avertissant les ouvriers de voirie que des travaux d’entretien sont nécessaires.
 
-**Near-infrared Photography** – Near-infrared photographic images visually show degrees of photosynthetic activity. These images can be used either as a one-off snapshot of plant and water health or to track photosynthesis patterns in water and vegetation over time.
+**Photographie dans le proche infrarouge** – Les images captées dans le proche infrarouge montrent les différents degrés d’activité photosynthétique. Il peut s’agir d’une vérification ponctuelle de la santé d’une plante ou d’un plan d’eau ou d’un suivi à long terme de la photosynthèse des étendues d’eau et de la végétation.
 
-**Maintenance/Utility Use**
+**Entretien/utilisation des services publics**
 
-**Photocatalytic Coatings** – Based on titanium dioxide, these coatings sterilise surfaces, requiring less water and less aggressive chemical products to clean them. Numerous other innovative and environmentally friendly construction and landscaping materials and techniques are available: e.g. self-healing concrete, pervious paving, green roofs, engineered soils, graywater recycling, etc …
+**Revêtements photocatalytiques** – Fabriqués à partir de dioxyde de titane, ces revêtements aux propriétés stérilisantes se nettoient avec moins d’eau et des produits chimiques moins corrosifs que d’autres surfaces. Il existe beaucoup d’autres matériaux et techniques de construction et de paysagement novateurs et écologiques : béton autoréparant, revêtement perméable, toits verts, sol de synthèse, récupération des eaux grises, etc.
 
-**Rainwater Collection/Automatic Irrigation** – Irrigation controllers conserve water by optimizing watering patterns in each park area depending on microclimate and soil type.
+**Collecte d’eau de pluie/irrigation automatique** – Les dispositifs de contrôle de l’irrigation optimisent l’arrosage de chaque parc en fonction du microclimat et du type de sol, ce qui permet d’économiser l’eau.
 
-**Hard-surface Testing Equipment** – Hard-surface testing equipment uses electronic sensors to mimic a child’s head striking the surfaces under and around installed play-structures, providing quickly accessible data on impact, velocity, and potential for head injury. Municipalities can use this information to mitigate risks to children’s’ health.
+**Dispositif de test des surfaces dures** – Ces dispositifs dotés de capteurs électroniques sont utilisés dans le cadre d’une simulation d’un enfant qui se cogne la tête sous les structures de jeu et près de celles-ci, pour mesurer l’impact, la vélocité et le potentiel de traumatisme crânien. Les municipalités peuvent utiliser ces renseignements pour réduire les risques de blessures chez les enfants.
 
-**Robotic Lawnmowers** – Independent, self-moving machines that cut grass can be powered with clean energy. Most are battery powered, but some are solar. A low-voltage wire must be installed around the perimeter of the area to be mowed.
+**Tondeuses robotisées** – Machine autonome qui tond le gazon sans intervention humaine et pouvant être alimentée à l’énergie propre. En effet, la plupart fonctionnent à batterie, mais certaines, à l’énergie solaire. Un câble à bas voltage doit être installé le long du périmètre de la zone à tondre.
 
-**Bathroom Occupancy Sensors** – Sensors detect when a stall is in use and display this information above stall doors, in a mobile app on users’ cell phones or on a monitor outside the bathrooms. Using the app, citizens can easily and anonymously notify maintenance staff of service and hygiene issues.
+**Détecteurs d’occupation pour salles de bain** – Le dispositif détecte lorsqu’une personne utilise un cabinet et affiche « occupé » au-dessus de la porte, dans une application de téléphone cellulaire ou sur un écran à l’extérieur de la salle de bain. Au moyen de l’application, les citoyens et citoyennes peuvent aviser facilement et en toute confidentialité le personnel d’entretien de problèmes d’hygiène ou de services requis.
 
-**Solar Shade Structures** – Shade structures equipped to provide solar energy.
+**Structures d’ombrage munies de panneaux solaires** – Ces structures permettent à la fois d’offrir de l’ombre et d’emmagasiner de l’énergie solaire.
 
-**Solar-Powered Garbage Compactors** – Garbage, compost and recycling bins that compress contents using solar energy. Some has sensors to track fullness and can then alert maintenance staff. Others have software that can help optimize collection routes.
+**Compacteurs à déchets alimentés à l’énergie solaire** – Il s’agit de bac à ordures, à compost et à recyclage dotés d’un dispositif de compactage fonctionnant à l’énergie solaire. Certains ont même des détecteurs qui avisent le personnel d’entretien lorsqu’ils sont pleins. D’autres ont des logiciels permettant d’optimiser les trajets de collecte.
 
-**Motion-Activated Lighting Sensors** – Motion activated sensors detect movement via microwave or ultrasonic energy, triggering a response, in this case, illuminating only those areas that are in use.
+**Système d’éclairage activé par le mouvement** – Des détecteurs de mouvement à micro-ondes ou à ultrasons déclenchent une action, en l’occurrence, l’éclairage de la zone occupée.
 
-**Off-Grid Light Fixtures** – Light fixtures powered by off-grid energy sources, e.g. solar panels or wind turbines.
+**Appareils d’éclairage hors réseau** – Appareils d’éclairage alimentés par des sources d’énergie hors réseau comme des panneaux solaires ou des éoliennes.
 
-## Managing Liability Issues
+## Gestion des risques susceptibles d’engager la responsabilité
 
-The presence of children in public parks and recreational spaces make the liability issues in these areas especially fraught, particularly with respect to privacy and security.
+La présence d’enfants dans les parcs et les espaces de loisirs publics rend particulièrement délicats les enjeux de responsabilité dans ces lieux, notamment en ce qui concerne la vie privée et la sécurité.
 
-| Privacy |
-| :--- |
-| **Issues.** |
-| ⚠ Tracking and sensing technologies create privacy issues when they collect personal information.  The legal definition of “personal information” includes information about an identifiable individual even if the individual is not directly identified \(so long as one might later identify the individual by, for example, cross-referencing unique fields like customer numbers\). Thus, tracking and sensing technologies create privacy issues when they record recognizable images of individuals or record routes traceable to individuals. |
-| **Managing Issues.** |
-| ✅ Count, don’t track.  Record numbers and direction instead of tracing routes that can be associated with individuals. |
-| ✅ Choose the technology appropriate to the task.  Low-tech solutions such as pneumatic tubes may be able to provide the data needed but without the privacy issues that cameras introduce. |
-| ✅ Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, do not include start and end points in route data so that a particular route cannot be traced to an individual. Similarly, fuzzing data of sensitive areas provides an additional layer of security for personal information. |
-| ✅ De-identify at the source. Many camera technologies allow for faces to be blurred at collection. |
-| ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
-| ✅ Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns. |
-| ✅ Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| Vie privée|
+|---|
+| **Risques**|
+|:warning: Les outils de traçage et de détection posent problème pour la protection de la vie privée s’ils recueillent des renseignements personnels. Au sens de la loi, « renseignements personnels » s’entend de tout renseignement concernant une personne identifiable – même si cette personne n’est pas directement identifiée (pourvu qu’un tiers puisse l’identifier en faisant le recoupement avec des données uniques comme les numéros de client). Ainsi, les technologies de traçage et de détection créent des risques pour la protection de la vie privée si elles collectent des images ou des itinéraires permettant d’identifier des particuliers.|
+|**Gestion des risques**|
+|:heavy_check_mark: Misez sur les chiffres, pas sur le traçage. Enregistrez les nombres et les indications au lieu de tracer des itinéraires qui peuvent être associés à des personnes.|
+|:heavy_check_mark: Choisissez la technologie appropriée. Des solutions moins sophistiquées, comme des tubes pneumatiques, peuvent être employées pour fournir les données nécessaires tout en évitant les risques posés par les caméras pour la vie privée.|
+|:heavy_check_mark: Floutez les données. Utilisez des techniques de floutage des données pour en préserver la confidentialité. Par exemple, n’incluez pas les points de départ et d’arrivée dans les données sur les itinéraires, de sorte qu’on ne puisse pas relier l’itinéraire à la personne qui l’a parcouru. De même, flouter les données de secteurs sensibles contribue à la sécurité des informations personnelles.|
+|:heavy_check_mark: Anonymisez à la source. Bon nombre de technologies de caméra permettent de flouter les visages à la source.|
+|:heavy_check_mark: Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible.|
+|:heavy_check_mark: Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données comme les numéros de vélo ou les cartes de densité de circulation, plutôt que les trajets des cyclistes individuels, éviteront les atteintes graves à la vie privée.|
+|:heavy_check_mark: Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données de sociétés privées, vérifiez que celles-ci respectent leurs propres obligations en matière de respect de la vie privée en vertu des lois applicables.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
 
-| Security |
-| :--- |
-| **Issues.** |
-| ⚠ The privacy issues inherent to tracking technologies include security issues, as data that does not initially identify individuals can do so in combination with other data. The presence of large numbers of children in these areas make these issues especially sensitive. If apps or websites for booking facilities accept payment, such payment should be processed securely. |
-| **Managing Issues.** |
-| ✅ Count, don’t track.  Record numbers of smart bin use frequency, truck deployment, optimal collection times, and types of waste. Numerical data about the frequency of waste collection will not necessarily track identities. |
-| ✅ Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location. |
-| ✅ Access to personal information should be limited to those with a need to use the information. |
-| ✅ RFID bracelets, such as those used at Disney Land, could theoretically provide a sense of enhanced security during especially crowded events like Canada Day. However, this technology is unproven as a means of lost child tracking. For the most part, Disney uses their RFID bracelets as a digital proof-of-purchase and a means of recording user activity. |
-| ✅ Numerous options for secure online payment are available. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| Sécurité|
+|---|
+| **Risques**|
+|:warning: Les risques pour la vie privée inhérents aux technologies de traçage s’accompagnent aussi de risques pour la sécurité, puisqu’on pourrait identifier une personne en associant des données qui, prises isolément, n’y suffiraient pas. La fréquentation de ces espaces par un grand nombre d’enfants rend ces questions particulièrement sensibles. Si les applications ou les sites Web de réservation acceptent des paiements, ceux-ci doivent être sécurisés.|
+|**Gestion des risques**|
+|:heavy_check_mark: Misez sur les chiffres, pas sur le traçage. Enregistrez les données sur la fréquence d’utilisation des bacs intelligents, le nombre de collectes, les heures optimales pour la collecte et les types de déchets. Les données numériques sur la fréquence de collecte des déchets ne permettent pas nécessairement de connaître l’identité de quelqu’un. |
+|:heavy_check_mark: Bon nombre des solutions aux risques pour la vie privée atténueront aussi les risques pour la sécurité, par exemple l’anonymisation à la source, sinon l’anonymisation dès que possible. Si des renseignements personnels sont recueillis, ils doivent être conservés dans un endroit sûr.|
+|:heavy_check_mark: Seules les personnes qui ont besoin de consulter l’information doivent y avoir accès. |
+|:heavy_check_mark: Le recours à des bracelets d’identification par radiofréquence, comme ceux utilisés à Disneyland, pourrait théoriquement rehausser le sentiment de sécurité lors d’événements très achalandés comme la fête du Canada. Cependant, cette technologie n’a pas fait ses preuves pour ce qui est de retrouver un enfant perdu. Disney utilise les bracelets principalement comme preuve d’achat numérique et pour garder une trace des activités de ses clients.|
+|:heavy_check_mark: Il existe plusieurs modes de paiement sécurisé en ligne.
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html).|
 
-| Procurement Issues |
-| :--- |
-| **Issues.** |
-| ⚠ Technology acquisitions often implicate long term commitment to a specific vendor. This creates a danger that a municipality, having committed itself to a particular vendor through a competitive and transparent procurement process, is now at the mercy of the vendor for follow-on services and products. |
-| **Managing Issues.** |
-| ✅ Count, don’t track.  Record numbers of smart bin use frequency, truck deployment, optimal collection times, and types of waste. Numerical data about the frequency of waste collection will not necessarily track identities. |
-| ✅ Count, don’t track.  Record numbers of smart bin use frequency, truck deployment, optimal collection times, and types of waste. Numerical data about the frequency of waste collection will not necessarily track identities. |
-
-Awareness. Municipalities need to be aware that taxpayer funds are vulnerable not only through the technology selection process, but also throughout the life cycle of the technology. Short term savings often come with outsize long term costs.\| \|:heavy\_check\_mark: Employ [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).\|
-
+| Risques liés à l’approvisionnement|
+|---|
+| **Risques**|
+|:warning: Les acquisitions de technologies impliquent souvent un engagement à long terme envers un fournisseur précis. Cela crée le risque qu’une municipalité, après s’être engagée envers un fournisseur dans le cadre d’un processus d’approvisionnement concurrentiel et transparent, soit maintenant à sa merci pour les services après-vente et les produits connexes. |
+|**Gestion des risques**|
+|:heavy_check_mark: Misez sur les chiffres, pas sur le traçage. Enregistrez les données sur la fréquence d’utilisation des bacs intelligents, le nombre de collectes, les heures optimales pour la collecte et les types de déchets. Les données numériques sur la fréquence de collecte des déchets ne permettent pas nécessairement de connaître l’identité de quelqu’un. |
+|:heavy_check_mark: Misez sur les chiffres, pas sur le traçage. Enregistrez les données sur la fréquence d’utilisation des bacs intelligents, le nombre de collectes, les heures optimales pour la collecte et les types de déchets. Les données numériques sur la fréquence de collecte des déchets ne permettent pas nécessairement de connaître l’identité de quelqu’un. |
+Conscience. Les municipalités doivent être conscientes que l’argent des contribuables est vulnérable, non seulement lors du processus de sélection de la technologie, mais aussi tout au long de son cycle de vie. Les économies à court terme engendrent souvent des coûts importants à long terme.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).|

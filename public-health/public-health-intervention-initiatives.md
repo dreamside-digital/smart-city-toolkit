@@ -3,51 +3,47 @@ layout: default
 title: Public Health Intervention Initiatives
 permalink: /public-health/intervention-initiatives
 ---
+# Services : Interventions de santé publique
 
-# Public Health Intervention Initiatives
+Certaines personnes sont très soucieuses de leur santé et restent à l’affût du moindre signe avant-coureur de maladie ou d’affection, mais ce n’est pas le cas de tout le monde. Le niveau d’éducation sanitaire et les approches à préconiser pour parler des problèmes de santé peuvent varier grandement selon le groupe démographique, l’âge, la race et la culture. Dans certains cas, des barrières linguistiques et culturelles peuvent même venir entraver l’accès aux systèmes de santé publique.
 
-While some people are very aware of their health and attuned to early-warning signs of illness, disease, and disorders, many others aren’t. Health education and approaches to talking about health issues can vary among different demographics and wildly fluctuate among different ages, races, and cultures. Some even may find themselves with little ability to engage in public health systems due to language or cultural barriers.
+## Applications et solutions : Intervention fondée sur les données
 
-## Applications and Solutions: Data-based Health Intervention
-
-Data is a powerful tool, and information about health trends among certain groups can allow public health systems to help people before they are afflicted by an issue. By taking a proactive approach, municipalities can engage communities before those communities are afflicted by a crisis – which can often result in a significant risk to safety and greater expenditure of resources.
+Les données sont un outil puissant, et les tendances sanitaires observées dans certains groupes peuvent permettre aux systèmes de santé publique d’intervenir en amont. En adoptant une approche proactive, les autorités municipales peuvent prendre des mesures avant le déclenchement d’une crise susceptible de poser un risque important pour la sécurité et de drainer des ressources.
 
 ## Technologies
 
-**Trend Tracking** – Surveys and other sources of data are a valuable tool, and municipalities may employ them \(or data collected through them\) to target certain communities for public health campaigns. Communities particularly affected by tobacco use, alcohol abuse, and/or obesity, for example, could be identified as at-risk so that the municipality may then develop programs to address.
+**Suivi des tendances** – Les enquêtes et les autres sources de données sont d’une aide précieuse, et les municipalités peuvent s’en servir pour cibler certains groupes dans leurs campagnes de santé publique. Par exemple, les milieux caractérisés par une forte prévalence de tabagisme, d’alcoolisme ou d’obésité pourraient être désignés comme des clientèles à risque pour l’élaboration de programmes.
 
-**Routine Data Collection** – A wealth of data is collected simply through routine medical activities within provincial health systems. This data could potentially be used to track trends among geographic locations and specific demographics to better target citizens for public health campaigns relevant to their unique health risks.
+**Collecte de données courantes** – Les activités médicales courantes permettent de recueillir une multitude de données, qui peuvent servir à dégager des tendances dans des régions ou des groupes démographiques afin de mettre au point des campagnes de santé publique ciblées.
 
-**Bulk Data** – Bulk data such as those relating to health-related purchases can be used to draw conclusions about the general populace and track trends.
+**Données agrégées** – Il est possible de dresser des constats sur la population générale et les tendances à partir de données agrégées, par exemple sur les achats en santé.
 
-**Algorithmic Risk Assessment** – Algorithms combined with data on age, race, weight, height, etc., can be used to assess groups of people for potential health risks. Flagged individuals can be more closely monitored by healthcare professionals or may be asked to undertake additional tests more frequently .
+**Évaluation algorithmique des risques** – Des algorithmes peuvent être utilisés en combinaison avec différentes données (âge, race, poids, taille, etc.) pour évaluer les risques potentiels pour la santé chez certains groupes. Il est par la suite possible d’effectuer un suivi étroit des clientèles à risque et de les inviter à passer des tests plus souvent.
 
-## Managing Liability Issues
+## Gestion des risques susceptibles d’engager la responsabilité
 
-| Privacy |
-| :--- |
-| **Issues.** |
-| ⚠ Health-related data must be considered in a sensitive context. Any data that could potentially identify individuals could be potentially problematic, given how private the nature of health data is. |
-| **Managing Issues.** |
-| ✅ Ensure compliance with established regimes. Provinces may possess their own legislative regimes in relation with health-related data, such as the Personal Health Information Protection Act \(PHIPA\) in Ontario. |
-| ✅ Conduct annual audits and/or risk assessments. Doing so could raise issues of privacy that may not be examined otherwise. |
-| ✅ Anonymize data. While a certain amount of disclosure is necessary to ensure that the data is actually useful \(i.e. age, weight, height, etc\), unnecessary details should always be excluded. |
-| ✅ De-identify at the source. Extraneous information should not be gathered when data is being obtained for use in datasets if it is unnecessary. |
-| ✅ Provide notice and allow for opt-out. If data provided by an individual may be disclosed to different stakeholders, they should be informed of this disclosure, its nature, and scope. Objections should factor greatly into risk assessments and given heavy consideration. |
-| ✅ Consult stakeholders. Since intervention initiatives seek to function in specific communities, it logically follows that those communities should be consulted before any measures are put in place. They may be able to provide needed data or raise specific issues that were not previously considered. |
-| ✅ Use “heat maps”. Instead of specifically identifying where individuals are located at time of data collection, data can instead be collated into a specific area to further aid in anonymization. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| Vie privée|
+|---|
+| **Risques**|
+|:warning: Les données relatives à la santé étant de nature sensible, tout renseignement qui pourrait permettre d’identifier une personne risque de poser problème.|
+|**Gestion des risques**|
+|:heavy_check_mark: Assurez-vous du respect des régimes établis. Les provinces peuvent posséder leurs propres régimes législatifs sur les données relatives à la santé, par exemple la Loi sur la protection des renseignements personnels sur la santé (LPRPS) de l’Ontario.|
+|:heavy_check_mark: Procédez à des audits ou à des évaluations des risques chaque année afin de relever des problèmes de vie privée qui risqueraient autrement de passer inaperçus.|
+|:heavy_check_mark: Anonymisez les données. Bien qu’un certain niveau de divulgation soit nécessaire pour s’assurer que les données sont réellement utiles (âge, poids, taille, etc.), les détails superflus doivent toujours être exclus.|
+|:heavy_check_mark: Anonymisez à la source. Aucune information superflue ne devrait être recueillie en vue de son utilisation dans un ensemble de données.|
+|:heavy_check_mark: Fournissez un avis et permettez aux gens de se retirer. Si des données fournies par un individu sont susceptibles d’être divulguées à d’autres parties, cet individu doit être informé de la divulgation en question, de sa nature et de sa portée. Dans les évaluations des risques, il faut accorder une place importante aux objections et les prendre très au sérieux.|
+|:heavy_check_mark: Consultez les parties prenantes. Puisque les interventions ciblent certaines communautés, il est logique de les consulter avant de mettre des mesures en place; elles pourront peut-être fournir des données utiles ou soulever des problèmes auxquels personne n’avait pensé.|
+|:heavy_check_mark: Utilisez des cartes de densité. Plutôt que d’indiquer où les personnes se trouvaient au moment de la collecte des données, colligez les données par secteur pour faciliter l’anonymisation.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
 
-| Security |
-| :--- |
-| **Issues.** |
-| ⚠ Security of data once it is collected is a key issue. Health data is particularly sensitive, and any data that is collected must be kept secure to protect privacy and prevent unauthorized access and identification of individuals. |
-| **Managing issues.** |
-| ✅ Ensure compliance with established regimes. Provinces may possess their own legislative regimes in relation with health-related data, such as the Personal Health Information Protection Act \(PHIPA\) in Ontario. |
-| ✅ Institute privacy solutions. Many privacy solutions that seek to strip identifying data will also address issues of security. |
-| ✅ Hold data in a secure location. If data cannot be anonymized, it should be held in a secure location. This ensures individuals cannot be identified by it except in authorized situations. |
-| ✅ Limit access. Any collected user data should only be able to be accessed by those who need to use the information. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
-
-
-
+| Sécurité|
+|---|
+| **Risques**|
+|:warning: La sécurité des données recueillies est essentielle. Les renseignements de santé étant particulièrement sensibles, les données recueillies doivent être stockées dans un emplacement sécurisé afin de prévenir les intrusions et l’identification des personnes ou l’atteinte à leur vie privée.|
+|**Gestion des risques**|
+|:heavy_check_mark: Assurez-vous du respect des régimes établis. Les provinces peuvent posséder leurs propres régimes législatifs sur les données relatives à la santé, par exemple la Loi sur la protection des renseignements personnels sur la santé (LPRPS) de l’Ontario.|
+|:heavy_check_mark: Instaurez des mesures de respect de la vie privée. De nombreuses solutions en matière de vie privée visant à éliminer les identificateurs permettent aussi de régler les questions de sécurité. |
+|:heavy_check_mark: Gardez les données dans un endroit sécurisé. Si les données ne peuvent pas être rendues anonymes, elles doivent être conservées dans un endroit sûr. Il sera ainsi impossible d’identifier les personnes, sauf sur autorisation.|
+|:heavy_check_mark: Limitez l’accès. Seules les personnes qui ont besoin d’accéder aux données des utilisateurs recueillies doivent pouvoir le faire.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html).|

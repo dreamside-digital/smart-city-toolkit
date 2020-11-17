@@ -3,57 +3,56 @@ layout: default
 title: Outbreak Management
 permalink: /public-health/outbreak-management
 ---
+# Services : Gestion des éclosions
 
-# Outbreak Management
+Bien que la question de la gestion des éclosions ait été propulsée à l’avant-plan par la pandémie mondiale actuelle, les éclosions de plus petite envergure ont toujours constitué un enjeu de santé publique. Quelle que soit la densité de leur population, toutes les municipalités peuvent être touchées par des maladies d’origine alimentaire, des virus ou d’autres pathogènes. Une réaction immédiate à une éclosion peut aider à réduire le risque d’infection et à appuyer les établissements de santé, mais les mesures sont parfois instaurées trop lentement pour arrêter complètement la propagation. Connaître l’origine de l’éclosion – de même qu’où et comment elle se propage – peut contribuer à éclairer les responsables de la santé publique et à accélérer l’instauration de mesures appropriées.
 
-While the recent global pandemic has brought the issue of outbreak management to the forefront, smaller outbreaks have always been a public health concern. Both densely and more sparsely populated municipalities can be affected by food-borne illnesses, viruses, and other diseases. Reacting to an outbreak while it’s happening can help reduce risk of infection and bolster healthcare facilities, but sometimes these measures are instituted too slowly to really stop the spread. Knowing where an outbreak originated – and both where and how is spreading – can help inform public health officials and accelerate the institution of measures to help.
+## Applications et solutions : Surveillance des maladies infectieuses
 
-## Applications and Solutions: Infectious Disease Surveillance
-
-The tracking and monitoring of infectious diseases has long since been a measure instituted once it is clear an outbreak is occurring, but new technologies have allowed for breakthroughs in contact tracing techniques. Also of note are warning systems for infectious diseases, which can aid in stopping outbreaks before they start.
+Le traçage et la surveillance des maladies infectieuses ont depuis longtemps constitué la mesure privilégiée une fois une éclosion clairement établie. Or, de nouvelles technologies ont permis d’améliorer les techniques de recherche de contacts. Notons également l’existence des systèmes d’alerte pour les maladies infectieuses, qui peuvent contribuer à empêcher les éclosions avant qu’elles ne surviennent.
 
 ## Technologies
 
-**Public Health Information Systems** – A database that allows for hospitals and other healthcare providers to enter information about patients that are suffering from certain diseases of interest, allowing policy makers to track trends and anticipate areas that may be afflicted next. May be operated at a provincial level, which municipalities may use to create their own specialized health reports.
+**Systèmes d’information en santé publique** – Des bases de données qui permettent aux hôpitaux et aux autres prestataires de soins de santé de saisir des renseignements sur les patients qui souffrent de certaines maladies d’intérêt. Grâce à ces renseignements, les décideurs peuvent dégager des tendances et prévoir les prochaines régions qui pourraient être frappées. Les systèmes d’information en santé publique peuvent être gérés au niveau provincial, puis utilisés par les municipalités pour créer leurs propres rapports spécialisés.
 
-**Health-related Data Analysis** – Uses trends of health-related data \(such as 911 call logs, telehealth volume, physician billing data, over-the-counter drug sales, school and work absenteeism etc.\) to provide early warning for infectious disease outbreaks.
+**Analyse de données relatives à la santé** – Les données relatives à la santé (registre des appels au 911, volume des activités de télésanté, données de facturation des médecins, ventes de médicaments sans ordonnance, taux d’absentéisme à l’école et au travail, etc.) sont utilisées pour dégager des tendances permettant de sonner l’alerte dès l’éclosion de maladies infectieuses.
 
-**Automatic Lab Reporting** – Automatically logs positive lab results for certain infectious diseases into a central database, accompanied by information about the patient.
+**Transmission automatique des résultats de laboratoire** – Pour les cas positifs de certaines maladies infectieuses, les résultats de laboratoire et les renseignements sur le patient sont consignés automatiquement dans une base de données centrale.
 
-**Automatic Contact Tracing** – Uses location data from a mobile device to track where an infectious patient has been within a certain time period to anticipate spread, or encrypted key technology to track who the infectious patient has been in contact with to monitor potentially infected individuals.
+**Recherche automatique des contacts** – Dans le cadre de cette méthode, on utilise les données de localisation d’un appareil mobile pour déterminer où se trouvait un patient infectieux pendant une période donnée et ainsi anticiper la propagation de la maladie. On peut aussi s’appuyer sur une technologie de communication encodée (clé chiffrée) pour identifier et surveiller les personnes avec qui le patient a été en contact et qu’il aurait pu infecter.
 
-## Managing Liability Issues
+## Gestion des risques susceptibles d’engager la responsabilité
 
-| Privacy |
-| :--- |
-| **Issues.** |
-| ⚠ When dealing with sensitive private data such as those concerning people’s health and movement patterns, it is natural that privacy would be a significant concern. Officials must be cautious to balance a level of disclosure that is actually useful with ensuring individuals cannot be identified. |
-| **Managing Issues.** |
-| ✅ Ensure compliance with established regimes. Provinces may possess their own legislative regimes in relation with health-related data, such as the Personal Health Information Protection Act \(PHIPA\) in Ontario. |
-| ✅ Conduct annual audits and/or risk assessments. Doing so could raise issues of privacy that may not be examined otherwise. |
-| ✅ Anonymize data. While a certain amount of disclosure is necessary to ensure that the data is actually useful \(i.e. age, weight, height, etc\), unnecessary details should always be excluded. |
-| ✅ De-identify at the source. Extraneous information should not be gathered when data is being obtained for use in datasets if it is unnecessary. |
-| ✅ Provide notice and allow for opt-out. If data provided by an individual may be disclosed to different stakeholders, they should be informed of this disclosure, its nature, and scope. Objections should factor greatly into risk assessments and given heavy consideration. |
-| ✅ Use less invasive technologies when possible. For example, contact tracing can be entirely non-location based, with each mobile device carrying a unique encrypted key. This key is broadcasted to nearby devices and stored in a queue for a specified period. If someone is found by health authorities to be infected, a notification is sent to every device storing that specific key to inform the individual to seek out testing. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
 
-| Security |
-| :--- |
-| **Issues.** |
-| ⚠ If any data is being collected and anyone can be identified with that data, then the previously outlined privacy issues also raise issues of security. Data that is stored could potentially be accessed by unauthorized users if proper care isn’t taken to prevent it, allowing for people to be improperly identified. Health data is also particularly sensitive, so special care must be taken to keep it secure. |
-| **Managing issues.** |
-| ✅ Ensure compliance with established regimes. Provinces may possess their own legislative regimes in relation with health-related data, such as the Personal Health Information Protection Act \(PHIPA\) in Ontario. |
-| ✅ Institute privacy solutions. Many privacy solutions that seek to strip identifying data will also address issues of security. |
-| ✅ Hold data in a secure location. If data cannot be anonymized, it should be held in a secure location. This ensures individuals cannot be identified by it except in authorized situations. |
-| ✅ Limit access. Any collected user data should only be able to be accessed by those who need to use the information. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| Vie privée|
+|---|
+| **Risques**|
+|:warning: Quand il est question de données privées sensibles, comme celles qui concernent la santé et les habitudes de déplacement des gens, il va sans dire que la vie privée est une préoccupation importante. Les responsables doivent veiller à trouver un juste équilibre entre un niveau de divulgation qui est réellement utile et l’assurance que les individus ne peuvent être identifiés.|
+|**Gestion des risques**|
+|:heavy_check_mark: Assurez-vous du respect des régimes établis. Les provinces peuvent posséder leurs propres régimes législatifs sur les données relatives à la santé, par exemple la Loi sur la protection des renseignements personnels sur la santé (LPRPS) de l’Ontario.|
+|:heavy_check_mark: Procédez à des audits ou à des évaluations des risques chaque année afin de relever des problèmes de vie privée qui risqueraient autrement de passer inaperçus.|
+|:heavy_check_mark: Anonymisez les données. Bien qu’un certain niveau de divulgation soit nécessaire pour s’assurer que les données sont réellement utiles (âge, poids, taille, etc.), les détails superflus doivent toujours être exclus.|
+|:heavy_check_mark: Anonymisez à la source. Aucune information superflue ne devrait être recueillie en vue de son utilisation dans un ensemble de données.|
+|:heavy_check_mark: Fournissez un avis et permettez aux gens de se retirer. Si des données fournies par un individu sont susceptibles d’être divulguées à d’autres parties, cet individu doit être informé de la divulgation en question, de sa nature et de sa portée. Dans les évaluations des risques, il faut accorder une place importante aux objections et les prendre très au sérieux.|
+|:heavy_check_mark: Utilisez si possible des technologies qui portent moins atteinte à la vie privée. Par exemple, la recherche de contacts n’est aucunement géodépendante si chaque appareil mobile possède une clé chiffrée unique. Cette clé est transmise aux appareils situés à proximité et enregistrée dans une file d’attente pour une durée déterminée. Si les autorités sanitaires découvrent que quelqu’un est infecté, un avis est envoyé à chacun des appareils dans lesquels la clé est enregistrée afin d’informer leurs propriétaires qu’ils devraient subir un test de dépistage.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
 
-| Accuracy |
-| :--- |
-| **Issues.** |
-| ⚠ While it may not be particularly difficult to ensure data is accurate during regular monitoring, in the midst of a burgeoning pandemic doing so may be a great deal more complicated. With administrative staff otherwise occupied and healthcare professionals busy saving lives, entering data without errors may not be a primary concern. |
-| **Managing issues.** |
-| ✅ Limit the amount of data collected. The less data that needs to be entered, the lower the margin of error. |
-| ✅Institute automatic data population. Instead of manually filling out fields, software can be developed to draw data from patient records or lab results. |
-| ✅ Use error flagging. Software can be developed or configured to warn the person entering the data of unusual values \(i.e. an age value over 100\). |
+| Sécurité|
+|---|
+| **Risques**|
+|:warning: Si des données sont recueillies et qu’elles permettent d’identifier quelqu’un, les risques pour la vie privée énoncés précédemment soulèvent également des questions de sécurité. Si les mesures de prévention nécessaires ne sont pas prises, des utilisateurs non autorisés pourraient accéder aux données stockées et des gens pourraient ainsi être incorrectement identifiés. Les données relatives à la santé sont aussi particulièrement sensibles; des précautions particulières doivent donc être prises pour les sécuriser.|
+|**Gestion des risques**|
+|:heavy_check_mark: Assurez-vous du respect des régimes établis. Les provinces peuvent posséder leurs propres régimes législatifs sur les données relatives à la santé, par exemple la Loi sur la protection des renseignements personnels sur la santé (LPRPS) de l’Ontario.|
+|:heavy_check_mark: Instaurez des mesures de respect de la vie privée. De nombreuses solutions en matière de vie privée visant à éliminer les identificateurs permettent aussi de régler les questions de sécurité. |
+|:heavy_check_mark: Gardez les données dans un endroit sécurisé. Si les données ne peuvent pas être rendues anonymes, elles doivent être conservées dans un endroit sûr. Il sera ainsi impossible d’identifier les personnes, sauf sur autorisation.|
+|:heavy_check_mark: Limitez l’accès. Seules les personnes qui ont besoin d’accéder aux données des utilisateurs recueillies doivent pouvoir le faire.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html).|
 
+| Exactitude|
+|---|
+| **Risques**|
+|:warning: Même s’il n’est pas particulièrement difficile de veiller à l’exactitude des données dans le cadre de la surveillance régulière, cela peut devenir beaucoup plus compliqué en plein début de pandémie. Le personnel administratif étant occupé ailleurs et les professionnels de la santé devant sauver des vies, la saisie des données sans erreurs n’est peut-être pas leur préoccupation principale.|
+|**Gestion des risques**|
+|:heavy_check_mark: Limitez la quantité de données recueillies. Moins il y a de données à saisir, moins il y a de marge d’erreur.|
+|:heavy_check_mark: Instaurez la population automatique de données. Plutôt que de compléter à la main les différents champs, des logiciels peuvent être mis au point pour extraire les données des dossiers ou des résultats de laboratoire des patients.|
+|:heavy_check_mark: Utilisez les indicateurs d’erreurs. Des logiciels peuvent être mis au point ou configurés pour avertir la personne qui saisit les données de la présence de valeurs inusitées (p. ex., un âge supérieur à 100 ans).|
