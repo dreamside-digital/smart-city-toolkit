@@ -4,9 +4,6 @@ title: Municipal Administration
 permalink: /municipal-administration
 ---
 
-# Introduction to Municipal Administration
+Les gouvernements municipaux ont les mêmes besoins que n’importe quel autre organisme : gérer l’argent qu’ils perçoivent ou qu’ils dépensent, embaucher et renvoyer des employés et des entrepreneurs, et gérer leurs opérations d’une façon organisée qui réponde aux besoins de leurs communautés et aux exigences des lois qui les régissent. Tout comme n’importe quel autre organisme, les gouvernements municipaux remplissent ces obligations en fournissant des services administratifs (ressources humaines, services juridiques, financiers ou autres) au moyen d’outils technologiques et de données, lesquels peuvent à leur tour engendrer la prestation de nouveaux services administratifs.
 
-Municipal governments face the same needs as other organizations: they must manage the money they receive and spend, hire and fire employees and contractors, and generally manage the enterprise in an organized manner responsive to the needs of their communities and laws under which they operate. Like other organizations, municipal governments meet these demands by provide administrative services such as human resources, legal services, financial services, and other similar services. And, like other organizations, data and technology tools can facilitate the provision of those services or even permit the introduction of new types of administrative services.
-
-To explore smart city solutions and technologies, click any of the links on the sidebar to the left.
-
+Pour explorer les solutions et technologies de la ville intelligente, cliquez sur l'un des liens de la barre latérale à gauche.

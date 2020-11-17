@@ -3,48 +3,44 @@ layout: default
 title: Medical Emergency Response
 permalink: emergency-management/medical-emergency-response
 ---
+# Services : Services d’intervention médicale d’urgence
 
-# Medical Emergency Response
+Tout comme les services d’incendie, les services d’intervention médicale d’urgence actuels doivent composer avec certaines restrictions. Ils doivent toujours attendre qu’une personne les appelle avant d’intervenir. Or, une personne seule qui se blesse ou tombe malade pourrait ne pas être en mesure de composer le 911 avant de perdre conscience. Grâce à la technologie existante, les premiers répondants peuvent adopter une approche plus proactive pour prodiguer des soins plus rapidement et efficacement.
 
-## Service: Medical Emergency Response <a id="service-medical-emergency-response"></a>
+## Applications et solutions : détection des coups de feu
 
-Much like fire services, current medical emergency response services are subject to certain limitations. Someone must always make the call for an emergency medical response, and this is not always possible. In some case, someone who is alone and becomes injured or sick must manually call 911 – something they may not be able to do before they fall unconscious. Using existing technology, it is possible for first responders to take a more proactive approach to rendering medical assistance and get help to people who need it not only faster, but also more efficiently.
+Au fil de la croissance et de l’urbanisation des municipalités, il est possible, malheureusement, que le nombre de blessures causées par balles augmente. Les victimes de crimes violents doivent tenter d’obtenir de l’aide médicale par elles-mêmes ou demander à une autre personne de le faire pour elles. De plus, comme les coups de feu en milieu urbain sont rarement signalés, des victimes risquent de passer entre les mailles du filet même s’il était possible de les sauver.
 
-## Applications and Solutions: Gunshot Detection
-
-As municipalities grow and become more urban, injuries due to gun violence may unfortunately become more common. It is be necessary for victims of violent crime to seek out medical attention on their own or have someone manually seek out medical attention for them. Furthermore, because urban gunfire is typically underreported, victims could potentially fall through the cracks when their lives could have been saved.
-
-Automatic gunshot detection tools do not require third party calls to emergency responders. Instead, they use constant monitoring to dispatch emergency services to precise locations once gunshots have been detected. This improves both reporting of gunshots and emergency response times.
+Les outils de détection automatique des coups de feu ne requièrent aucun appel par un tiers aux services d’urgence. Ils reposent plutôt sur la surveillance constante pour diriger les services d’urgence vers un endroit précis dès que des coups de feu sont détectés. Cela améliore tant le signalement des coups de feu que le délai d’intervention.
 
 ## Technologies
 
-**Audio Gunshot Detection** – Uses multiple sensitive microphones placed in urban areas to detect and triangulate gunfire. When a certain number of microphones picks up the sound of gunfire \(which is confirmed by a central monitoring hub to avoid false positives\), medical first responders are automatically dispatched to the location. Microphones may also be configured to record audio once they detect a weapon being discharged in order to gather evidence.
+**Détection audio des coups de feu** – Utilise plusieurs microphones sensibles placés dans des zones urbaines pour détecter et trianguler les coups de feu. Lorsqu’un certain nombre de microphones détectent le son des coups de feu (qui est confirmé par un centre de surveillance central afin d’éviter les faux positifs), les premiers répondants médicaux sont automatiquement envoyés sur les lieux. Les microphones peuvent également être configurés pour enregistrer l’audio dès qu’un coup de feu est détecté, afin d’obtenir des preuves.
 
-**Optical Gunshot Detection** – Uses multiple cameras to detect the specific light frequency of a muzzle discharge. Like Audio Gunshot Detection systems, when the camera picks up the visual cue of gunfire, medical first responders are automatically dispatched to the location. Cameras may also be configured to record footage once they detect a weapon being discharged in order to gather evidence.
+**Détection optique des coups de feu** – Utilise plusieurs caméras pour détecter la fréquence lumineuse spécifique du feu de bouche d’une arme à feu. Comme pour la détection audio, dès que la caméra détecte les indices visuels d’un coup de feu, les premiers répondants médicaux sont automatiquement dépêchés sur les lieux. Les caméras peuvent également être configurées pour enregistrer la vidéo après avoir détecté un coup de feu afin d’obtenir des preuves.
 
-**Real-time road navigation** – Navigation system apps use real-time data on traffic conditions to show congestion areas and best routes for drivers. These systems can crowdsource data, such as the Waze navigation app, in which users provide data on accidents, street damage, congestion, and road blocks which will allow the app to reroute drivers to the fastest route possible.
+**Navigation routière en temps réel** – Les applications des systèmes de navigation utilisent des données en temps réel sur les conditions de circulation pour signaler aux conducteurs les zones d’embouteillage et les meilleurs itinéraires. À l’instar de l’application de navigation Waze, ces applications utilisent les données fournies par leurs utilisateurs sur les accidents, l’état de détérioration des routes, les embouteillages et les barrages routiers, ce qui leur permet de rediriger les conducteurs vers l’itinéraire le plus rapide.
 
-**Radio Frequency \(RF\) Transmitters and Receivers** – A RF can detect the sound frequency of emergency vehicle sirens within a particular range and send signals to traffic lights’ microcontroller to prioritize traffic flow.
+**Émetteurs et récepteurs de radiofréquences (RF)** – Un système RF peut détecter la fréquence sonore des sirènes des véhicules d’urgence à une certaine distance et envoyer des signaux au microcontrôleur des feux de circulation afin d’ajuster le flux de circulation pour leur donner priorité.
 
-| Privacy |
-| :--- |
-| **Issues.** |
-| ⚠ As with any form of always-on surveillance, continued monitoring of the community could raise issues of privacy. This is especially true if Gunshot Detection systems are configured to begin recording audio or footage after they detect a weapon discharge. |
-| **Managing Issues.** |
-| ✅ Don’t record anything. While the evidence will likely be useful from a crime fighting perspective, recording audio or footage does not actually have any tangible benefit when it comes to medical response. Systems could therefore be configured to only serve the purpose of detecting gunshots, not identifying who fired the weapon. |
-| ✅ Contact Medical Responders first. Gunshot detection is primarily monitored and employed by police services. To de-emphasize invasive policing, medical first responders could administer the system instead, and inform police that a gun discharge had occurred once the victim has been located and attended to. |
-| ✅ Use the technology sparingly. Systems should likely only be considered if underreported gun violence is a genuine issue in the community and a real danger of victims going untreated exists. |
-| ✅ Scrub data of identifying features. Real-time voice modulation or face blurring could be used to anonymize individuals who are picked up by feeds. |
-| ✅ Engage with the community. Prior to installation, absolute transparency should be employed with the community to explain the limitations of the technology and how data will be used. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| Vie privée|
+|---|
+| **Risques**|
+|:warning: Comme pour n’importe quel type de surveillance permanente de la communauté, il peut y avoir des risques pour la vie privée. C’est particulièrement vrai si les systèmes de détection des coups de feu sont configurés pour commencer à enregistrer l’audio ou la vidéo dès qu’une arme s’est déchargée.|
+|**Gestion des risques**|
+|:heavy_check_mark: N’enregistrez rien. Bien que les preuves soient probablement utiles dans le cadre de la lutte au crime, les enregistrements audio ou vidéo ne procurent aucun avantage concret du point de vue de l’intervention médicale. Ces systèmes pourraient donc être configurés uniquement pour détecter les coups de feu, et non pour identifier qui a fait feu.|
+|:heavy_check_mark: Communiquez d’abord avec les services médicaux d’urgence. La détection des coups de feu est surtout utilisée par les services policiers. Afin de diminuer la surveillance policière intrusive, les premiers répondants médicaux peuvent administrer le système et informer la police qu’un coup de feu a été tiré une fois que la victime a été trouvée et prise en charge.|
+|:heavy_check_mark: Utilisez la technologie avec parcimonie. Ces systèmes devraient uniquement être envisagés si les coups de feu non signalés représentent un véritable problème dans la communauté et s’il y a un réel danger que les victimes ne soient pas traitées.|
+|:heavy_check_mark: Supprimez les données qui permettent d’identifier les personnes. La modulation de la voix ou le floutage du visage en temps réel pourrait être utilisé pour rendre anonymes les personnes se trouvant sur les enregistrements. |
+|:heavy_check_mark: Établissez un lien avec la communauté. Avant d’installer ces systèmes, il faut faire preuve d’une transparence absolue avec la communauté et expliquer les limites de la technologie ainsi que la manière dont les données seront utilisées.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippc-ca.github.io/SmartCityToolkit/privacy.html). |
 
-| Security |
-| :--- |
-| **Issues.** |
-| ⚠ If any data is being recorded and anyone can be identified with that data, then the previously outlined privacy issues also raise issues of security. Data that is stored could potentially be accessed by unauthorized users if proper care isn’t taken to prevent it. |
-| **Managing Issues.** |
-| ✅ Institute privacy solutions. Many privacy solutions that seek to strip identifying data will also address issues of security. |
-| ✅ Hold data in a secure location. If data cannot be anonymized, it should be held in a secure location. This ensures individuals cannot be identified by it except in authorized situations. |
-| ✅ Limit access. Any collected audio or footage should only be able to be accessed by those who need to use the information. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
-
+| Sécurité|
+|---|
+| **Risques**|
+|:warning: Si des données sont enregistrées et qu’elles permettent d’identifier quelqu’un, les risques pour la vie privée énoncés précédemment soulèvent également des questions de sécurité. Des utilisateurs non autorisés pourraient accéder aux données stockées si les mesures nécessaires ne sont pas prises.|
+|**Gestion des risques**|
+|:heavy_check_mark: Établissez des solutions en matière de vie privée. De nombreuses solutions en matière de vie privée visant à éliminer les identificateurs permettent aussi de régler les questions de sécurité. |
+|:heavy_check_mark: Conservez les données dans un endroit sûr. Si les données ne peuvent pas être rendues anonymes, elles doivent être conservées dans un endroit sûr. Il sera ainsi impossible d’identifier les personnes, sauf en cas d’autorisation.|
+|:heavy_check_mark: Limitez l’accès. Seules les personnes qui ont besoin d’accéder aux données audio et vidéo recueillies doivent pouvoir le faire.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html).|

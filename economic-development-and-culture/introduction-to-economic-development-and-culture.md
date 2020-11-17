@@ -4,9 +4,6 @@ title: Economic Development and Culture
 permalink: /economic-development-culture
 ---
 
-# Introduction to Economic Development and Culture
+Les municipalités jouent un rôle important pour appuyer les entreprises locales. Elles peuvent mettre en relation les entreprises qui éprouvent des difficultés similaires et faciliter leur coopération, alors qu’elles se seraient autrement considérées comme des concurrentes. Le soutien de la municipalité au développement économique et aux initiatives culturelles peut donc s’avérer crucial.
 
-Municipalities can play an important role in supporting local businesses. Municipalities can occupy an important position linking businesses with common issues and facilitating co-operation among businesses that might otherwise see themselves as competitors. Municipal support of economic development and cultural undertakings can be the difference between success and failure.
-
-**To explore smart city solutions and technologies, click any of the links on the sidebar to the left.**
-
+**Pour explorer les solutions et technologies de la ville intelligente, cliquez sur l’un des liens de la barre latérale à gauche.**
