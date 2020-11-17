@@ -37,5 +37,5 @@ Les outils de ville intelligente peuvent donner aux personnes handicapées un me
 | ✅ Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. |
 | ✅  Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données agrégées et non associées à un lieu, plutôt que sur des données associées à une personne et à un lieu, éviteront les atteintes graves à la vie privée. |
 | ✅ Assurez-vous que les professionnels \(juridiques, médicaux et sociaux\) respectent leurs obligations éthiques et réglementaires. Pour l’intégration de services multidisciplinaires, vérifiez que chaque professionnel respecte les obligations en matière de respect de la vie privée prévues par les lois applicables. Ne fournissez que les renseignements personnels nécessaires à chaque professionnel. |
-| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../../meta-issues/privacy.md). |
 

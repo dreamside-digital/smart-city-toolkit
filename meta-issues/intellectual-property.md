@@ -61,7 +61,7 @@ Bereskin & Parr, [“The Licensing and Commercializing of Intellectual Property�
 
 ### Autres ressources
 
-\[“IP in business transactions: Canada overview”\]\([https://ca.practicallaw.thomsonreuters.com/3-505-4642?transitionType=Default&contextData=\(sc.Default\)&firstPage=true&bhcp=1](https://ca.practicallaw.thomsonreuters.com/3-505-4642?transitionType=Default&contextData=%28sc.Default%29&firstPage=true&bhcp=1)\), \(Practical Law\)
+[“IP in business transactions: Canada overview”](https://ca.practicallaw.thomsonreuters.com/3-505-4642?transitionType=Default&contextData=%28sc.Default%29&firstPage=true&bhcp=1), \(Practical Law\)
 
 * Survol des différents droits liés à la propriété intellectuelle au Canada, l’octroi de permis, la cession de ces droits et autres questions connexes dans un contexte de regroupements d’entreprises.
 

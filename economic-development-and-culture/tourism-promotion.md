@@ -47,7 +47,7 @@ La présence d’enfants dans les parcs et les espaces de loisirs publics rend p
 | ✅ Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. |
 | ✅ Limitez la collecte de données au strict minimum. La collecte d’informations personnelles sensibles ne doit pas être prise à la légère et doit être très bien justifiée. |
 | ✅ Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données de sociétés privées, vérifiez que celles-ci respectent leurs propres obligations en matière de respect de la vie privée en vertu des lois applicables. |
-| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md). |
 
 | Risques pour la sécurité |
 | :--- |
@@ -57,7 +57,7 @@ La présence d’enfants dans les parcs et les espaces de loisirs publics rend p
 | ✅ Bon nombre des solutions aux risques pour la vie privée atténueront aussi les risques pour la sécurité, par exemple l’anonymisation à la source, sinon l’anonymisation dès que possible. Si des renseignements personnels sont recueillis, ils doivent être conservés dans un endroit sûr. |
 | ✅ Des mesures physiques, organisationnelles et technologiques devraient être mises en place pour limiter l’accès aux données à ceux qui en ont besoin. |
 | ✅  Tous les partenaires et entrepreneurs devraient disposer de garanties adéquates selon la sensibilité des informations qu’ils détiennent. |
-| ✅  Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅  Suivez les [pratiques exemplaires en matière de sécurité](../meta-issues/security.md). |
 
 | Risques liés à la propriété intellectuelle |
 | :--- |
@@ -75,5 +75,5 @@ La présence d’enfants dans les parcs et les espaces de loisirs publics rend p
 | ✅ Les solutions applicables aux enjeux de propriété intellectuelle s’appliqueront aussi aux marchés publics, par exemple, la négociation d’entrée de jeu d’accords de licence et de contrats. |
 | ✅ Négociation de la propriété des données et des autres droits relatifs aux données en tant que partie intégrante des conditions d’acquisition et du contrat. |
 | ✅ Le choix de solutions de faible ou de haute technicité dépendra de plusieurs facteurs : a\) L’utilisation prévue. La planification à long terme ou la mesure de référence de l’activité dans la ville peuvent ne pas nécessiter la vitesse, la précision et la capacité de mise à l’échelle qu’offrent les technologies « plus intelligentes ». Celles-ci peuvent toutefois être utiles pour améliorer l’expérience de l’utilisateur grâce à des informations et des fonctionnalités en temps réel; b\) Les technologies qui reposent sur d’autres dispositifs matériels tels que des capteurs peuvent augmenter les coûts initiaux, ainsi que les coûts de maintenance associés aux MPT; c\) Le coût. Les solutions de faible technicité ont tendance à être moins coûteuses à acquérir et à entretenir. |
-| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](../meta-issues/procurement.md). |
 

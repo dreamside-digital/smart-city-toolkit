@@ -35,7 +35,7 @@ Selon les analyses démographiques, seule une partie des résidents exercent leu
 | ✅ Ne recourez pas au traçage. S’il n’est pas nécessaire de consigner les renseignements personnels des électeurs, la municipalité devrait opter pour des outils qui n’associent pas les personnes au contenu. |
 | ✅ Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. |
 | ✅ Utilisez des renseignements ne permettant pas l’identification comme mot de passe pour le vote. Un mot de passe sécurisé figurant sur la carte d’électeur limitera l’utilisation d’information permettant l’identification pendant le scrutin. |
-| ✅  Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅  Suivez les [pratiques exemplaires en matière de protection de la vie privée](../../meta-issues/privacy.md). |
 
 | Fraude électorale |
 | :--- |

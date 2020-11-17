@@ -48,7 +48,7 @@ Les pôles d’innovation fournissent un espace d’incubation dynamique regroup
 | ✅ Accords de licence. Des négociations d’accords de licence ou d’autres ententes concernant la propriété des résultats de l’innovation peuvent être menées lorsque les équipements, les installations ou le personnel de recherche et développement sont fournis par différentes entités publiques et privées. |
 | ✅ Ententes de confidentialité. Lorsque des jeunes pousses développent de nouveaux produits ou services avec d’autres entités dans un pôle d’innovation, des ententes doivent être passées pour garantir la confidentialité de la propriété intellectuelle tout au long du processus de dépôt de marque ou d’obtention de brevet ou de droit d’auteur. |
 | ✅ Partage contractuel de la responsabilité. Le partage de la responsabilité relative à l’application doit être négocié entre la municipalité, les institutions et les autres entités privées et la responsabilité doit être attribuée à toute partie appropriée. |
-| ✅ Examiner attentivement les [risques liés à la propriété intellectuelle](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html). |
+| ✅ Examiner attentivement les [risques liés à la propriété intellectuelle](../meta-issues/intellectual-property.md). |
 
 | Risques liés à l’emploi |
 | :--- |

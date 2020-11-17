@@ -53,5 +53,5 @@ La surveillance directe des incendies permet aux pompiers d’être avertis du d
 | ✅ Ne permettez la communication qu’en cas d’absolue nécessité. Les systèmes devraient être configurés de sorte qu’il ne soit possible d’entendre ce qui se passe à l’autre bout que lorsqu’une alarme a été déclenchée. |
 | ✅  N’autorisez pas du tout la communication. Un délai entre le moment où un signal est reçu et celui où les services d’incendie sont mobilisés pourrait permettre d’appuyer sur un bouton de fausse alerte, par exemple. |
 | ✅ Ne conservez aucune donnée. S’il est nécessaire qu’un microphone soit toujours allumé \(pour donner des commandes vocales\), il est important de ne jamais conserver le signal audio reçu afin d’éviter que des personnes puissent être identifiées. |
-| ✅ Suivez les \[pratiques exemplaires en matière de protection de la vie privée\] \([https://cippc-ca.github.io/SmartCityToolkit/privacy.html](https://cippc-ca.github.io/SmartCityToolkit/privacy.html)\). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md). |
 

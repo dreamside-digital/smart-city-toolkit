@@ -43,8 +43,8 @@ En informatique, la résolution de problème nécessite de la créativité. Les 
 | ✅ Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. |
 | ✅ Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données comme les numéros de vélo ou les cartes de densité de circulation, plutôt que les trajets des cyclistes individuels, éviteront les atteintes graves à la vie privée. |
 | ✅ Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données de sociétés privées, vérifiez que celles-ci respectent leurs propres obligations en matière de respect de la vie privée en vertu des lois applicables. |
-| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
-| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../../meta-issues/privacy.md). |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](../../meta-issues/security.md). |
 
 | Risques liés à la propriété intellectuelle |
 | :--- |
@@ -58,7 +58,7 @@ En informatique, la résolution de problème nécessite de la créativité. Les 
 | ✅ Octroi de licence si une technologie brevetée est requise. |
 | ✅ Garanties et déclarations du droit de propriété ou de non-violation pour éviter des litiges. |
 | ✅ Attribution par contrat à la municipalité, à l’auteur ou à l’utilisateur de la responsabilité découlant de l’utilisation de l’application. |
-| ✅ Voir les [risques liés à la propriété intellectuelle](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html). |
+| ✅ Voir les [risques liés à la propriété intellectuelle](../../meta-issues/intellectual-property.md). |
 
 **Ressources pour les marathons de programmation**
 
