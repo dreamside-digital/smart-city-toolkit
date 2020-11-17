@@ -4,7 +4,9 @@ title: Shelter Management
 permalink: /emergency-management
 ---
 
-# Shelter Management
+# Gestion des refuges
+
+## Services : Gestion des refuges et prestation compartimentée des services
 
 Les municipalités offrent des services de première ligne aux membres les plus vulnérables de la société. On estime qu’entre 200 000 et 300 000 personnes se retrouvent en situation d’itinérance temporaire, de transition et de sans-abrisme chaque année.
 

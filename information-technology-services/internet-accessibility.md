@@ -4,7 +4,9 @@ title: Internet Accessibility
 permalink: /information-technology/internet-accessibility
 ---
 
-# Internet Accessibility
+# Accessibilité à l’Internet
+
+## Services : Meilleure accessibilité à l’Internet
 
 Notre quotidien est de plus en plus dicté par les services en ligne. Tout, depuis les banques avec lesquelles nous faisons affaire, les services gouvernementaux que nous sollicitons, les divertissements que nous consommons, jusqu’aux plateformes que nous utilisons pour communiquer entre nous, nécessite non seulement d’être connecté à l’Internet, mais encore de l’être en permanence. Malheureusement, cette situation peut être très limitante pour ceux qui n’ont pas les moyens d’utiliser un cellulaire pourvu de données mobiles, qui ne comprennent pas comment fonctionne cette technologie ou qui n’y ont tout simplement pas accès, et qui ne peuvent donc pas accéder au Web hors de chez eux. Ce problème affecte encore plus gravement ceux qui n’ont pas l’Internet à la maison et qui se voient contraints d’utiliser le réseau Wi-Fi de leur école, de leur bibliothèque ou d’une entreprise privée pour accéder à un monde devenu presque entièrement virtuel.
 

@@ -4,7 +4,9 @@ title: Library Services
 permalink: /information-technology/library-services
 ---
 
-# Library Services
+# Bibliothèques
+
+## Services : Bibliothèques
 
 Pour beaucoup de gens, les bibliothèques sont la principale source de matériel éducatif accessible et gratuit. Si on n’y trouvait autrefois que des livres, les bibliothèques ont étendu leurs collections au fil du temps et proposent maintenant différents médias, tant pour l’information que pour le divertissement. Souvent, les bibliothèques sont des piliers de la communauté où leurs gens peuvent se réunir pour apprendre de nouvelles habiletés et échanger entre eux. Le fait que les bibliothèques offrent de nouveaux services soulève toutefois une question : comment peuvent-elles faire connaître leur formidable programmation si leurs programmes et services sont offerts par la municipalité et n’ont aucune visibilité au-delà du service des loisirs?
 

@@ -4,7 +4,9 @@ title: Energy Efficient Homes
 permalink: /housing/energy-efficient-homes
 ---
 
-# Energy Efficient Homes
+# Habitations écoénergétiques
+
+## Services : Habitations écoénergétiques
 
 Dans le cadre de leurs engagements en matière de lutte aux changements climatiques, de nombreuses municipalités encouragent les propriétaires à adopter des solutions écoénergétiques pour diminuer la consommation d’énergie et les émissions de gaz à effet de serre \(GES\). Le suivi de ces réductions est nécessaire pour mesurer l’efficacité des cibles municipales.
 

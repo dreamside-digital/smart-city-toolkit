@@ -4,7 +4,7 @@ title: Information Technology Services
 permalink: /information-technology
 ---
 
-# Introduction to Information Technology Services
+# Introduction à l'informatique
 
 Dans notre monde de plus en plus connecté, les données et les services en ligne jouent un rôle nouveau et central dans la vie de personnes de tous horizons. L’accès à Internet revêt une importance croissante, car il leur permet entre autres de rester en contact avec leurs proches et leurs amis, de se déplacer et d’accéder à leur argent. Il ouvre cependant d’autres possibilités au-delà des tâches quotidiennes. En comprenant l’origine des données qui les informent et la façon dont elles sont analysées, synthétisées et transmises, les citoyens et les citoyennes peuvent faire des choix plus réfléchis et éclairés.
 

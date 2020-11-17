@@ -4,7 +4,7 @@ title: Emergency Management
 permalink: /emergency-management
 ---
 
-# Introduction to Emergency Management
+# Introduction à la gestion des services d'urgence
 
 Les services municipaux d’urgence protègent les personnes comme les biens. Parmi ces services, notons les services d’incendie qui limitent les dommages, les services policiers qui luttent contre les crimes et les perturbations, et les services médicaux d’urgence qui nous aident en cas de maladie ou de blessure soudaine. Les applications de ville intelligente peuvent améliorer le fonctionnement des structures existantes et donner lieu à des manières novatrices de fournir les services.
 

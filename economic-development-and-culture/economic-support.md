@@ -4,7 +4,7 @@ title: Economic Support
 permalink: /economic-development-culture/economic-support
 ---
 
-# Economic Support
+# Soutien économique
 
 Les municipalités favorisent le développement économique de leur région en répondant aux besoins des entreprises locales et en soutenant la croissance de nouvelles entreprises. Ce soutien peut prendre diverses formes : mesures de zonage favorables, valorisation des groupes d’affaires locaux, partenariats avec le secteur privé, etc.
 

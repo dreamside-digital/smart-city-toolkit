@@ -4,7 +4,9 @@ title: Creating an Informed Public
 permalink: /information-technology/creating-informed-public
 ---
 
-# Creating an Informed Public
+# Bien informer le public
+
+## Services : Bien informer le public
 
 Tandis que les villes ont de plus en plus recours aux données pour guider leurs décisions en matière de services, de qualité de vie des citoyens et de développement économique, les personnes concernées par ces décisions pourraient devenir étrangères aux données qui les motivent. Pareille abstraction nous éloigne des principes de gouvernance ouverte et d’engagement communautaire démocratique qui permettent au public d’apporter sa précieuse contribution au fonctionnement de sa municipalité.
 

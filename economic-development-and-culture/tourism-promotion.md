@@ -4,7 +4,7 @@ title: Tourism Promotion
 permalink: /economic-development-culture/tourism-promotion
 ---
 
-# Tourism Promotion
+# Promotion du tourisme
 
 Les municipalités jouent un rôle important dans la promotion du tourisme et dans le soutien des services touristiques contribuant à l’économie locale. Elles se positionnent depuis longtemps comme destinations touristiques et, ce faisant, soutiennent les entreprises locales et la création d’emploi. Les municipalités font promotion conjointe d’entreprises qui n’ont pas de liens entre elles et qui sont peu susceptibles d’unir leurs forces, mais qui représentent ensemble la région d’une manière qui profite à tous. Les données et les outils informatiques offrent de nouvelles avenues pour promouvoir le tourisme de proximité auprès des communautés.
 

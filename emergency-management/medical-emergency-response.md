@@ -4,7 +4,7 @@ title: Medical Emergency Response
 permalink: emergency-management/medical-emergency-response
 ---
 
-# Medical Emergency Response
+# Services d’intervention médicale d’urgence
 
 Tout comme les services d’incendie, les services d’intervention médicale d’urgence actuels doivent composer avec certaines restrictions. Ils doivent toujours attendre qu’une personne les appelle avant d’intervenir. Or, une personne seule qui se blesse ou tombe malade pourrait ne pas être en mesure de composer le 911 avant de perdre conscience. Grâce à la technologie existante, les premiers répondants peuvent adopter une approche plus proactive pour prodiguer des soins plus rapidement et efficacement.
 

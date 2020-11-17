@@ -25,31 +25,31 @@
   * [Encourager les résidents à voter](civic-engagement/civic-empowerment/encouraging-residents-to-vote.md)
   * [Marathons de programmation](civic-engagement/civic-empowerment/hackathons.md)
 
-## Economic Development and Culture
+## Développement économique et initiatives culturelles <a id="economic-development-and-culture"></a>
 
-* [Introduction to Economic Development and Culture](economic-development-and-culture/introduction-to-economic-development-and-culture.md)
-* [Tourism Promotion](economic-development-and-culture/tourism-promotion.md)
-* [Economic Support](economic-development-and-culture/economic-support.md)
+* [Introduction au développement économique et initiatives culturelles](economic-development-and-culture/introduction-to-economic-development-and-culture.md)
+* [Promotion du tourisme](economic-development-and-culture/tourism-promotion.md)
+* [Soutien économique](economic-development-and-culture/economic-support.md)
 
-## Emergency Management
+## Gestion des services d'urgence <a id="emergency-management"></a>
 
-* [Introduction to Emergency Management](emergency-management/introduction-to-emergency-management.md)
-* [Fire Response Systems](emergency-management/fire-response-systems.md)
-* [Medical Emergency Response](emergency-management/medical-emergency-response.md)
+* [Introduction à la gestion des services d'urgence](emergency-management/introduction-to-emergency-management.md)
+* [Systèmes d’intervention en cas d’incendie](emergency-management/fire-response-systems.md)
+* [Services d’intervention médicale d’urgence](emergency-management/medical-emergency-response.md)
 
-## Housing
+## Logement <a id="housing"></a>
 
-* [Introduction to Housing](housing/introduction-to-housing.md)
-* [Affordable Housing](housing/affordable-housing.md)
-* [Shelter Management](housing/shelter-management.md)
-* [Energy Efficient Homes](housing/energy-efficient-homes.md)
+* [Introduction au logement](housing/introduction-to-housing.md)
+* [Logement abordable](housing/affordable-housing.md)
+* [Gestion des refuges](housing/shelter-management.md)
+* [Habitations écoénergétiques](housing/energy-efficient-homes.md)
 
-## Information Technology Services
+## Informatique <a id="information-technology-services"></a>
 
-* [Introduction to Information Technology Services](information-technology-services/introduction-to-information-technology-services.md)
-* [Internet Accessibility](information-technology-services/internet-accessibility.md)
-* [Creating an Informed Public](information-technology-services/creating-an-informed-public.md)
-* [Library Services](information-technology-services/library-services.md)
+* [Introduction à l'informatique](information-technology-services/introduction-to-information-technology-services.md)
+* [Accessibilité à l’Internet](information-technology-services/internet-accessibility.md)
+* [Bien informer le public](information-technology-services/creating-an-informed-public.md)
+* [Bibliothèques](information-technology-services/library-services.md)
 
 ## Infrastructure
 

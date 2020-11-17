@@ -4,7 +4,9 @@ title: Affordable Housing
 permalink: /housing/affordable-housing
 ---
 
-# Affordable Housing
+# Logement abordable
+
+## Services : Favoriser les projets de logement abordable
 
 Le coût du logement augmentant partout au Canada, on compte sur les municipalités pour offrir des solutions de logement abordable. On entend par logement abordable un vaste éventail de logements publics subventionnés, de locations privées, de coopératives et de logements à but non lucratif. Le contrôle de l’emplacement et de la conception du parc résidentiel abordable font partie des responsabilités des municipalités en matière de planification et de zonage.
 
