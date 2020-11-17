@@ -1,16 +1,12 @@
 ---
 layout: sidebar-page
-title: Civic Engagement
-permalink: /civic-engagement
+title: Introduction to Civic Engagement
+permalink: /introduction-to-civic-engagement
 ---
+Dans une ville démocratique, la participation civique aux décisions est essentielle. En informant les citoyennes et les citoyens et en les incitant à s’impliquer dans les processus municipaux, on s’assure qu’ils contribuent concrètement à prendre les décisions qui les touchent. Et c’est en donnant à la population les moyens de contribuer au développement de la ville intelligente qu’on peut tirer parti du savoir communautaire. Enfin, les politiques municipales élaborées avec le concours des résidentes et des résidents répondent davantage aux enjeux qui leur tiennent à cœur.
 
-# Introduction to Civic Engagement
+Dans une ville intelligente, l’engagement civique comprend à la fois les relations avec le public, soit les initiatives de la ville visant à nouer le dialogue avec la population, et l’autonomisation civique, soit les moyens que la ville met à la disposition des membres du public pour influencer les dossiers qui leur tiennent à cœur.
 
-Citizen participation in civic decision-making is essential in democratic cities. Involving citizens in municipal decision-making allows for conveying information and helps to ensure meaningful participation of citizens in the decisions that affect them. Community intelligence and knowledge can be harnessed when citizens are empowered to participate and contribute to smart city development. Finally, involving citizens ensures that the policies being created by municipalities are in touch with issues that are important to residents.
+L’engagement civique est l’affaire de toute la municipalité; il résulte autant des fonctions démocratiques fondamentales au cœur de la gouvernance que des décisions prises sur le terrain, là où la population utilise les services municipaux.
 
-In a smart city, civic engagement includes both public outreach, where the city takes the initiative to reach out to members of the public, and civic empowerment, where the city places members of the public in a position to take action in municipal issues that are important to them.
-
-Civic engagement is a responsibility that stretches across the municipality, engaging core democratic functions at the heart of governance but also implicating grassroots-level decision making where people actually use municipal services.
-
-**To explore smart city solutions and technologies, click any of the links on the sidebar to the left.**
-
+**Pour explorer les solutions et technologies de la ville intelligente, cliquez sur l’un des liens de la barre latérale à gauche.**

@@ -4,66 +4,71 @@ title: Hackathons
 permalink: civic-engagement/civic-empowerment/hackathons.html
 ---
 
-# Hackathons
+## Applications : Marathons de programmation
 
-Hacking is creative problem solving. Hackathons, also called codefests or hackfests, are design marathons in which affected citizens, software developers, graphic designers, project managers and others come together for a short period of time to work intensively on a software project designed to meet a particular civic need. The goal of hackathons is usually to produce a functioning software application by the end of the event. Hackathons can engage the public in helping the government solve citizens’ problems. The best have educational workshops running in parallel. Well organized hackathons can strengthen community bonds by welcoming newcomers, providing an opportunity for participants to learn something new about problems they are interested in, and encouraging civic engagement and cooperation.
+En informatique, la résolution de problème nécessite de la créativité. Les marathons de programmation (ou « compétition de codage », ou « hackathon ») sont des épreuves de conception au cours desquelles des citoyens concernés, des développeurs de logiciels, des concepteurs graphiques, des gestionnaires de projets et d’autres personnes unissent leurs efforts dans le but de créer, dans un court laps de temps, un logiciel qui répondra à un besoin précis de la société civile. L’objectif de ces marathons est de créer une application logicielle fonctionnelle avant la fin de l’événement.
+Le public est donc appelé à aider l’État à régler des problèmes qui le touchent. Les meilleurs marathons ont des ateliers de formation en parallèle de l’événement principal. Lorsque bien organisés, ils renforcent l’esprit de communauté en accueillant les débutants, en donnant aux participants l’occasion d’approfondir les sujets qui les intéressent et en encourageant l’engagement civique et la coopération.
 
-**Hackathon Best Practices**
+**Pratiques exemplaires des marathons de programmation**
 
-**Clearly articulated.** Projects should have a clear question or problem they are trying to tackle and a reasonably specific proposed solution.
+**Énoncé clair.** Les projets doivent énoncer clairement la question ou le problème qu’ils cherchent à résoudre et la solution proposée (de façon raisonnablement précise).
 
-**Attainable.** Most projects will likely accomplish less than imagined in the limited time they have. Project goals should be managed so that participants are able to feel sucessful at the end of the session.
+**Réalisme.** Compte tenu du temps limité, la plupart des projets ne permettront pas d’accomplir tout ce qui est souhaité. Il faut gérer les attentes de sorte que les participants aient quand même le sentiment du devoir accompli lorsque tout est terminé.
 
-**Incorporating newcomers.** Projects should have ready-to-go tasks for newcomers with a variety of skills and at a variety of skill levels. For coding projects, these tasks cannot require an intimate understanding of the code base.
+**Accueil des débutants.** Les projets doivent avoir des tâches prêtes à être confiées aux débutants, selon leurs aptitudes et leur niveau de compétence. Pour un projet de programmation, ces tâches ne doivent pas nécessiter une connaissance profonde du code base.
 
-**Small groups of subject matter experts and other participants working together.** Hackathons provide a unique opportunity to bring citizen concerns to the coding and tech community. Multiple small mini-project groups of 4-8 participants should be comprised of a mix of subject matter experts and other participants.
+**Collaboration d’experts en la matière et d’autres participants en petits groupes.** Les marathons de programmation sont une occasion en or de soumettre des problèmes des citoyens aux programmeurs et à la communauté technologique. Il est recommandé de créer des petits groupes de quatre à huit personnes comprenant à la fois des experts et d’autres participants.
 
-**Training and education.** Educational workshops running in parallel to small group projects can help bridge the divide between coders and other citizens, as well as spreading technological fluency to the wider community.
+**Formation et éducation.** Des ateliers de formation, tenus en parallèle des projets en petits groupes, peuvent aider les citoyens à acquérir certaines des compétences des programmeurs experts et à démocratiser la maîtrise des technologies.
 
-**Project leaders.** Each small group should be headed by a subject matter expert. A subject matter expert guides a project to real-world application.
+**Chefs de projet.** Chaque petit groupe doit être dirigé par un expert en la matière, qui guidera le projet vers son application pratique.
 
-**Organized.** The project leader’s role should be to coordinate, ensuring each team member has something to work on and helping to welcome new team members.
+**Organisation.** Le chef de projet doit aussi assurer la coordination, veiller à ce que chaque membre de l’équipe ait quelque chose à faire et participer à l’accueil des recrues.
 
-**Open data.** Successful hackathons require a generous supply of open data available to coders.
+**Données ouvertes.** Un marathon de programmation réussi nécessite une quantité non négligeable de données ouvertes à la disposition des programmeurs.
 
-**Follow up.** One of the ultimate goals of the hackathon should be to create a community around the developed application that endures, post-hackathon: users of course, but also support for the technical needs of the app \(security, data, hosting on a site, etc\).
+**Suivi.** L’un des objectifs des marathons de programmation, c’est de créer une communauté pour l’application qui perdurera au-delà du marathon – une communauté d’utilisateurs, évidemment, mais aussi de personnes qui veilleront au respect des exigences techniques de l’application (sécurité, données, hébergement, etc.).
 
-**Venue/Technical.** An appropriate venue must provide: proper seating, one power strip per table, fast and reliable wifi, a space for presentations including projector and microphone, accessible entrances and wheelchair-friendly seating space, and accessible bathrooms.
+**Installation et équipement.** Le lieu où se déroule le marathon doit avoir assez de places assises, une barre d’alimentation par table, une connexion sans fil rapide et fiable, un espace pour les présentations (avec projecteur et micro) ainsi que des entrées accessibles, des places et des toilettes accessibles pour les personnes en fauteuil roulant.
 
-## Managing Liability Issues
+### Gestion des risques susceptibles d’engager la responsabilité
 
-| Privacy |
-| :--- |
-| **Issues.** |
-| ⚠ Registration data will often contain personal information |
-| ⚠ Privacy issues may also arise with respect to the application developed, as such applications often collect user data for both analytic and personalization purposes. |
-| **Managing Issues**. |
-| ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
-| ✅ Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns. |
-| ✅ Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| Vie privée|
+|---|
+| **Risques**|
+|:warning: Les données d’inscription contiennent fréquemment des renseignements personnels |
+|:warning: L’application développée peut poser des risques pour la vie privée; souvent, ces applications recueillent des données sur les utilisateurs à des fins d’analyse ou de personnalisation.|
+|**Gestion des risques**|
+|:heavy_check_mark: Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible.|
+|:heavy_check_mark: Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données comme les numéros de vélo ou les cartes de densité de circulation, plutôt que les trajets des cyclistes individuels, éviteront les atteintes graves à la vie privée.|
+|:heavy_check_mark: Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données de sociétés privées, vérifiez que celles-ci respectent leurs propres obligations en matière de respect de la vie privée en vertu des lois applicables.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html).|
 
-| Intellectual Property Issues |
-| :--- |
-| **Issues.** |
-| ⚠ Legal authorship of apps will lie with their authors, as these authors are not employees of the municipality. |
-| ⚠ As such, allocating liability resulting from use of the app in question could be contentious. |
-| ⚠ Data partnerships between public entities and private companies raise complex issues of who owns the data that results from them. |
-| **Managing Issues** |
-| ✅ Contractual licensing or assigning of copyright of the hackathon-produced app and resulting data to the municipality if the municipality is not the sole producer or analyzer of the data. |
-| ✅ Licensing of the technology if it is patentable. |
-| ✅ Licensing if use of a trademarked technology is necessary. |
-| ✅ Warranties and representations of ownership and/or non-infringement to avoid future disagreements. |
-| ✅ Contractually allocating liability arising from app use to either the municipality, the author or the user. |
-| ✅ See also: [intellectual property issues](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html). |
+| Risques liés à la propriété intellectuelle|
+|---|
+| **Risques**|
+|:warning: Du point de vue juridique, l’application est l’œuvre de ses auteurs, étant donné qu’ils ne sont pas des employés de la municipalité. |
+|:warning: L’attribution de la responsabilité découlant de l’utilisation de l’application pourrait donc être sujet de litige.|
+|:warning: Il est souvent difficile de déterminer à qui appartiennent les données résultant d’un partenariat entre un organisme public et une société privée. |
+|**Gestion des risques**|
+|:heavy_check_mark: Octroi de licence ou cession des droits d’auteur par contrat à la municipalité sur l’application du marathon de programmation et des données afférentes si la production ou l’analyse des données ont été réalisées avec d’autres parties.|
+|:heavy_check_mark: Octroi de licence pour la technologie si elle est brevetable.|
+|:heavy_check_mark: Octroi de licence si une technologie brevetée est requise.|
+|:heavy_check_mark: Garanties et déclarations du droit de propriété ou de non-violation pour éviter des litiges.|
+|:heavy_check_mark: Attribution par contrat à la municipalité, à l’auteur ou à l’utilisateur de la responsabilité découlant de l’utilisation de l’application.|
+|:heavy_check_mark: Voir les [risques liés à la propriété intellectuelle](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html).|
 
-**Hackathon Resources**
+**Ressources pour les marathons de programmation**
 
-* Joshua Tauberer, “How to Run a Successful Hackathon” \(Creative Commons License, 2014\); online: [https://hackathon.guide](https://hackathon.guide).
-* An often-cited and accessible how-to guide for running inclusive, civic-minded hackathons. Some of the advice applies to event-planning more generally and seems geared toward first-time event hosts; e.g. the venue must have sufficient bathroom facilities; if providing food, accommodate a range of dietary restrictions, etc. The hackathon-specific advice, however, is precise, practical and grounded in real-world experience.
-* Major League Hacking, “Hackathon Organizer Guide” \(Creative Commons License, \); online: [https://guide.mlh.io](https://guide.mlh.io).
-* Major League Hacking’s “Organizer Guide” consists of a series of articles for organizers to consult in the months leading up to the event. Article subject range from “Build a Killer Leadership Team” to “Setup a Placeholder Website” to “Keep Hackers Motivated”.
-* “Do Better At Conference Diversity” \(Open Source Creative Commons License\); online: [http://conference.hopper.org.nz](http://conference.hopper.org.nz).
-* A New Zealand-based, open source guide to promoting greater diversity at conferences and hackathons. A practical guide that provides advice on speaker selection, t-shirt design, accessibility, and team diversity training, among many other topics.
+* Joshua Tauberer, « How to Run a Successful Hackathon » (licence Creative Commons, 2014); en ligne : https://hackathon.guide.
 
+* Fréquemment cité, ce guide accessible traite de la gestion de marathons de programmation citoyens et inclusifs. Certains des conseils portent sur la planification d’événement en général et visent surtout les organisateurs qui en sont à leur premier événement (p. ex., il doit y avoir suffisamment de toilettes; si vous fournissez la nourriture, assurez-vous de tenir compte des restrictions alimentaires). Cependant, il propose aussi des conseils propres aux marathons de programmation qui sont précis, pratiques et reposent sur une expérience concrète.
+
+* Major League Hacking, « Hackathon Organizer Guide » (licence Creative Commons); en ligne : https://guide.mlh.io.
+
+* Ce guide consiste en une série d’articles que les organisateurs peuvent consulter dans les mois précédant la tenue de leur événement. On y explique notamment comment monter une équipe de direction du tonnerre, créer un site Web temporaire et motiver les programmeurs.
+
+* « Do Better At Conference Diversity » (licence Creative Commons); en ligne : http://conference.hopper.org.nz.
+
+* Un guide de source ouverte néo-zélandais sur la promotion de la diversité dans les congrès et les marathons de programmation. Pratique, il propose des conseils sur le choix des conférenciers, la conception des t-shirts, l’accessibilité et sur les formations d’équipe en matière de diversité, entre autres.

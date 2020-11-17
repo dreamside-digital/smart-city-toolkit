@@ -4,37 +4,34 @@ title: Improving Access to Townhall Meetings
 permalink: civic-engagement/civic-empowerment/improving-access-to-townhall-meetings.html
 ---
 
-# Improving Access to Townhall Meetings
+## Application : Améliorer l’accès aux assemblées publiques
 
-Improving access to decision makers may empower citizens in participating in government decisions. Ordinarily, a resident would have to take active steps, such as attending townhall meetings, to voice issues on top of their regular roles in their community. Townhall meetings occur in particular locations, at specific times, and are only accessible to a select few, with the result that anyone who is unable to attend townhall is unable to voice their concerns. As a result, the townhall may be a misrepresentation of the residents in the municipality.
+En leur donnant un meilleur accès aux décideurs, nous pouvons aider les citoyens à participer aux décisions municipales. En plus du rôle qu’il assume habituellement dans la communauté, un résident doit généralement prendre activement des mesures, comme participer à une assemblée publique, pour faire entendre son opinion. Les assemblées publiques ont lieu à un endroit et à un moment donnés, et sont seulement accessibles à certaines personnes. Celles qui sont incapables d’y assister ne peuvent donc pas donner leur avis. Par conséquent, ces assemblées ne reflètent pas toujours les résidents de la municipalité.
 
-Improving access to townhall meetings is one way that smart cities can boost civic engagement. While physical attendance may not be possible, smart city tools may allow virtual participation to balance out representation in townhall.
+En améliorant l’accès aux assemblées publiques, une ville intelligente peut stimuler l’engagement civique. Les outils de ville intelligente permettent la participation virtuelle aux assemblées, assurant une représentation citoyenne plus équilibrée.
 
-## Technologies
+### Technologies
 
-* Recording in-person meetings. Audio or video recordings may be hosted on the municipality’s website so residents who cannot attend in-person town halls may still be appraised of issues and discussions. 
-* Soliciting Agendas Online. Allowing for community input into town hall agendas before they are held ensures that they address topical subjects relevant to community interests.
-* Livestreaming meetings with live chat. Members who are unable to commute to meetings can participate in townhall activities through virtual participation. Text-based input may be advisable to prevent issues of latency – in-person representatives may monitor chats to ensure questions are answered and issues are raised.
-* Mobile kiosks. Placing townhall kiosks in areas with lower resident participation may provide unrepresented residents with an opportunity to voice their concerns.
-* Social media outreach. A large number of municipal residents already engage with social media on a regular basis. Hosting town hall discussions on social media apps can allow for greater participation in municipal decisions from demographics such as young adults. 
+* Enregistrement des assemblées en personne. Grâce à des enregistrements audio ou vidéo publiés sur le site Web de la municipalité, les résidents qui n’ont pas pu assister aux assemblées peuvent se tenir au fait des enjeux et des discussions.
+* Proposition de points à l’ordre du jour en ligne. En permettant à la population de proposer des points à l’ordre du jour, on s’assure que les assemblées abordent des sujets d’intérêt pour la communauté.
+* Webdiffusion en direct des assemblées avec fonction de clavardage. Les citoyens qui ne peuvent pas assister en personne aux assemblées peuvent y participer virtuellement. La participation par clavardage est recommandée pour éviter les latences. Des représentants sur place pourront superviser le clavardage pour s’assurer qu’on réponde aux questions et qu’on soulève les enjeux.
+* Kiosques mobiles. Un kiosque placé dans un quartier où la participation citoyenne est faible peut donner aux résidents l’occasion de faire entendre leurs opinions.
+* Participation par les médias sociaux. La majorité des résidents consultent régulièrement des médias sociaux. La tenue de discussions sur ces réseaux incitera certaines catégories de la population, comme les jeunes adultes, à participer davantage aux décisions municipales.
 
-## Managing Liabilities
+### Gestion des risques
 
-| Privacy |
-| :--- |
-| **Issues.** |
-| ⚠ When participating in townhall meetings, it is essential to identify the resident as well as their opinion. However, this can create difficulties for residents who wish to remain anonymous. On the other hand, anonymous comments prevent verification of resident status. |
-| **Managing Issues**. |
-| ✅ De-identify at the source. Many tools allow for engagement without collecting personal information. Doing so at the source helps prevent privacy issues from cropping up later. |
-| ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. While the municipality may require identifying information to verify resident status, residents should still be able to post questions anonymously. |
+| Vie privée|
+|---|
+| **Risques**|
+|:warning: Il est essentiel d’identifier un résident qui participe à une assemblée publique, ainsi que son opinion. Cela peut cependant rebuter les résidents qui préfèrent garder l’anonymat. Or, un commentaire anonyme ne permet pas de confirmer le statut de résident.|
+|**Gestion des risques**|
+|:heavy_check_mark: Anonymisez à la source. Bon nombre d’outils peuvent faciliter l’engagement sans recueillir de renseignements personnels. L’anonymisation à la source peut prévenir les atteintes à la vie privée.|
+|:heavy_check_mark: Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. Même si la municipalité a besoin de certains renseignements pour valider le statut de résident, une personne doit quand même pouvoir poser une question en gardant l’anonymat.|
 
-| Disproportionate Representation |
-| :--- |
-| **Issues**. |
-| ⚠ Selecting a time for everyone to participate in townhall as well as unreliable access to internet can create disproportionate representation during townhall meetings. |
-| **Managing Issues**. |
-| ✅ Free municipal WIFI will assist individuals lacking access to reliable internet. |
-| ✅ Holding virtual office hours. Residents unable to attend townhall meetings may participate during office hours so their voices are taken into account. |
-
-
-
+| Représentation disproportionnée|
+|---|
+|**Risques**|
+|:warning: L’impossibilité de tenir une assemblée à un moment où tout le monde peut y participer et le manque d’accès à Internet peuvent donner lieu à une représentation disproportionnée des résidents. |
+|**Gestion des risques**|
+|:heavy_check_mark: L’offre par la ville d’un réseau Wi-Fi gratuit facilitera l’accès à Internet. |
+|:heavy_check_mark: En tenant des heures de bureau virtuelles, on permettra aux résidents qui ne peuvent pas assister aux assemblées de faire entendre leurs opinions.|

@@ -4,42 +4,41 @@ title: Encouraging Residents to Vote
 permalink: civic-engagement/civic-empowerment/encouraging-residents-to-vote.html
 ---
 
-# Encouraging Residents to Vote
+## Application : Encourager les résidents à voter
 
-Voting demographics show that only a subset of residents end up voting. This can be an issue as individuals who are unable to travel to vote are unable to represent their voices. Smart city tools can encourage residents to exercise their democratic right to vote on variety of municipal issues and candidates regardless of whether they can physically access polls.
+Selon les analyses démographiques, seule une partie des résidents exercent leur droit de vote. Cela peut poser problème puisque les personnes qui ne peuvent pas se déplacer pour voter ne font pas entendre leur opinion. Les outils de ville intelligente peuvent aider les résidents à exercer leur droit démocratique de se prononcer sur un éventail de questions municipales et de candidats, peu importe s’ils peuvent se rendre physiquement aux urnes.
 
-## Technologies
+### Technologies
+* Des portails de vote en ligne peuvent faire participer les résidents aux décisions municipales quotidiennes, où qu’ils soient.
+* Des campagnes sur les médias sociaux et les sites Web municipaux visant à encourager le vote peuvent sensibiliser les jeunes.
+* Des messages textes peuvent être envoyés automatiquement aux utilisateurs de téléphone cellulaire ayant un indicatif régional donné pour leur rappeler de voter.
+* On peut se tourner vers les applications de covoiturage pour transporter les résidents qui n’ont pas accès à un bureau de scrutin.
 
-* Online voting portals can involve residents in everyday municipal decisions from anywhere.
-* Engage in campaigns. Campaigns on social media and municipal websites to encourage voting can raise awareness among youth demographics.
-* Send voting reminders. Automated text messages can be sent to cell phone users with certain area codes to remind them to vote.
-* Rideshare applications. Providing transit for residents who do not have access to a voting centre can encourage residents from voting.
+### Risques
 
-## Liabilities
 
-| Digital literacy as a prerequisite for voting |
-| :--- |
-| **Issues.** |
-| ⚠ In order to navigate an online voting system, residents will require some level of digital literacy. Due to lack of digital literacy or mistrust of technology, some residents may be discouraged from voting. |
-| **Managing Issues** |
-| ✅ Texting Voting Instructions. Residents should receive information on how to vote online prior to election day. |
-| ✅ Keeping Alternative Forms of Voting Open. Residents who do not wish to participate in online voting should still have to option to vote in person. |
+| Littératie numérique essentielle au vote|
+|---|
+| **Risques**|
+|:warning: Pour utiliser un système de vote en ligne, les résidents devront présenter un certain niveau de littératie numérique. Ceux qui n’en ont pas ou qui se méfient des technologies pourraient hésiter à voter.|
+|**Gestion des risques**|
+|:heavy_check_mark: Envoyez les directives par message texte. Les résidents devraient recevoir la marche à suivre pour voter en ligne avant la journée du scrutin.|
+|:heavy_check_mark: Conservez les autres modes de scrutin. Le vote en personne doit continuer d’être offert aux résidents qui ne veulent pas voter en ligne.|
 
-| Privacy |
-| :--- |
-| **Issues.** |
-| ⚠ Online voting systems often collect personal information of the voter as well as information on who they voted for. |
-| **Managing Issues.** |
-| ✅ Don’t track.  If it is unnecessary to track voters’ personal information, then the municipality should employ tools that don’t associate individuals with content. |
-| ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
-| ✅ Use non-identifying information as password to voting. Create a secure password on the resident’s voting card limiting the use of identifying information during the actual vote. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| Vie privée|
+|---|
+| **Risques**|
+|:warning: Les systèmes de vote en ligne recueillent souvent des renseignements personnels sur les électeurs, ainsi que sur leur vote.|
+| **Gestion des risques**|
+|:heavy_check_mark: Ne recourez pas au traçage. S’il n’est pas nécessaire de consigner les renseignements personnels des électeurs, la municipalité devrait opter pour des outils qui n’associent pas les personnes au contenu. |
+|:heavy_check_mark: Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible.|
+|:heavy_check_mark: Utilisez des renseignements ne permettant pas l’identification comme mot de passe pour le vote. Un mot de passe sécurisé figurant sur la carte d’électeur limitera l’utilisation d’information permettant l’identification pendant le scrutin. |
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
 
-| Voter Fraud |
-| :--- |
-| **Issues.** |
-| ⚠ If the online voting system is compromised or hacked, votes may be changed or destroyed compromising the integrity of the election. |
-| **Managing Issues**. |
-| ✅ Blockchain voting. Decentralized voting systems where a vote is permanently recorded on blockchain can create a secure online voting system. |
-| ✅ Facial and Voice Recognition Voter Confirmation. Using a camera and microphone to verify the resident’s identity via facial recognition and voice recognition technology can prevent voter fraud. |
-
+| Fraude électorale|
+|---|
+| **Risques**|
+|:warning: Si le système de vote en ligne était compromis ou piraté, des votes pourraient être modifiés ou détruits, ce qui porterait atteinte à l’intégrité de l’élection. |
+|**Gestion des risques**|
+|:heavy_check_mark: Proposez le vote par chaîne de blocs, soit un système décentralisé de vote en ligne qui prévoit l’enregistrement permanent des votes dans une chaîne de blocs.|
+|:heavy_check_mark: À l’aide d’une caméra, d’un microphone et des technologies de reconnaissance faciale et vocale, vous pouvez confirmer l’identité d’un résident, ce qui prévient les fraudes.|

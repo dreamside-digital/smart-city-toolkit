@@ -4,14 +4,12 @@ title: Public Outreach
 permalink: civic-engagement/public-outreach
 ---
 
-# Public Outreach
+# Services : Relations avec le public
 
-The smart city can promote civic engagement by reaching out to members of the public to encourage participation in civic decision-making. Examples of common municipal public outreach initiatives include public hearings, surveys, and advertising. However, if there is insufficient public outreach, residents may not hear about the types of services that a municipality offers. This may lead to consequences such as a municipality only serving the interests of select members of a community. Smart city tools can resolve these problems by making municipal services and information more accessible to residents unreachable via regular channels.
+La ville intelligente noue un dialogue avec les membres du public pour les encourager à participer à la prise de décisions, favorisant ainsi l’engagement civique. Parmi les initiatives municipales de relations avec le public les plus communes, notons les audiences publiques, les sondages et la publicité. Si ces initiatives sont insuffisantes, certaines personnes pourraient ne pas être informées des services offerts par la municipalité. Ainsi, seuls les intérêts de certains membres de la population seraient servis. Les outils de ville intelligente peuvent régler ce problème en facilitant l’accès aux renseignements et aux services municipaux pour les personnes injoignables par les moyens habituels.
 
-We'll look at two public outreach applications: 
+Nous examinerons deux applications des relations avec le public :
+1. La sensibilisation de la population locale à la sécurité dans les rues
+2. Les relations avec les personnes handicapées
 
-1. Educating neighbourhoods on safe street practices, and 
-2.  Outreach to the disability community.
-
-**To explore smart city solutions and technologies, click any of the links on the sidebar to the left.**
-
+**Pour explorer les solutions et technologies de la ville intelligente, cliquez sur l’un des liens de la barre latérale à gauche.**

@@ -4,36 +4,34 @@ title: Outreach to the Disability Community
 permalink: civic-engagement/public-outreach/outreach-to-the-disability-community.html
 ---
 
-# Outreach to the Disability Community
+## Application : Les relations avec les personnes handicapées
 
-Persons with disabilities face multiple layers of marginalization and require specific services to participate in civic decision-making. Municipalities often offer such services within departmental silos—social workers operate separately from legal professionals, who are far removed from healthcare.
+Les personnes handicapées sont marginalisées à bien des égards. Des services précis sont essentiels à leur participation à la prise de décisions municipale. Or, les municipalités offrent souvent ces services en silo : les travailleurs sociaux exercent leurs activités indépendamment des professionnels juridiques, qui n’ont rien à voir avec les soins de santé.
 
-Smart city tools can bridge access to the disability community by making municipal services accessible. Access to services remotely will encourage and facilitate participation by citizens who previously faced barriers in accessing municipal services. This will allow the municipality to consider the multi-layered issues faced by the disability community and improve the entire community’s access to municipal services.
+Les outils de ville intelligente peuvent donner aux personnes handicapées un meilleur accès aux services municipaux. En offrant ces services à distance, la municipalité encourage et facilite la participation des citoyennes et citoyens qui ont auparavant rencontré des obstacles. Elle prend ainsi en compte les enjeux pluridimensionnels auxquels sont confrontées les personnes handicapées, et améliore l’accès aux services pour toute la communauté.
 
-## Technologies
+### Technologies
 
-**Free municipal WIFI.** Municipalities cannot use smart city tools to reach the disability community if residents lack access to the internet. Adding WIFI routers to public areas that are accessible to the disability community will improve online access to services.
+**Wi-Fi gratuit.** Les municipalités ne peuvent joindre les personnes handicapées à l’aide des outils de ville intelligente si ces personnes n’ont pas accès à Internet. En offrant le Wi-Fi dans les espaces publics accessibles aux personnes handicapées, celles-ci pourront plus facilement utiliser les services en ligne.
 
-**Digital accessibility maps.** Municipal maps driven by resident-contributed data can rate the accessibility of different areas in the municipality. Residents will have access to information on accessibility such as whether a particular location has a ramp, braille text, and automatic doors.
+**Cartes numériques de l’accessibilité.** Des cartes de la ville peuvent être établies selon les données fournies par les résidents, qui auront évalué l’accessibilité de différents endroits. En consultant ces cartes, on saura si un édifice donné est doté par exemple d’une rampe, de panneaux en braille ou de portes automatiques.
 
-**Service delivery telephone systems.** Residents may dial in for information on municipal services such as transportation, request accommodations for public events, and be updated on changes to municipal disability policies.
+**Système téléphonique de prestation des services.** En composant un numéro, les résidents peuvent obtenir de l’information sur des services municipaux comme les transports, demander des mesures d’adaptation pour des événements publics et être avisés des changements aux politiques qui les touchent.
 
-**Customer Service Applications.** Designing applications that combine multidisciplinary professional services \(legal, medical, or social\) can resolve the multi-layered issues people with disability face without having to redirect the resident to a variety of services. The application can screen an issue and identify what type of professional the resident needs. These applications can also assist the wider resident community as anyone can utilize this service.
+**Applications de service à la clientèle.** Des applications alliant des services professionnels multidisciplinaires (juridiques, médicaux, sociaux) peuvent résoudre les enjeux pluridimensionnels auxquels sont confrontées les personnes handicapées, sans qu’elles aient à solliciter un éventail de services. Une telle application peut analyser un enjeu et déterminer le type de professionnel dont a besoin la résidente ou le résident. Elle pourra également être utile à d’autres résidents, puisque tout le monde y a accès.
 
-## Managing Liabilities
+### Gestion des risques
 
-| Privacy |  |
-| :--- | :--- |
-| **Issues.** |   |
-| ⚠ Using public WIFI provided by the municipality to complete personal tasks may risk breach of an individual’s personal information. |  |
-| ⚠ Some provinces have passed provincial health privacy legislation, such as Ontario’s Personal Health Information Act, 2004,  to protect sensitive health information. Such data should only be accessible to certain types of professionals. Legal professionals, healthcare professionals, and social workers have different ethical obligations towards their clients that must be taken into account when integrating services. If confidential information relating to a person’s health is disclosed to third parties, it may lead to discrimination. |  |
-| **Managing Issues** |  |
-| ✅ Inform users of privacy issues pertaining to public WIFI. Include a disclaimer so residents are aware of the risks they take when they use public WIFI. |  |
-| ✅ Use VPNs. Include access to a free VPN to assist residents with tasks involving personally identifying information. |  |
-| ✅ Don’t track.  Civic engagement tools don’t necessarily need to track identities.  Employ tools that don’t associate individuals with content. |  |
-| ✅ De-identify at the source. Many tools allow for engagement without collecting personal information. Doing so at the source helps prevent privacy issues from cropping up later. |  |
-| ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |  |
-| ✅ Limit data collection to only that which is needed.  Data collection strategies aggregate engagement numbers and location-less data collection rather than individual-specific engagement locales avoid engaging more serious privacy concerns. |  |
-| ✅ Ensure that individual professionals \(legal, medical, or social\) are following their ethical and regulatory obligations. When integrating multidisciplinary services, ensure that each professional is upholding their privacy obligations under relevant legislation. Only provide necessary personal information on the resident to each professional. |  |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |  |
-
+| Vie privée|
+|---|
+| **Risques**|
+|:warning: En utilisant un réseau Wi-Fi public offert par la municipalité à des fins personnelles, on peut compromettre ses renseignements personnels.|
+|:warning: Certaines provinces ont adopté des lois pour protéger les renseignements personnels sur la santé, comme la *Loi de 2004 sur la protection des renseignements personnels sur la santé* de l’Ontario. Seuls certains professionnels ont droit d’accéder à ces renseignements. Les professionnels juridiques, les professionnels de la santé et les travailleurs sociaux ont tous différentes obligations éthiques envers leurs clients, lesquelles doivent être prises en compte pour l’intégration de ces services. Si des renseignements confidentiels sur la santé d’une personne étaient divulgués à des tiers, il pourrait en résulter de la discrimination.|
+|**Gestion des risques**|
+|:heavy_check_mark: Informez les utilisateurs des risques pour la vie privée que pose la connexion à un réseau Wi-Fi public. Avisez-les de ces risques au moyen d’une mise en garde. |
+|:heavy_check_mark: Utilisez un réseau privé virtuel (VPN). Donnez aux résidents accès à un VPN gratuit pour accomplir les tâches qui supposent la communication de renseignements personnels.|
+|:heavy_check_mark: Ne recourez pas au traçage. Il n’est pas nécessaire que les outils d’engagement civique tracent les utilisateurs. Optez pour des outils qui n’associent pas les personnes au contenu. |
+|:heavy_check_mark: Anonymisez à la source. Bon nombre d’outils peuvent faciliter l’engagement sans recueillir de renseignements personnels. L’anonymisation à la source peut prévenir les atteintes à la vie privée.|
+|:heavy_check_mark: Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. |:heavy_check_mark: Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données agrégées et non associées à un lieu, plutôt que sur des données associées à une personne et à un lieu, éviteront les atteintes graves à la vie privée.|
+|:heavy_check_mark: Assurez-vous que les professionnels (juridiques, médicaux et sociaux) respectent leurs obligations éthiques et réglementaires. Pour l’intégration de services multidisciplinaires, vérifiez que chaque professionnel respecte les obligations en matière de respect de la vie privée prévues par les lois applicables. Ne fournissez que les renseignements personnels nécessaires à chaque professionnel.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
