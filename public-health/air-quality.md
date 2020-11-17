@@ -31,20 +31,20 @@ Les rapports sur la qualité de l’air au début de la journée peuvent aider �
 | Fiabilité et coût |
 | :--- |
 | **Risques** |
-| :warning: Plus un appareil d’analyse de la qualité de l’air est fiable et précis, plus il coûte cher. En outre, lorsqu’il y a peu de pollen, les technologies automatisées ou intelligentes utilisées pour déterminer la répartition géographique du pollen sont généralement moins précises que les autres outils d’analyse de l’air. |
+| ⚠ Plus un appareil d’analyse de la qualité de l’air est fiable et précis, plus il coûte cher. En outre, lorsqu’il y a peu de pollen, les technologies automatisées ou intelligentes utilisées pour déterminer la répartition géographique du pollen sont généralement moins précises que les autres outils d’analyse de l’air. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Répartissez les coûts. Le coût du service pourrait être réparti de manière uniforme dans la population grâce à des mécanismes tels que les taxes foncières ou les frais de services publics. |
-| :heavy\_check\_mark: Utilisez les initiatives existantes. Certaines organisations privées font déjà leur propre analyse de la qualité de l’air; les municipalités peuvent envisager de collaborer avec elles ou d’utiliser les données qu’elles publient. |
-| :heavy\_check\_mark: Faites appel au public. Pour réduire les coûts de prélèvement, les données du public sur l’emplacement des arbres et des plantes peuvent contribuer à la surveillance intelligente du pollen. |
-| :heavy\_check\_mark: Améliorez la précision grâce aux données historiques. Les données actuelles peuvent être comparées aux tendances émergeant des données historiques afin d’améliorer la précision et de relever les possibles erreurs de lecture. |
+| ✅ Répartissez les coûts. Le coût du service pourrait être réparti de manière uniforme dans la population grâce à des mécanismes tels que les taxes foncières ou les frais de services publics. |
+| ✅ Utilisez les initiatives existantes. Certaines organisations privées font déjà leur propre analyse de la qualité de l’air; les municipalités peuvent envisager de collaborer avec elles ou d’utiliser les données qu’elles publient. |
+| ✅ Faites appel au public. Pour réduire les coûts de prélèvement, les données du public sur l’emplacement des arbres et des plantes peuvent contribuer à la surveillance intelligente du pollen. |
+| ✅ Améliorez la précision grâce aux données historiques. Les données actuelles peuvent être comparées aux tendances émergeant des données historiques afin d’améliorer la précision et de relever les possibles erreurs de lecture. |
 
 | Inclusion |
 | :--- |
 | **Risques** |
-| :warning: Si les technologies présentées ici sont excellentes pour collecter des données sont se serviront les municipalités, il faut quand même communiquer ces données en temps réel au public pour les rendre utiles. |
+| ⚠ Si les technologies présentées ici sont excellentes pour collecter des données sont se serviront les municipalités, il faut quand même communiquer ces données en temps réel au public pour les rendre utiles. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Créez des portails Web. Les sites Web existants de la municipalité peuvent servir à afficher les niveaux actuels de pollution et de pollen et à les comparer aux données historiques. |
-| :heavy\_check\_mark: Envoyez des notifications. La municipalité peut envoyer une alerte \(par SMS ou par courriel\) avec un lien vers les données en temps réel à ceux et celles qui le veulent. |
-| :heavy\_check\_mark: Privilégiez les méthodes accessibles. Certaines méthodes de mesure de la pollution ou de la teneur en pollen n’exigeant pas de test \(comme la surveillance intelligente\) peuvent être utilisées pour faciliter l’accès aux données en temps réel. |
-| :heavy\_check\_mark: Combinez les technologies. Pour obtenir des données fiables rapidement, la redondance est essentielle. Certains systèmes \(comme les tests quotidiens de pollution ou de pollen et la surveillance intelligente\) peuvent être utilisés simultanément pour collecter des données en temps réel qui sont accessibles et vérifiables. |
+| ✅ Créez des portails Web. Les sites Web existants de la municipalité peuvent servir à afficher les niveaux actuels de pollution et de pollen et à les comparer aux données historiques. |
+| ✅ Envoyez des notifications. La municipalité peut envoyer une alerte \(par SMS ou par courriel\) avec un lien vers les données en temps réel à ceux et celles qui le veulent. |
+| ✅ Privilégiez les méthodes accessibles. Certaines méthodes de mesure de la pollution ou de la teneur en pollen n’exigeant pas de test \(comme la surveillance intelligente\) peuvent être utilisées pour faciliter l’accès aux données en temps réel. |
+| ✅ Combinez les technologies. Pour obtenir des données fiables rapidement, la redondance est essentielle. Certains systèmes \(comme les tests quotidiens de pollution ou de pollen et la surveillance intelligente\) peuvent être utilisés simultanément pour collecter des données en temps réel qui sont accessibles et vérifiables. |
 

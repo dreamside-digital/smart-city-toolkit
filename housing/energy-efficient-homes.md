@@ -41,38 +41,38 @@ La modélisation énergétique permet de s’assurer qu’un bâtiment respecte 
 | Vie privée |
 | :--- |
 | **Risques** |
-| :warning: Tenez compte du niveau de renseignements personnels qui sont recueillis et partagés. Les données sur les services publics ne sont pas de nature personnelle, sauf si elles sont associées à des renseignements personnels comme l’adresse ou les coordonnées du client. |
+| ⚠ Tenez compte du niveau de renseignements personnels qui sont recueillis et partagés. Les données sur les services publics ne sont pas de nature personnelle, sauf si elles sont associées à des renseignements personnels comme l’adresse ou les coordonnées du client. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Dépersonnalisez et agrégez les données sur l’énergie avant de les partager avec les différentes agences, afin de protéger la vie privée. |
-| :heavy\_check\_mark: Recueillez des données, mais ne surveillez pas les maisons. Recueillez des échantillons de données pouvant être utilisés pour trouver les solutions en matière d’efficacité; la collecte continue de données risque de révéler les activités personnelles et peut être perçue comme de la surveillance énergétique. |
-| :heavy\_check\_mark: Choisissez la technologie appropriée. L’utilisation de solutions passives, de faible technicité, peut être préférable aux solutions très techniques après la construction, qui sont moins efficaces et portent davantage atteinte à la vie privée. |
-| :heavy\_check\_mark: Floutage des données. Utilisez des techniques de floutage des données. Par exemple, n’incluez pas les points de départ et d’arrivée dans les données sur les itinéraires, de sorte que les itinéraires particuliers ne permettent pas de remonter à quelqu’un. De même, flouter les données de secteurs sensibles contribue à la sécurité des informations personnelles. |
-| :heavy\_check\_mark: Anonymisez à la source. Bon nombre de technologies de caméra permettent de flouter les visages à la source. |
-| :heavy\_check\_mark: Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. |
-| :heavy\_check\_mark: Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données comme les numéros de vélo ou les cartes de densité de circulation, plutôt que les trajets des cyclistes individuels, éviteront les atteintes graves à la vie privée. |
-| :heavy\_check\_mark: Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données de sociétés privées, vérifiez que celles-ci respectent leurs propres obligations en matière de respect de la vie privée en vertu des lois applicables. |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Dépersonnalisez et agrégez les données sur l’énergie avant de les partager avec les différentes agences, afin de protéger la vie privée. |
+| ✅ Recueillez des données, mais ne surveillez pas les maisons. Recueillez des échantillons de données pouvant être utilisés pour trouver les solutions en matière d’efficacité; la collecte continue de données risque de révéler les activités personnelles et peut être perçue comme de la surveillance énergétique. |
+| ✅ Choisissez la technologie appropriée. L’utilisation de solutions passives, de faible technicité, peut être préférable aux solutions très techniques après la construction, qui sont moins efficaces et portent davantage atteinte à la vie privée. |
+| ✅ Floutage des données. Utilisez des techniques de floutage des données. Par exemple, n’incluez pas les points de départ et d’arrivée dans les données sur les itinéraires, de sorte que les itinéraires particuliers ne permettent pas de remonter à quelqu’un. De même, flouter les données de secteurs sensibles contribue à la sécurité des informations personnelles. |
+| ✅ Anonymisez à la source. Bon nombre de technologies de caméra permettent de flouter les visages à la source. |
+| ✅ Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. |
+| ✅ Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données comme les numéros de vélo ou les cartes de densité de circulation, plutôt que les trajets des cyclistes individuels, éviteront les atteintes graves à la vie privée. |
+| ✅ Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données de sociétés privées, vérifiez que celles-ci respectent leurs propres obligations en matière de respect de la vie privée en vertu des lois applicables. |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
 
 | Sécurité |
 | :--- |
 | **Risques** |
-| :warning: Les risques principaux liés aux technologies d’efficacité énergétique dépendent de l’échelle de leur déploiement. Les menaces à la sécurité d’un réseau intelligent ne sont pas du même niveau que celles posées par un logiciel de collecte de données. Ce qu’il faut se demander, c’est si quelqu’un peut pirater le système et nuire à la bonne distribution de l’énergie. |
+| ⚠ Les risques principaux liés aux technologies d’efficacité énergétique dépendent de l’échelle de leur déploiement. Les menaces à la sécurité d’un réseau intelligent ne sont pas du même niveau que celles posées par un logiciel de collecte de données. Ce qu’il faut se demander, c’est si quelqu’un peut pirater le système et nuire à la bonne distribution de l’énergie. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Les brèches de sécurité visant les technologies essentielles peuvent entraîner des blessures physiques et requièrent donc une évaluation des risques détaillée. |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Les brèches de sécurité visant les technologies essentielles peuvent entraîner des blessures physiques et requièrent donc une évaluation des risques détaillée. |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
 
 | Approvisionnement |
 | :--- |
 | **Risques** |
-| :warning: La compatibilité et la synchronicité du matériel et des logiciels représentent un risque critique susceptible d’engager la responsabilité, car l’efficacité des réseaux intelligents repose sur la coordination des fonctions. |
+| ⚠ La compatibilité et la synchronicité du matériel et des logiciels représentent un risque critique susceptible d’engager la responsabilité, car l’efficacité des réseaux intelligents repose sur la coordination des fonctions. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Relier les capteurs, les moniteurs et l’information sur la consommation d’énergie constitue en principe le moyen idéal d’optimiser le rendement. Cependant, des risques contractuels, pour la vie privée et pour la sécurité s’ajoutent lorsqu’on examine les systèmes de construction à l’échelle de l’écosystème. |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Relier les capteurs, les moniteurs et l’information sur la consommation d’énergie constitue en principe le moyen idéal d’optimiser le rendement. Cependant, des risques contractuels, pour la vie privée et pour la sécurité s’ajoutent lorsqu’on examine les systèmes de construction à l’échelle de l’écosystème. |
+| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
 
 | Opérations |
 | :--- |
 | **Risques** |
-| :warning: Pour établir la sécurité et l’efficacité des nouvelles technologies, il faut prouver qu’elles respectent les normes. Si la sécurité et le rendement ne font pas l’objet d’examens rigoureux, la sécurité peut être mise en péril, des dommages matériels peuvent survenir et la fiabilité des autres systèmes du bâtiment peut être compromise. |
+| ⚠ Pour établir la sécurité et l’efficacité des nouvelles technologies, il faut prouver qu’elles respectent les normes. Si la sécurité et le rendement ne font pas l’objet d’examens rigoureux, la sécurité peut être mise en péril, des dommages matériels peuvent survenir et la fiabilité des autres systèmes du bâtiment peut être compromise. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: L’établissement de paramètres et l’allègement des restrictions sur le partage de fichiers peut profiter à l’utilisateur final et donner de meilleurs résultats. |
+| ✅ L’établissement de paramètres et l’allègement des restrictions sur le partage de fichiers peut profiter à l’utilisateur final et donner de meilleurs résultats. |
 

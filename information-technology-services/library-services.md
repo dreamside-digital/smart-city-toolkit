@@ -27,21 +27,21 @@ Les portails d’apprentissage sont une solution simple et élégante à ce prob
 | Vie privée |
 | :--- |
 | **Risques** |
-| :warning: Il peut être tentant pour une bibliothèque de recueillir des données sur les utilisateurs du portail et leurs recherches, mais cela présente un risque pour la vie privée si les données peuvent être utilisées pour identifier une personne. |
+| ⚠ Il peut être tentant pour une bibliothèque de recueillir des données sur les utilisateurs du portail et leurs recherches, mais cela présente un risque pour la vie privée si les données peuvent être utilisées pour identifier une personne. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Ne recueillez aucune donnée. L’utilisation de témoins ou d’autres moyens pour recueillir les données est tout simplement interdite, sauf si elle vise uniquement à sauvegarder des réglages. |
-| :heavy\_check\_mark: Ne sauvegardez que les données nécessaires. Si vous enregistrez des données pour le développement de votre portail, par exemple afin de savoir quelles sont les données les plus utiles, vous devez agir avec prudence et respecter les lois sur la protection de la vie privée. |
-| :heavy\_check\_mark: Supprimez les données qui permettent d’identifier les personnes. Les noms ne sont généralement pas nécessaires et doivent être éliminés. |
-| :heavy\_check\_mark: Ajoutez une mise en garde. Si votre portail recueille des données d’utilisateur, vous devez expliquer aux utilisateurs en termes simples quelles sont les données recueillies et pourquoi vous le faites. Les bibliothèques peuvent aussi rendre la collecte de données optionnelle. Les utilisateurs devraient toutefois pouvoir utiliser le portail même s’ils refusent qu’on enregistre leurs données. |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Ne recueillez aucune donnée. L’utilisation de témoins ou d’autres moyens pour recueillir les données est tout simplement interdite, sauf si elle vise uniquement à sauvegarder des réglages. |
+| ✅ Ne sauvegardez que les données nécessaires. Si vous enregistrez des données pour le développement de votre portail, par exemple afin de savoir quelles sont les données les plus utiles, vous devez agir avec prudence et respecter les lois sur la protection de la vie privée. |
+| ✅ Supprimez les données qui permettent d’identifier les personnes. Les noms ne sont généralement pas nécessaires et doivent être éliminés. |
+| ✅ Ajoutez une mise en garde. Si votre portail recueille des données d’utilisateur, vous devez expliquer aux utilisateurs en termes simples quelles sont les données recueillies et pourquoi vous le faites. Les bibliothèques peuvent aussi rendre la collecte de données optionnelle. Les utilisateurs devraient toutefois pouvoir utiliser le portail même s’ils refusent qu’on enregistre leurs données. |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
 
 | Sécurité |
 | :--- |
 | **Risques** |
-| :warning: Si des données sont enregistrées et qu’elles permettent d’identifier quelqu’un, les risques pour la vie privée énoncés précédemment soulèvent également des questions de sécurité. Si les mesures de prévention nécessaires ne sont pas prises, des utilisateurs non autorisés pourraient accéder aux données stockées et des gens pourraient ainsi être incorrectement identifiés. |
+| ⚠ Si des données sont enregistrées et qu’elles permettent d’identifier quelqu’un, les risques pour la vie privée énoncés précédemment soulèvent également des questions de sécurité. Si les mesures de prévention nécessaires ne sont pas prises, des utilisateurs non autorisés pourraient accéder aux données stockées et des gens pourraient ainsi être incorrectement identifiés. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Instaurez des mesures de respect de la vie privée. De nombreuses solutions en matière de vie privée visant à éliminer les identificateurs permettent aussi de régler les questions de sécurité. |
-| :heavy\_check\_mark: Gardez les données dans un endroit sécurisé. Si les données ne peuvent pas être rendues anonymes, elles doivent être conservées dans un endroit sûr. Il sera ainsi impossible d’identifier les personnes, sauf sur autorisation. |
-| :heavy\_check\_mark: Limitez l’accès. Seules les personnes qui ont besoin d’accéder aux données des utilisateurs recueillies doivent pouvoir le faire. |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Instaurez des mesures de respect de la vie privée. De nombreuses solutions en matière de vie privée visant à éliminer les identificateurs permettent aussi de régler les questions de sécurité. |
+| ✅ Gardez les données dans un endroit sécurisé. Si les données ne peuvent pas être rendues anonymes, elles doivent être conservées dans un endroit sûr. Il sera ainsi impossible d’identifier les personnes, sauf sur autorisation. |
+| ✅ Limitez l’accès. Seules les personnes qui ont besoin d’accéder aux données des utilisateurs recueillies doivent pouvoir le faire. |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
 

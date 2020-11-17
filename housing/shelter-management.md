@@ -43,32 +43,32 @@ Il faut tenir compte du fait que bon nombre de personnes itinérantes sont incap
 | Vie privée |
 | :--- |
 | **Risques** |
-| :warning: De nombreuses personnes en situation d’itinérance entretiennent une grande méfiance envers toute atteinte à la vie privée et sont réfractaires aux technologies de collecte de données. |
+| ⚠ De nombreuses personnes en situation d’itinérance entretiennent une grande méfiance envers toute atteinte à la vie privée et sont réfractaires aux technologies de collecte de données. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: La protection de la vie privée et de la confidentialité doit être au cœur de l’évaluation des technologies, car la participation en pâtira si l’on permet des atteintes à la vie privée. |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ La protection de la vie privée et de la confidentialité doit être au cœur de l’évaluation des technologies, car la participation en pâtira si l’on permet des atteintes à la vie privée. |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
 
 | Sécurité |
 | :--- |
 | **Risques** |
-| :warning: Si environ 200 000 personnes fréquentent les refuges au Canada, près de 20 % des itinérants du pays sont des « clients de la rue », des gens qui choisissent de ne pas fréquenter les refuges, les considérant comme une autre prison, car ils y sont exposés à la consommation de drogues, à la violence, à l’absence de vie privée et au manque de sécurité. Certains ne sont pas en mesure de respecter les règlements du refuge après avoir vécu dans la rue pendant une longue période. |
+| ⚠ Si environ 200 000 personnes fréquentent les refuges au Canada, près de 20 % des itinérants du pays sont des « clients de la rue », des gens qui choisissent de ne pas fréquenter les refuges, les considérant comme une autre prison, car ils y sont exposés à la consommation de drogues, à la violence, à l’absence de vie privée et au manque de sécurité. Certains ne sont pas en mesure de respecter les règlements du refuge après avoir vécu dans la rue pendant une longue période. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Les solutions de faible technicité, comme la présence d’agents de sécurité, peuvent contribuer à la perception de prison, ce qui peut repousser les clients dans le besoin. La surveillance visuelle ou vidéo et les autres formes de contrôle peuvent avoir un effet contre-productif et engendrer chez les occupants du refuge de l’agressivité, des comportements méprisants, de l’irritation et des menaces de violence. |
-| :heavy\_check\_mark: La détermination des limites acceptables du refuge constitue un problème important lorsque l’on envisage d’expulser les pommes pourries. La technologie peut permettre de repérer les personnes qui ne respectent pas les règlements du refuge, afin d’assurer la bonne conduite et de diminuer les risques d’activités criminelles. L’utilisation de caméras en circuit fermé pour surveiller les espaces du refuge, combinée à la présence de personnel de sécurité, est légitime pour protéger le personnel et les occupants et gérer les situations violentes. |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Les solutions de faible technicité, comme la présence d’agents de sécurité, peuvent contribuer à la perception de prison, ce qui peut repousser les clients dans le besoin. La surveillance visuelle ou vidéo et les autres formes de contrôle peuvent avoir un effet contre-productif et engendrer chez les occupants du refuge de l’agressivité, des comportements méprisants, de l’irritation et des menaces de violence. |
+| ✅ La détermination des limites acceptables du refuge constitue un problème important lorsque l’on envisage d’expulser les pommes pourries. La technologie peut permettre de repérer les personnes qui ne respectent pas les règlements du refuge, afin d’assurer la bonne conduite et de diminuer les risques d’activités criminelles. L’utilisation de caméras en circuit fermé pour surveiller les espaces du refuge, combinée à la présence de personnel de sécurité, est légitime pour protéger le personnel et les occupants et gérer les situations violentes. |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
 
 | Approvisionnement |
 | :--- |
 | **Risques** |
-| :warning: Les technologies non testées peuvent causer des préjudices imprévus. |
+| ⚠ Les technologies non testées peuvent causer des préjudices imprévus. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: L’achat de téléphones « idiots » à remettre aux personnes en situation d’itinérance est essentiel à l’adoption et à la réussite du programme. |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ L’achat de téléphones « idiots » à remettre aux personnes en situation d’itinérance est essentiel à l’adoption et à la réussite du programme. |
+| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
 
 | Opérations |
 | :--- |
 | **Risques** |
-| :warning: La coordination avec les intervenants et entre les départements, les programmes et les mandats doit tenir compte de l’équilibre entre les besoins du client en matière de vie privée et l’accès adéquat aux services. |
+| ⚠ La coordination avec les intervenants et entre les départements, les programmes et les mandats doit tenir compte de l’équilibre entre les besoins du client en matière de vie privée et l’accès adéquat aux services. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: L’établissement de paramètres et l’allègement des restrictions sur le partage de fichiers peuvent profiter à l’utilisateur final et donner de meilleurs résultats. |
+| ✅ L’établissement de paramètres et l’allègement des restrictions sur le partage de fichiers peuvent profiter à l’utilisateur final et donner de meilleurs résultats. |
 

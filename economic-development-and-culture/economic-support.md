@@ -43,17 +43,17 @@ Les pôles d’innovation fournissent un espace d’incubation dynamique regroup
 | Risques liés à la propriété intellectuelle |
 | :--- |
 | **Risques** |
-| :warning: Des risques liés à la propriété intellectuelle \(PI\) peuvent découler de la diversité des investissements et des engagements personnels de différentes entités comme les gouvernements, les universités, les grandes entreprises et les investisseurs providentiels. |
+| ⚠ Des risques liés à la propriété intellectuelle \(PI\) peuvent découler de la diversité des investissements et des engagements personnels de différentes entités comme les gouvernements, les universités, les grandes entreprises et les investisseurs providentiels. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Accords de licence. Des négociations d’accords de licence ou d’autres ententes concernant la propriété des résultats de l’innovation peuvent être menées lorsque les équipements, les installations ou le personnel de recherche et développement sont fournis par différentes entités publiques et privées. |
-| :heavy\_check\_mark: Ententes de confidentialité. Lorsque des jeunes pousses développent de nouveaux produits ou services avec d’autres entités dans un pôle d’innovation, des ententes doivent être passées pour garantir la confidentialité de la propriété intellectuelle tout au long du processus de dépôt de marque ou d’obtention de brevet ou de droit d’auteur. |
-| :heavy\_check\_mark: Partage contractuel de la responsabilité. Le partage de la responsabilité relative à l’application doit être négocié entre la municipalité, les institutions et les autres entités privées et la responsabilité doit être attribuée à toute partie appropriée. |
-| :heavy\_check\_mark: Examiner attentivement les [risques liés à la propriété intellectuelle](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html). |
+| ✅ Accords de licence. Des négociations d’accords de licence ou d’autres ententes concernant la propriété des résultats de l’innovation peuvent être menées lorsque les équipements, les installations ou le personnel de recherche et développement sont fournis par différentes entités publiques et privées. |
+| ✅ Ententes de confidentialité. Lorsque des jeunes pousses développent de nouveaux produits ou services avec d’autres entités dans un pôle d’innovation, des ententes doivent être passées pour garantir la confidentialité de la propriété intellectuelle tout au long du processus de dépôt de marque ou d’obtention de brevet ou de droit d’auteur. |
+| ✅ Partage contractuel de la responsabilité. Le partage de la responsabilité relative à l’application doit être négocié entre la municipalité, les institutions et les autres entités privées et la responsabilité doit être attribuée à toute partie appropriée. |
+| ✅ Examiner attentivement les [risques liés à la propriété intellectuelle](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html). |
 
 | Risques liés à l’emploi |
 | :--- |
 | **Risques** |
-| :warning: Des risques relatifs au droit du travail existent lorsque la relation entre le pôle d’innovation et certaines personnes est nébuleuse. Par exemple, il est fréquent que des mentors participent à plusieurs reprises au mentorat de jeunes pousses. Il convient de clarifier ces relations afin d’en définir la portée, car elles peuvent avoir des implications sur les droits des travailleurs et les exigences de travail minimales. |
+| ⚠ Des risques relatifs au droit du travail existent lorsque la relation entre le pôle d’innovation et certaines personnes est nébuleuse. Par exemple, il est fréquent que des mentors participent à plusieurs reprises au mentorat de jeunes pousses. Il convient de clarifier ces relations afin d’en définir la portée, car elles peuvent avoir des implications sur les droits des travailleurs et les exigences de travail minimales. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Les contrats de travail et autres ententes similaires doivent être rédigés et examinés par un conseiller juridique afin de garantir la conformité aux lois applicables de la province ou du territoire compétent. |
+| ✅ Les contrats de travail et autres ententes similaires doivent être rédigés et examinés par un conseiller juridique afin de garantir la conformité aux lois applicables de la province ou du territoire compétent. |
 

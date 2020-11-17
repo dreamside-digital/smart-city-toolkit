@@ -39,39 +39,39 @@ Le patrimoine intelligent est un concept qui cherche à vaincre l’idée que le
 | Vie privée |
 | :--- |
 | **Risques** |
-| :warning: Chaque fois que l’on recueille des renseignements susceptibles d’identifier une personne, il faut procéder à une évaluation de la protection de la vie privée. Dans les systèmes énergétiques des bâtiments, les répercussions sur la vie privée sont faibles, à moins que l’on adopte des systèmes de surveillance avancés capables d’identifier les personnes. Cependant, si la conception patrimoniale intelligente est intégrée à la rénovation, il peut y avoir des risques, par exemple si des caractéristiques interactives nécessitent un consentement à la collecte de données. |
+| ⚠ Chaque fois que l’on recueille des renseignements susceptibles d’identifier une personne, il faut procéder à une évaluation de la protection de la vie privée. Dans les systèmes énergétiques des bâtiments, les répercussions sur la vie privée sont faibles, à moins que l’on adopte des systèmes de surveillance avancés capables d’identifier les personnes. Cependant, si la conception patrimoniale intelligente est intégrée à la rénovation, il peut y avoir des risques, par exemple si des caractéristiques interactives nécessitent un consentement à la collecte de données. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Collectez les données de manière impersonnelle. Consignez les rétroactions et commentaires de sorte qu’ils ne puissent être associés aux personnes. |
-| :heavy\_check\_mark: Choisissez la technologie appropriée. Les solutions simples peuvent parfois être préférables aux solutions technologiques très poussées. Tenez compte des avantages non techniques d’une activité et évaluez si la technologie améliore les résultats et protège la vie privée, ou si elle nuit à l’établissement de la confiance et au développement de la communauté. |
-| :heavy\_check\_mark: Floutez les données. Utilisez des techniques de floutage des données. Par exemple, n’incluez pas les points de départ et d’arrivée dans les données sur les itinéraires, de sorte qu’on ne puisse pas relier l’itinéraire à la personne qui l’a parcouru. De même, flouter les données de secteurs sensibles contribue à la sécurité des informations personnelles. |
-| :heavy\_check\_mark: Obtenez le consentement. Certaines expositions intègrent des kiosques d’autoportraits ainsi que la collecte de biocapteurs et d’autres renseignements sensibles. Ces expositions interactives doivent proposer des formulaires de consentement indiquant la finalité de la collecte, de l’utilisation et de la conservation des données. |
-| :heavy\_check\_mark: Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. |
-| :heavy\_check\_mark: Limitez la collecte de données au strict minimum. La collecte de renseignements personnels très sensibles dans le cadre de sondages et d’expositions interactives nécessite un examen des raisons de la collecte et de sa finalité afin d’éviter de susciter des préoccupations plus sérieuses en matière de protection de la vie privée. |
-| :heavy\_check\_mark: Ne conservez les données que pendant une période limitée. Les données recueillies à partir de systèmes interactifs devraient être conservées pendant une période définie puis détruites. |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Collectez les données de manière impersonnelle. Consignez les rétroactions et commentaires de sorte qu’ils ne puissent être associés aux personnes. |
+| ✅ Choisissez la technologie appropriée. Les solutions simples peuvent parfois être préférables aux solutions technologiques très poussées. Tenez compte des avantages non techniques d’une activité et évaluez si la technologie améliore les résultats et protège la vie privée, ou si elle nuit à l’établissement de la confiance et au développement de la communauté. |
+| ✅ Floutez les données. Utilisez des techniques de floutage des données. Par exemple, n’incluez pas les points de départ et d’arrivée dans les données sur les itinéraires, de sorte qu’on ne puisse pas relier l’itinéraire à la personne qui l’a parcouru. De même, flouter les données de secteurs sensibles contribue à la sécurité des informations personnelles. |
+| ✅ Obtenez le consentement. Certaines expositions intègrent des kiosques d’autoportraits ainsi que la collecte de biocapteurs et d’autres renseignements sensibles. Ces expositions interactives doivent proposer des formulaires de consentement indiquant la finalité de la collecte, de l’utilisation et de la conservation des données. |
+| ✅ Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. |
+| ✅ Limitez la collecte de données au strict minimum. La collecte de renseignements personnels très sensibles dans le cadre de sondages et d’expositions interactives nécessite un examen des raisons de la collecte et de sa finalité afin d’éviter de susciter des préoccupations plus sérieuses en matière de protection de la vie privée. |
+| ✅ Ne conservez les données que pendant une période limitée. Les données recueillies à partir de systèmes interactifs devraient être conservées pendant une période définie puis détruites. |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
 
 | Sécurité |
 | :--- |
 | **Risques** |
-| :warning: Les éléments matériels et logiciels de la technologie posent des risques pour la sécurité. Les problèmes de logiciels requièrent un examen de sécurité pour s’assurer qu’ils sont bien programmés et ne présentent pas de risques d’accès par porte dérobée ou de brèches de sécurité. |
+| ⚠ Les éléments matériels et logiciels de la technologie posent des risques pour la sécurité. Les problèmes de logiciels requièrent un examen de sécurité pour s’assurer qu’ils sont bien programmés et ne présentent pas de risques d’accès par porte dérobée ou de brèches de sécurité. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Dans le contexte de la rénovation des bâtiments, la sécurité des logiciels doit être élevée là où il y a usage de technologies de surveillance, par exemple des caméras intégrées dans des kiosques interactifs ou des systèmes de sécurité connectés à l’IdO. |
-| :heavy\_check\_mark: Bon nombre des solutions aux risques pour la vie privée atténueront aussi les risques pour la sécurité, par exemple l’anonymisation à la source, sinon l’anonymisation dès que possible. Si des renseignements personnels sont recueillis, ils doivent être conservés dans un endroit sûr. |
-| :heavy\_check\_mark: Seules les personnes qui ont besoin de consulter l’information doivent y avoir accès. |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Dans le contexte de la rénovation des bâtiments, la sécurité des logiciels doit être élevée là où il y a usage de technologies de surveillance, par exemple des caméras intégrées dans des kiosques interactifs ou des systèmes de sécurité connectés à l’IdO. |
+| ✅ Bon nombre des solutions aux risques pour la vie privée atténueront aussi les risques pour la sécurité, par exemple l’anonymisation à la source, sinon l’anonymisation dès que possible. Si des renseignements personnels sont recueillis, ils doivent être conservés dans un endroit sûr. |
+| ✅ Seules les personnes qui ont besoin de consulter l’information doivent y avoir accès. |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
 
 | Approvisionnement |
 | :--- |
 | **Risques** |
-| :warning: La compatibilité et la synchronicité du matériel et des logiciels représentent un risque critique susceptible d’engager la responsabilité, car l’efficacité des réseaux intelligents repose sur la coordination des fonctions. Si des tiers participent à la collecte et à l’analyse des données, il faut passer en revue les contrats pour s’assurer que l’intendance des données est conforme aux politiques de protection de la vie privée. |
+| ⚠ La compatibilité et la synchronicité du matériel et des logiciels représentent un risque critique susceptible d’engager la responsabilité, car l’efficacité des réseaux intelligents repose sur la coordination des fonctions. Si des tiers participent à la collecte et à l’analyse des données, il faut passer en revue les contrats pour s’assurer que l’intendance des données est conforme aux politiques de protection de la vie privée. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Relier les capteurs, les moniteurs et l’information sur la consommation d’énergie constitue en principe le moyen idéal d’optimiser le rendement. Cependant, des risques contractuels, pour la vie privée et pour la sécurité s’ajoutent lorsqu’on examine les systèmes de construction à l’échelle de l’écosystème. |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Relier les capteurs, les moniteurs et l’information sur la consommation d’énergie constitue en principe le moyen idéal d’optimiser le rendement. Cependant, des risques contractuels, pour la vie privée et pour la sécurité s’ajoutent lorsqu’on examine les systèmes de construction à l’échelle de l’écosystème. |
+| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
 
 | Opérations |
 | :--- |
 | **Risques** |
-| :warning: Une conception et une modélisation complètes des rénovations devraient atténuer de nombreux risques opérationnels associés au rendement du matériel. Cependant, les problèmes opérationnels sont plus susceptibles de découler de défaillances logicielles. |
+| ⚠ Une conception et une modélisation complètes des rénovations devraient atténuer de nombreux risques opérationnels associés au rendement du matériel. Cependant, les problèmes opérationnels sont plus susceptibles de découler de défaillances logicielles. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Des tests logiciels approfondis doivent être effectués avant de permettre l’automatisation complète des dispositifs connectés sans surveillance opérationnelle. En fait, la conception de systèmes logiciels qui excluent la surveillance des installations peut entraîner des défaillances à l’échelle du système, d’autant plus que les ingénieurs logiciels ne sont souvent pas disponibles pour assurer le dépannage du système ou corriger les caractéristiques personnalisées. La formation du personnel sur les logiciels des nouveaux systèmes et la formation continue sur les mises à jour des logiciels sont essentielles pour atténuer les défaillances des logiciels. |
+| ✅ Des tests logiciels approfondis doivent être effectués avant de permettre l’automatisation complète des dispositifs connectés sans surveillance opérationnelle. En fait, la conception de systèmes logiciels qui excluent la surveillance des installations peut entraîner des défaillances à l’échelle du système, d’autant plus que les ingénieurs logiciels ne sont souvent pas disponibles pour assurer le dépannage du système ou corriger les caractéristiques personnalisées. La formation du personnel sur les logiciels des nouveaux systèmes et la formation continue sur les mises à jour des logiciels sont essentielles pour atténuer les défaillances des logiciels. |
 

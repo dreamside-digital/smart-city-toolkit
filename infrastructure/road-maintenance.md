@@ -33,34 +33,35 @@ Les solutions de ville intelligente sont efficaces pour automatiser la surveilla
 | Vie privée |
 | :--- |
 | **Risques** |
-| :warning: Pensez à l’emplacement des appareils. Veillez à ce que les systèmes de détection avancés comme le lidar ne soient pas installés à proximité de résidences privées. |
+| ⚠ Pensez à l’emplacement des appareils. Veillez à ce que les systèmes de détection avancés comme le lidar ne soient pas installés à proximité de résidences privées. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: En modifiant les algorithmes pour éviter de reconnaître une forme humaine, on peut réduire les risques qu’une personne soit surveillée par inadvertance. |
-| :heavy\_check\_mark: Recueillez des données, mais ne surveillez pas les maisons. En principe, la surveillance de la faune ne doit pas porter atteinte au droit à la vie privée. Les appareils de collecte de données doivent être soigneusement sélectionnés pour réduire les risques en la matière. |
-| :heavy\_check\_mark: Choisissez la technologie appropriée. L’utilisation de solutions passives de faible technicité peut être préférable aux solutions très techniques après la construction, qui sont moins efficaces et sujettes à des défaillances \(en raison notamment des intempéries et des problèmes techniques\) et qui portent davantage atteinte à la vie privée. |
-| :heavy\_check\_mark: Floutez les données. Utilisez des techniques de floutage des données pour en préserver la confidentialité. Par exemple, si les appareils doivent être installés à proximité de résidences privées, veillez à ce qu’ils ne recueillent pas de données de cette zone. |
-| :heavy\_check\_mark: Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données à une société privée, vérifiez qu’elle respecte ses obligations en matière de respect de la vie privée prévues par les lois applicables. |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ En modifiant les algorithmes pour éviter de reconnaître une forme humaine, on peut réduire les risques qu’une personne soit surveillée par inadvertance. |
+| ✅ Recueillez des données, mais ne surveillez pas les maisons. En principe, la surveillance de la faune ne doit pas porter atteinte au droit à la vie privée. Les appareils de collecte de données doivent être soigneusement sélectionnés pour réduire les risques en la matière. |
+| ✅ Choisissez la technologie appropriée. L’utilisation de solutions passives de faible technicité peut être préférable aux solutions très techniques après la construction, qui sont moins efficaces et sujettes à des défaillances \(en raison notamment des intempéries et des problèmes techniques\) et qui portent davantage atteinte à la vie privée. |
+| ✅ Floutez les données. Utilisez des techniques de floutage des données pour en préserver la confidentialité. Par exemple, si les appareils doivent être installés à proximité de résidences privées, veillez à ce qu’ils ne recueillent pas de données de cette zone. |
+| ✅ Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données à une société privée, vérifiez qu’elle respecte ses obligations en matière de respect de la vie privée prévues par les lois applicables. |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
 
-| Sécurité |  |
-| :--- | :--- |
-| **Risques** |  |
-| :warning: Les dispositifs de détection installés en bordure des routes peuvent être vandalisés, volés ou encore détruits par des véhicules. | **Gestion des risques** |
-| :heavy\_check\_mark: Avant d’adopter un appareil, il faut tenir compte des frais de sécurité et de remplacement des appareils perdus ou endommagés. |  |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |  |
+| Sécurité |
+| :--- |
+| **Risques** |
+| ⚠ Les dispositifs de détection installés en bordure des routes peuvent être vandalisés, volés ou encore détruits par des véhicules. |
+| **Gestion des risques** |
+| ✅ Avant d’adopter un appareil, il faut tenir compte des frais de sécurité et de remplacement des appareils perdus ou endommagés. |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
 
 | Approvisionnement |
 | :--- |
 | **Risques** |
-| :warning: Les coûts liés à l’aménagement de passages fauniques doivent être envisagés du point de vue du cycle de vie. |
+| ⚠ Les coûts liés à l’aménagement de passages fauniques doivent être envisagés du point de vue du cycle de vie. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Les technologies intelligentes utilisées pour résoudre des problèmes peuvent engendrer des coûts d’exploitation et d’entretien importants \(exigences structurelles, dommages causés par les intempéries, problèmes techniques, faux positifs et faux négatifs, etc.\). |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Les technologies intelligentes utilisées pour résoudre des problèmes peuvent engendrer des coûts d’exploitation et d’entretien importants \(exigences structurelles, dommages causés par les intempéries, problèmes techniques, faux positifs et faux négatifs, etc.\). |
+| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
 
 | Opérations |
 | :--- |
 | **Risques** |
-| :warning: Avant d’adopter une solution, il faut envisager son efficacité en ce qui a trait à la réduction du nombre de collisions entre les véhicules et les animaux. |
+| ⚠ Avant d’adopter une solution, il faut envisager son efficacité en ce qui a trait à la réduction du nombre de collisions entre les véhicules et les animaux. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Testez les appareils avant de les adopter ou de les déployer. Renseignez-vous suffisamment sur les solutions disponibles avant d’adopter une stratégie municipale. |
+| ✅ Testez les appareils avant de les adopter ou de les déployer. Renseignez-vous suffisamment sur les solutions disponibles avant d’adopter une stratégie municipale. |
 

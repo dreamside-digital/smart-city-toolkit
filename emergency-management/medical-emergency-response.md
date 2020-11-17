@@ -29,22 +29,22 @@ Les outils de détection automatique des coups de feu ne requièrent aucun appel
 | Vie privée |
 | :--- |
 | **Risques** |
-| :warning: Comme pour n’importe quel type de surveillance permanente de la communauté, il peut y avoir des risques pour la vie privée. C’est particulièrement vrai si les systèmes de détection des coups de feu sont configurés pour commencer à enregistrer l’audio ou la vidéo dès qu’une arme s’est déchargée. |
+| ⚠ Comme pour n’importe quel type de surveillance permanente de la communauté, il peut y avoir des risques pour la vie privée. C’est particulièrement vrai si les systèmes de détection des coups de feu sont configurés pour commencer à enregistrer l’audio ou la vidéo dès qu’une arme s’est déchargée. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: N’enregistrez rien. Bien que les preuves soient probablement utiles dans le cadre de la lutte au crime, les enregistrements audio ou vidéo ne procurent aucun avantage concret du point de vue de l’intervention médicale. Ces systèmes pourraient donc être configurés uniquement pour détecter les coups de feu, et non pour identifier qui a fait feu. |
-| :heavy\_check\_mark: Communiquez d’abord avec les services médicaux d’urgence. La détection des coups de feu est surtout utilisée par les services policiers. Afin de diminuer la surveillance policière intrusive, les premiers répondants médicaux peuvent administrer le système et informer la police qu’un coup de feu a été tiré une fois que la victime a été trouvée et prise en charge. |
-| :heavy\_check\_mark: Utilisez la technologie avec parcimonie. Ces systèmes devraient uniquement être envisagés si les coups de feu non signalés représentent un véritable problème dans la communauté et s’il y a un réel danger que les victimes ne soient pas traitées. |
-| :heavy\_check\_mark: Supprimez les données qui permettent d’identifier les personnes. La modulation de la voix ou le floutage du visage en temps réel pourrait être utilisé pour rendre anonymes les personnes se trouvant sur les enregistrements. |
-| :heavy\_check\_mark: Établissez un lien avec la communauté. Avant d’installer ces systèmes, il faut faire preuve d’une transparence absolue avec la communauté et expliquer les limites de la technologie ainsi que la manière dont les données seront utilisées. |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippc-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ N’enregistrez rien. Bien que les preuves soient probablement utiles dans le cadre de la lutte au crime, les enregistrements audio ou vidéo ne procurent aucun avantage concret du point de vue de l’intervention médicale. Ces systèmes pourraient donc être configurés uniquement pour détecter les coups de feu, et non pour identifier qui a fait feu. |
+| ✅ Communiquez d’abord avec les services médicaux d’urgence. La détection des coups de feu est surtout utilisée par les services policiers. Afin de diminuer la surveillance policière intrusive, les premiers répondants médicaux peuvent administrer le système et informer la police qu’un coup de feu a été tiré une fois que la victime a été trouvée et prise en charge. |
+| ✅ Utilisez la technologie avec parcimonie. Ces systèmes devraient uniquement être envisagés si les coups de feu non signalés représentent un véritable problème dans la communauté et s’il y a un réel danger que les victimes ne soient pas traitées. |
+| ✅ Supprimez les données qui permettent d’identifier les personnes. La modulation de la voix ou le floutage du visage en temps réel pourrait être utilisé pour rendre anonymes les personnes se trouvant sur les enregistrements. |
+| ✅ Établissez un lien avec la communauté. Avant d’installer ces systèmes, il faut faire preuve d’une transparence absolue avec la communauté et expliquer les limites de la technologie ainsi que la manière dont les données seront utilisées. |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippc-ca.github.io/SmartCityToolkit/privacy.html). |
 
 | Sécurité |
 | :--- |
 | **Risques** |
-| :warning: Si des données sont enregistrées et qu’elles permettent d’identifier quelqu’un, les risques pour la vie privée énoncés précédemment soulèvent également des questions de sécurité. Des utilisateurs non autorisés pourraient accéder aux données stockées si les mesures nécessaires ne sont pas prises. |
+| ⚠ Si des données sont enregistrées et qu’elles permettent d’identifier quelqu’un, les risques pour la vie privée énoncés précédemment soulèvent également des questions de sécurité. Des utilisateurs non autorisés pourraient accéder aux données stockées si les mesures nécessaires ne sont pas prises. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Établissez des solutions en matière de vie privée. De nombreuses solutions en matière de vie privée visant à éliminer les identificateurs permettent aussi de régler les questions de sécurité. |
-| :heavy\_check\_mark: Conservez les données dans un endroit sûr. Si les données ne peuvent pas être rendues anonymes, elles doivent être conservées dans un endroit sûr. Il sera ainsi impossible d’identifier les personnes, sauf en cas d’autorisation. |
-| :heavy\_check\_mark: Limitez l’accès. Seules les personnes qui ont besoin d’accéder aux données audio et vidéo recueillies doivent pouvoir le faire. |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Établissez des solutions en matière de vie privée. De nombreuses solutions en matière de vie privée visant à éliminer les identificateurs permettent aussi de régler les questions de sécurité. |
+| ✅ Conservez les données dans un endroit sûr. Si les données ne peuvent pas être rendues anonymes, elles doivent être conservées dans un endroit sûr. Il sera ainsi impossible d’identifier les personnes, sauf en cas d’autorisation. |
+| ✅ Limitez l’accès. Seules les personnes qui ont besoin d’accéder aux données audio et vidéo recueillies doivent pouvoir le faire. |
+| ✅  Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
 
