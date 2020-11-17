@@ -11,8 +11,8 @@
 * [Vie privée](meta-issues/privacy.md)
 * [Sécurité](meta-issues/security.md)
 * [Inclusion](meta-issues/inclusion.md)
-* [Intellectual Property](meta-issues/intellectual-property.md)
-* [Procurement](meta-issues/procurement.md)
+* [Propriété intellectuelle](meta-issues/intellectual-property.md)
+* [Approvisionnement](meta-issues/procurement.md)
 
 ## Participation Civique <a id="civic-engagement"></a>
 
