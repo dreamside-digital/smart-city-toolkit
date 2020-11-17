@@ -25,16 +25,16 @@ En améliorant l’accès aux assemblées publiques, une ville intelligente peut
 | Vie privée |
 | :--- |
 | **Risques** |
-| :warning: Il est essentiel d’identifier un résident qui participe à une assemblée publique, ainsi que son opinion. Cela peut cependant rebuter les résidents qui préfèrent garder l’anonymat. Or, un commentaire anonyme ne permet pas de confirmer le statut de résident. |
+| ⚠ Il est essentiel d’identifier un résident qui participe à une assemblée publique, ainsi que son opinion. Cela peut cependant rebuter les résidents qui préfèrent garder l’anonymat. Or, un commentaire anonyme ne permet pas de confirmer le statut de résident. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Anonymisez à la source. Bon nombre d’outils peuvent faciliter l’engagement sans recueillir de renseignements personnels. L’anonymisation à la source peut prévenir les atteintes à la vie privée. |
-| :heavy\_check\_mark: Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. Même si la municipalité a besoin de certains renseignements pour valider le statut de résident, une personne doit quand même pouvoir poser une question en gardant l’anonymat. |
+| ✅ Anonymisez à la source. Bon nombre d’outils peuvent faciliter l’engagement sans recueillir de renseignements personnels. L’anonymisation à la source peut prévenir les atteintes à la vie privée. |
+| ✅ Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. Même si la municipalité a besoin de certains renseignements pour valider le statut de résident, une personne doit quand même pouvoir poser une question en gardant l’anonymat. |
 
 | Représentation disproportionnée |
 | :--- |
 | **Risques** |
-| :warning: L’impossibilité de tenir une assemblée à un moment où tout le monde peut y participer et le manque d’accès à Internet peuvent donner lieu à une représentation disproportionnée des résidents. |
+| ⚠ L’impossibilité de tenir une assemblée à un moment où tout le monde peut y participer et le manque d’accès à Internet peuvent donner lieu à une représentation disproportionnée des résidents. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: L’offre par la ville d’un réseau Wi-Fi gratuit facilitera l’accès à Internet. |
-| :heavy\_check\_mark: En tenant des heures de bureau virtuelles, on permettra aux résidents qui ne peuvent pas assister aux assemblées de faire entendre leurs opinions. |
+| ✅ L’offre par la ville d’un réseau Wi-Fi gratuit facilitera l’accès à Internet. |
+| ✅ En tenant des heures de bureau virtuelles, on permettra aux résidents qui ne peuvent pas assister aux assemblées de faire entendre leurs opinions. |
 

@@ -37,28 +37,28 @@ En informatique, la résolution de problème nécessite de la créativité. Les 
 | Vie privée |
 | :--- |
 | **Risques** |
-| :warning: Les données d’inscription contiennent fréquemment des renseignements personnels |
-| :warning: L’application développée peut poser des risques pour la vie privée; souvent, ces applications recueillent des données sur les utilisateurs à des fins d’analyse ou de personnalisation. |
+| ⚠ Les données d’inscription contiennent fréquemment des renseignements personnels |
+| ⚠ L’application développée peut poser des risques pour la vie privée; souvent, ces applications recueillent des données sur les utilisateurs à des fins d’analyse ou de personnalisation. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. |
-| :heavy\_check\_mark: Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données comme les numéros de vélo ou les cartes de densité de circulation, plutôt que les trajets des cyclistes individuels, éviteront les atteintes graves à la vie privée. |
-| :heavy\_check\_mark: Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données de sociétés privées, vérifiez que celles-ci respectent leurs propres obligations en matière de respect de la vie privée en vertu des lois applicables. |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
-| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. |
+| ✅ Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données comme les numéros de vélo ou les cartes de densité de circulation, plutôt que les trajets des cyclistes individuels, éviteront les atteintes graves à la vie privée. |
+| ✅ Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données de sociétés privées, vérifiez que celles-ci respectent leurs propres obligations en matière de respect de la vie privée en vertu des lois applicables. |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
 
 | Risques liés à la propriété intellectuelle |
 | :--- |
 | **Risques** |
-| :warning: Du point de vue juridique, l’application est l’œuvre de ses auteurs, étant donné qu’ils ne sont pas des employés de la municipalité. |
-| :warning: L’attribution de la responsabilité découlant de l’utilisation de l’application pourrait donc être sujet de litige. |
-| :warning: Il est souvent difficile de déterminer à qui appartiennent les données résultant d’un partenariat entre un organisme public et une société privée. |
+| ⚠ Du point de vue juridique, l’application est l’œuvre de ses auteurs, étant donné qu’ils ne sont pas des employés de la municipalité. |
+| ⚠ L’attribution de la responsabilité découlant de l’utilisation de l’application pourrait donc être sujet de litige. |
+| ⚠ Il est souvent difficile de déterminer à qui appartiennent les données résultant d’un partenariat entre un organisme public et une société privée. |
 | **Gestion des risques** |
-| :heavy\_check\_mark: Octroi de licence ou cession des droits d’auteur par contrat à la municipalité sur l’application du marathon de programmation et des données afférentes si la production ou l’analyse des données ont été réalisées avec d’autres parties. |
-| :heavy\_check\_mark: Octroi de licence pour la technologie si elle est brevetable. |
-| :heavy\_check\_mark: Octroi de licence si une technologie brevetée est requise. |
-| :heavy\_check\_mark: Garanties et déclarations du droit de propriété ou de non-violation pour éviter des litiges. |
-| :heavy\_check\_mark: Attribution par contrat à la municipalité, à l’auteur ou à l’utilisateur de la responsabilité découlant de l’utilisation de l’application. |
-| :heavy\_check\_mark: Voir les [risques liés à la propriété intellectuelle](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html). |
+| ✅ Octroi de licence ou cession des droits d’auteur par contrat à la municipalité sur l’application du marathon de programmation et des données afférentes si la production ou l’analyse des données ont été réalisées avec d’autres parties. |
+| ✅ Octroi de licence pour la technologie si elle est brevetable. |
+| ✅ Octroi de licence si une technologie brevetée est requise. |
+| ✅ Garanties et déclarations du droit de propriété ou de non-violation pour éviter des litiges. |
+| ✅ Attribution par contrat à la municipalité, à l’auteur ou à l’utilisateur de la responsabilité découlant de l’utilisation de l’application. |
+| ✅ Voir les [risques liés à la propriété intellectuelle](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html). |
 
 **Ressources pour les marathons de programmation**
 
