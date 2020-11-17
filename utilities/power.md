@@ -36,7 +36,7 @@ Les municipalités éclairent les rues afin d’améliorer la sécurité des pi�
 | ✅Anonymisez à la source. Bon nombre de technologies de caméra permettent de flouter les visages à la source. |
 | ✅Anonymisez dès que possible. Les données recueillies doivent préserver l’anonymat des personnes visées durant la collecte. |
 | ✅Réduisez au minimum la collecte de données. Il s’agit de réduire la collecte de données à ce qui est nécessaire ou requis. Les données statistiques sur les temps optimaux de gradation des lumières ne requièrent pas de renseignements personnels. |
-| ✅Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅Suivez les [pratiques exemplaires en matière de protection de la vie privée.](../meta-issues/privacy.md) |
 
 | Sécurité |
 | :--- |
@@ -52,5 +52,5 @@ Les municipalités éclairent les rues afin d’améliorer la sécurité des pi�
 | ✅Effectuez la maintenance du matériel. Cela permet d’éviter que des pirates ou des voleurs n’outrepassent les paramètres de sécurité. Les dispositifs matériels jugés compromis peuvent être isolés jusqu’à ce que la maintenance soit effectuée. |
 | ✅Mettez en place une plateforme de sécurité. Une plateforme de sécurité analyse les données, recherche les indicateurs potentiels de compromission et permet de mettre en place des mesures de sécurité comme la mise en quarantaine des dispositifs contaminés. |
 | ✅Assurez-vous que les partenaires emploient des mesures de protection adéquates. Tous les partenaires et entrepreneurs doivent employer des mesures de protection adéquates selon la sensibilité des informations qu’ils détiennent. |
-| ✅Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅Suivez les [pratiques exemplaires en matière d’approvisionnement](../meta-issues/procurement.md). |
 

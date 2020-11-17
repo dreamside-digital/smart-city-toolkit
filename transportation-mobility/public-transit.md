@@ -48,7 +48,7 @@ Les données en temps réel sur le transport en commun peuvent réduire le temps
 | ✅ Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. Les données doivent aussi, dans la mesure du possible, être communiquées de manière anonyme. |
 | ✅ Limitez la collecte de données au strict minimum. La collecte d’informations personnelles sensibles ne doit pas être prise à la légère et doit être très bien justifiée. Il faut recueillir uniquement les informations minimales nécessaires à la réalisation des opérations. |
 | ✅ Assurez-vous que tous les partenaires emploient des mesures de protection adéquates. Si vous achetez des données à une société privée, vérifiez qu’elle respecte ses obligations en matière de respect de la vie privée prévues par les lois applicables. |
-| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md). |
 
 | Risques pour la sécurité |
 | :--- |
@@ -62,14 +62,14 @@ Les données en temps réel sur le transport en commun peuvent réduire le temps
 | ✅ Les systèmes de paiement en ligne doivent employer des processus de cryptage de bout en bout pour protéger les communications et maximiser la sécurité des informations sensibles dans les opérations de paiement. |
 | ✅ Lorsque les données de la ville sont stockées sur des serveurs distants, la plateforme d’hébergement dans le nuage doit régulièrement faire l’objet d’audits et de correctifs de sécurité, et une stratégie de récupération des données doit être mise en place. |
 | ✅ Tous les partenaires et entrepreneurs doivent employer des mesures de protection adéquates selon la sensibilité des informations qu’ils détiennent. |
-| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](../meta-issues/security.md). |
 
 | Approvisionnement |
 | :--- |
 | **Risques** |
 | ⚠ Les solutions relatives au transport en commun requièrent l’acquisition de matériel, de véhicules et de logiciels, de même que les services de développeurs tiers. Ce processus s’accompagne de risques liés à l’obsolescence ou à l’asservissement à un fournisseur, aux coûts à long terme de la technologie, y compris ceux liés à l’entretien des véhicules, et au choix entre des solutions de pointe ou traditionnelles. |
 | **Gestion des risques** |
-| ✅ Les risques liés à l’approvisionnement doivent être traités en suivant [les pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html) |
-| ✅ Des [risques liés à la propriété intellectuelle](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html) sont à prévoir en lien avec la propriété et la confidentialité des données. Les droits d’accès et autres droits relatifs aux données doivent être abordés d’entrée de jeu, en tant que partie intégrante des conditions d’acquisition. |
+| ✅ Les risques liés à l’approvisionnement doivent être traités en suivant les [pratiques exemplaires en matière d’approvisionnement](../meta-issues/procurement.md) |
+| ✅ Des [risques liés à la propriété intellectuelle](../meta-issues/intellectual-property.md) sont à prévoir en lien avec la propriété et la confidentialité des données. Les droits d’accès et autres droits relatifs aux données doivent être abordés d’entrée de jeu, en tant que partie intégrante des conditions d’acquisition. |
 | ✅ Le choix de solutions de faible ou de haute technicité dépendra de plusieurs facteurs : a\) L’utilisation prévue. – La planification à long terme ou la mesure de référence de l’activité dans la ville peuvent ne pas nécessiter la vitesse, la précision et la capacité de mise à l’échelle qu’offrent les technologies « plus intelligentes ». En revanche, les données en temps réel sur le transport en commun destinées aux clients comptent fortement sur ces attributs. b\) Le coût. – Les solutions de faible technicité ont tendance à être moins coûteuses à acquérir et à entretenir. Les solutions de haute technologie comme les navettes autonomes peuvent engendrer des coûts importants liés à l’atténuation des risques \(p. ex., couvertures d’assurance personnalisées et services d’entretien spécialisés\). c\) La mise à l’échelle. – Les offres soumises doivent être évaluées en fonction des risques liés à la mise à l’échelle et de la facilité à traiter les données structurées et non structurées. Il convient notamment de faire appel à un consortium de services pour les expansions progressives et les bases de données non relationnelles. |
 

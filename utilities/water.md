@@ -53,7 +53,7 @@ L’humain n’a pas les facultés auditives et visuelles idéales pour capter l
 | ✅ Anonymisez dès que possible. Les données recueillies doivent préserver l’anonymat des personnes saisies durant la collecte. Le brouillage des visages peut être automatisé grâce à l’apprentissage machine et à l’IA. |
 | ✅ Limitez l’échange de données. La plupart du temps, il n’y aura pas de restriction relative aux données recueillies, mais il peut y avoir des restrictions sur leur transmission entre les ports réseau afin d’empêcher l’usage inapproprié des renseignements personnels. |
 | ✅ Réduisez au minimum la collecte de données. Il s’agit de réduire la collecte de données à ce qui est nécessaire ou requis. |
-| ✅  Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅  Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md). |
 
 | Risques pour la sécurité |
 | :--- |
@@ -69,7 +69,7 @@ L’humain n’a pas les facultés auditives et visuelles idéales pour capter l
 | ✅ Effectuez la maintenance du matériel. Cela permet d’éviter que des pirates ou des voleurs n’outrepassent les paramètres de sécurité. Les dispositifs matériels jugés compromis peuvent être isolés jusqu’à ce que la maintenance soit effectuée. |
 | ✅ Mettez en place une plateforme de sécurité. Une plateforme de sécurité analyse les données, recherche les indicateurs potentiels de compromission et permet de mettre en place des mesures de sécurité comme la mise en quarantaine des dispositifs contaminés. |
 | ✅ Assurez-vous que les partenaires emploient des mesures de protection adéquates. Tous les partenaires et entrepreneurs doivent employer des mesures de protection adéquates selon la sensibilité des informations qu’ils détiennent. |
-| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](../meta-issues/security.md). |
 
 | Approvisionnement |
 | :--- |
@@ -77,7 +77,7 @@ L’humain n’a pas les facultés auditives et visuelles idéales pour capter l
 | ⚠ La plupart des solutions de surveillance de l’eau nécessitent l’achat de produits ou de services auprès de tiers. Ce processus s’accompagne de risques liés à l’enfermement propriétaire, aux coûts à long terme de la technologie et aux choix entre des solutions de faible ou de haute technicité. |
 | **Gestion des risques** |
 | ✅ Les risques liés à l’approvisionnement doivent être traités en suivant les pratiques exemplaires en matière d’approvisionnement . |
-| ✅ Des risques liés à la propriété intellectuelle sont à prévoir en lien avec la propriété et la confidentialité des données. Les droits d’accès et autres droits relatifs aux données devraient être abordés d’entrée de jeu, en tant que partie intégrante des conditions d’acquisition. Examinez attentivement les [risques liés à la propriété intellectuelle](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html). |
+| ✅ Des risques liés à la propriété intellectuelle sont à prévoir en lien avec la propriété et la confidentialité des données. Les droits d’accès et autres droits relatifs aux données devraient être abordés d’entrée de jeu, en tant que partie intégrante des conditions d’acquisition. Examinez attentivement les [risques liés à la propriété intellectuelle](../meta-issues/intellectual-property.md). |
 | ✅ Le choix de solutions de faible ou de haute technicité dépendra de plusieurs facteurs : a\) L’utilisation prévue. L’intervention d’urgence en cas d’inondations et la gestion des eaux reposent généralement sur la vitesse, la précision et la capacité de mise à l’échelle qu’offrent les technologies plus intelligentes. En revanche, la planification à long terme n’exige pas nécessairement ces attributs. b\) Le coût. Les solutions de faible technicité ont tendance à être moins coûteuses à acquérir et à entretenir. c\) L’utilisation de l’infrastructure existante. Les solutions qui utilisent l’infrastructure existante ont des coûts inférieurs à ceux des nouveaux projets de construction. d\) La mise à l’échelle. Il faut tenir compte de l’évolutivité et du déploiement à grande échelle en ce qui a trait aux coûts à long terme et à l’enfermement propriétaire. Les offres soumises doivent être évaluées en fonction des risques de mise à l’échelle, de la facilité à traiter les données structurées et non structurées, et de la capacité de connexion à d’autres appareils de l’Internet des objets. |
-| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](../meta-issues/procurement.md). |
 

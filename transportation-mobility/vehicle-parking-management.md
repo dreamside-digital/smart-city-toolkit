@@ -44,7 +44,7 @@ Les solutions de stationnement intelligent réduisent le stress des usagers et l
 | ✅ Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. Par exemple, les numéros de plaque d’immatriculation obtenus par des caméras de reconnaissance doivent être supprimés le plus rapidement possible. |
 | ✅ Limitez la collecte de données au strict minimum. La collecte d’informations personnelles sensibles ne doit pas être prise à la légère et doit être très bien justifiée. À moins de nécessité, on ne doit pas recueillir de renseignements sur des véhicules qui peuvent être liés à des gens. |
 | ✅ Assurez-vous que vos partenaires respectent les restrictions en matière de collecte. Si vous achetez des données à une société privée, vérifiez qu’elle respecte ses obligations en matière de respect de la vie privée prévues par les lois applicables. |
-| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md). |
 
 | Sécurité |
 | :--- |
@@ -56,15 +56,15 @@ Les solutions de stationnement intelligent réduisent le stress des usagers et l
 | ✅ Lorsque les données de la ville sont stockées sur des serveurs distants, la plateforme d’hébergement dans le nuage doit régulièrement faire l’objet d’audits et de correctifs de sécurité, et une stratégie de récupération des données doit être mise en place. |
 | ✅ Une plateforme de sécurité analyse les données, recherche les indicateurs potentiels de compromission et permet de mettre en place des mesures de sécurité comme la mise en quarantaine des dispositifs contaminés. |
 | ✅ Tous les partenaires et entrepreneurs doivent employer des mesures de protection adéquates selon la sensibilité des informations qu’ils détiennent. |
-| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](../meta-issues/security.md). |
 
 | Approvisionnement |
 | :--- |
 | **Risques** |
 | ⚠ Les solutions de stationnement intelligent requièrent l’acquisition de matériel et de logiciels auprès de tiers partis. Ce processus s’accompagne de risques liés à l’obsolescence, à l’enfermement propriétaire, aux coûts à long terme de la technologie et au choix entre des solutions à haute et à faible technicité. |
 | **Gestion des risques** |
-| ✅ Les risques liés à l’approvisionnement doivent être traités en suivant [les pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
-| ✅ Des [risques liés à la propriété intellectuelle](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html) sont à prévoir en lien avec la propriété et la confidentialité des données. Les droits d’accès et autres droits relatifs aux données devraient être abordés d’entrée de jeu, en tant que partie intégrante des conditions d’acquisition. |
+| ✅ Les risques liés à l’approvisionnement doivent être traités en suivant les [pratiques exemplaires en matière d’approvisionnement](../meta-issues/procurement.md). |
+| ✅ Des [risques liés à la propriété intellectuelle](../meta-issues/intellectual-property.md) sont à prévoir en lien avec la propriété et la confidentialité des données. Les droits d’accès et autres droits relatifs aux données devraient être abordés d’entrée de jeu, en tant que partie intégrante des conditions d’acquisition. |
 | ✅ Pour fournir des solutions fiables qui répondront aux besoins à venir, utilisez le cadre et les indicateurs de l’Organisation internationale de normalisation \(ISO\), qui établit les normes internationales en matière de pratiques exemplaires. |
 | ✅ Le choix de solutions de faible ou de haute technicité dépendra de plusieurs facteurs : a\) L’utilisation prévue. L’affichage de la disponibilité des places en temps réel nécessite la vitesse, la précision et la capacité de mise à l’échelle qu’offrent les technologies de captage « plus intelligentes ». b\) Le coût. Les solutions de faible technicité ont tendance à être moins coûteuses à acquérir et à entretenir. c\) L’efficacité. Le contexte et l’environnement d’utilisation doivent être pris en considération. Des capteurs électromagnétiques de stationnements situés au-dessus de lignes de métro se sont déjà déclenchés au passage d’un train et ont marqué « occupé » jusqu’à ce que le train soit reparti. Les capteurs souterrains peuvent aussi être endommagés par le déneigement et les coûts d’entretien sont plus élevés en raison des changements de batteries. d\) La mise à l’échelle. Les offres soumises devraient être évaluées en fonction des risques de mise à l’échelle et de la facilité à traiter les données structurées et non structurées. Il convient notamment de faire appel à un consortium de services pour les expansions progressives et les bases de données non relationnelles. |
 
