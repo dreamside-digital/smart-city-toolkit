@@ -57,7 +57,7 @@ It is hard for the human ears or eyes to pick up wavelengths or detect sound wav
 | ✅ De-identify as soon as possible: Data collected should de-identify persons captured in the process during the collection of information. Face blurring software can be automatic using machine learning and AI. |
 | ✅ Restriction of data sharing: Most times, there can be no restriction on the data collected but there can be a restriction on how the data collected is shared from one network port to another to reduce the misuse of personal information collected in the process. |
 | ✅ Minimize data collection: This is the minimization of data collection to what is needed or required. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../meta-issues/privacy.md). |
 
 | Security Issues |
 | :--- |
@@ -73,7 +73,7 @@ It is hard for the human ears or eyes to pick up wavelengths or detect sound wav
 | ✅ Maintenance of Hardware. This prevents a breach of the security parameters on hardware by hackers or thieves. Hardware devices that are identified to be compromised can be isolated until maintenance is performed. |
 | ✅ Security platform. Establishing a security platform that analyzes data, searches for potential indicators of compromise with the capability of implementing security measures such as isolating affected devices. |
 | ✅ Ensure that partners have adequate safeguards. All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Follow [good security practices](../meta-issues/security.md). |
 
 | Procurement |
 | :--- |
@@ -81,7 +81,7 @@ It is hard for the human ears or eyes to pick up wavelengths or detect sound wav
 | ⚠ Most water monitoring solutions will involve the purchase of products or services from third parties, which will raise procurement issues about vendor lock-in, long-term costs of the technology, and choosing between high-tech and low-tech solutions. |
 | **Managing Issues.** |
 | ✅ Procurement issues should be dealt with by following sound procurement practices . |
-| ✅ Intellectual property issues will arise over ownership and confidentiality of data.  Access and other data entitlements should be addressed at the outset, as part of the conditions of procurement. Carefully review [intellectual property issues](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html). |
+| ✅ Intellectual property issues will arise over ownership and confidentiality of data.  Access and other data entitlements should be addressed at the outset, as part of the conditions of procurement. Carefully review [intellectual property issues](../meta-issues/untitled-1.md). |
 | ✅ Deciding between high-tech and low-tech solutions will depend on several factors: \(a\) What is the use case? Emergency responses to flood and water management will likely rely on the speed, accuracy, and scalability that “smarter” technologies offer. On the other hand, long-term planning may not necessarily require those features. \(b\) Costs – low-tech solutions tend to be cheaper to acquire and maintain. \(c\) Use of existing infrastructure – solutions that can make use of existing infrastructure will have lower costs than brand new construction projects. \(d\) Scalability – the scalability and large-scale deployment should be considered for long-term costs and vendor lock-in. Assess bid submissions on the risks of scalability and flexibility to deal with structured and unstructured data, as well as the capacity to connect with other IoT devices. |
-| ✅ Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Follow [sound procurement practices](../meta-issues/untitled-2.md). |
 

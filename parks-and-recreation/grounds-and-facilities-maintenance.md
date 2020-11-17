@@ -74,7 +74,7 @@ The presence of children in public parks and recreational spaces make the liabil
 | ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
 | ✅ Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns. |
 | ✅ Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../meta-issues/privacy.md). |
 
 | Security |
 | :--- |
@@ -86,7 +86,7 @@ The presence of children in public parks and recreational spaces make the liabil
 | ✅ Access to personal information should be limited to those with a need to use the information. |
 | ✅ RFID bracelets, such as those used at Disney Land, could theoretically provide a sense of enhanced security during especially crowded events like Canada Day. However, this technology is unproven as a means of lost child tracking. For the most part, Disney uses their RFID bracelets as a digital proof-of-purchase and a means of recording user activity. |
 | ✅ Numerous options for secure online payment are available. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Follow [good security practices](../meta-issues/security.md). |
 
 | Procurement Issues |
 | :--- |
@@ -95,6 +95,6 @@ The presence of children in public parks and recreational spaces make the liabil
 | **Managing Issues.** |
 | ✅ Count, don’t track.  Record numbers of smart bin use frequency, truck deployment, optimal collection times, and types of waste. Numerical data about the frequency of waste collection will not necessarily track identities. |
 | ✅ Count, don’t track.  Record numbers of smart bin use frequency, truck deployment, optimal collection times, and types of waste. Numerical data about the frequency of waste collection will not necessarily track identities. |
-
-Awareness. Municipalities need to be aware that taxpayer funds are vulnerable not only through the technology selection process, but also throughout the life cycle of the technology. Short term savings often come with outsize long term costs.\| \|:heavy\_check\_mark: Employ [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).\|
+| ✅ Awareness. Municipalities need to be aware that taxpayer funds are vulnerable not only through the technology selection process, but also throughout the life cycle of the technology. Short term savings often come with outsize long term costs. |
+| ✅ Employ [sound procurement practices.](../meta-issues/untitled-2.md) |
 

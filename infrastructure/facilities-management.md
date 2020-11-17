@@ -42,7 +42,7 @@ In buildings, connecting sensors with BAS software can coordinate live monitorin
 | ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
 | ✅ Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns. |
 | ✅ Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../meta-issues/privacy.md). |
 
 | Security |
 | :--- |
@@ -52,7 +52,7 @@ In buildings, connecting sensors with BAS software can coordinate live monitorin
 | ✅ Security added to urban spaces to monitor smart devices may magnify privacy issues rather than address the original problem of servicing facilities. A balance needs to be struck in terms of how much security is needed, that is contextualized in a given community and informed by community engagement and feedback. |
 | ✅ Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location. |
 | ✅ Access should be limited to those with a need to use the information. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Follow [good security practices](../meta-issues/security.md). |
 
 | Procurement |
 | :--- |
@@ -60,7 +60,7 @@ In buildings, connecting sensors with BAS software can coordinate live monitorin
 | ⚠ Community based insights created by third-party developers may thwart municipal efforts or identify more costly solutions required for procurement. |
 | **Managing issues.** |
 | ✅ Share data using open license with terms of use for third-party developers. Embed contract terms if directly procuring market data that connects insights with measurable outcomes. |
-| ✅ Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Follow [sound procurement practices](../meta-issues/untitled-2.md). |
 
 | Operations |
 | :--- |

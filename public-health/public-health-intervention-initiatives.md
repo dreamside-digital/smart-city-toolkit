@@ -36,7 +36,7 @@ Data is a powerful tool, and information about health trends among certain group
 | ✅ Provide notice and allow for opt-out. If data provided by an individual may be disclosed to different stakeholders, they should be informed of this disclosure, its nature, and scope. Objections should factor greatly into risk assessments and given heavy consideration. |
 | ✅ Consult stakeholders. Since intervention initiatives seek to function in specific communities, it logically follows that those communities should be consulted before any measures are put in place. They may be able to provide needed data or raise specific issues that were not previously considered. |
 | ✅ Use “heat maps”. Instead of specifically identifying where individuals are located at time of data collection, data can instead be collated into a specific area to further aid in anonymization. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../meta-issues/privacy.md). |
 
 | Security |
 | :--- |
@@ -47,7 +47,7 @@ Data is a powerful tool, and information about health trends among certain group
 | ✅ Institute privacy solutions. Many privacy solutions that seek to strip identifying data will also address issues of security. |
 | ✅ Hold data in a secure location. If data cannot be anonymized, it should be held in a secure location. This ensures individuals cannot be identified by it except in authorized situations. |
 | ✅ Limit access. Any collected user data should only be able to be accessed by those who need to use the information. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Follow [good security practices](../meta-issues/security.md). |
 
 
 

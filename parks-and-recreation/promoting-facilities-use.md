@@ -44,7 +44,7 @@ Encouraging and facilitating the use of public recreational spaces is no less im
 | ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
 | ✅ Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns. |
 | ✅ Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../meta-issues/privacy.md). |
 
 | Security Issues |
 | :--- |
@@ -54,7 +54,7 @@ Encouraging and facilitating the use of public recreational spaces is no less im
 | ✅ Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location. |
 | ✅ Access to personal information should be limited to those with a need to use the information. |
 | ✅ Numerous options for secure online payment are available. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Follow [good security practices](../meta-issues/security.md). |
 
 | Procurement Issues |
 | :--- |
@@ -62,5 +62,5 @@ Encouraging and facilitating the use of public recreational spaces is no less im
 | ⚠ Technology acquisitions often implicate long term commitment to a specific vendor. This creates a danger that a municipality, having committed itself to a particular vendor through a competitive and transparent procurement process, is now at the mercy of the vendor for follow-on services and products. |
 | **Managing Issues.** |
 | ✅ Awareness. Municipalities need to be aware that taxpayer funds are vulnerable not only through the technology selection process, but also throughout the life cycle of the technology. Short term savings often come with outsize long term costs. |
-| ✅ Employ [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Employ [sound procurement practices](../meta-issues/untitled-2.md). |
 

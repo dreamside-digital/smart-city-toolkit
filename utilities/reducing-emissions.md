@@ -50,7 +50,7 @@ Climate change is a global concern for all countries as carbon emission levels a
 | ✅ Obtain consent. Mobile apps and HEMS will likely collect more sensitive and identifiable information. These software tools should obtain consent at the beginning of its use when it is downloaded and again when registering an account, and indicate the purpose of data collection, use and retention of data. |
 | ✅ De-identify as soon as possible. Data collected should de-identify persons captured in the process during the collection of information. |
 | ✅ Limit data collection to only that which is needed. This is the minimization of data collection to what is needed or required. Serious consideration and justification should be made for the collection of sensitive personal information. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices.](../meta-issues/privacy.md) |
 
 | Security |
 | :--- |
@@ -66,7 +66,7 @@ Climate change is a global concern for all countries as carbon emission levels a
 | ✅ Maintenance of Hardware. This prevents a breach of the security parameters on hardware by hackers or thieves. Hardware devices can have an embedded real-time anomaly detector to find compromised devices and isolate them until maintenance is performed. |
 | ✅ Security platform. Establishing a security platform that analyzes data, searches for potential indicators of compromise with the capability of implementing security measures such as isolating affected devices. The system can be programmed to detect the threat or failure type, source, impact, possible solutions, and send an emergency alert to operating personnel for manual clearance or maintenance. |
 | ✅  Ensure that partners have adequate safeguards. All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Follow [good security practices](../meta-issues/security.md). |
 
 | Procurement |
 | :--- |
@@ -74,8 +74,8 @@ Climate change is a global concern for all countries as carbon emission levels a
 | ⚠ Low-carbon solutions involves the procurement of hardware, software programs and developers, and construction projects from third parties. This will raise procurement issues of the risk of obsolescence or vendor lock-in, long-term costs of the technology, and choosing between high-tech and low-tech solutions. There will also need to be consideration for the modes of transportations as GHG emissions also flow from the transportation process. |
 | **Managing Issues.** |
 | ✅ Procurement issues should be dealt with by following sound procurement practices . |
-| ✅  [Intellectual property issues](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html) will arise over ownership and confidentiality of data.  Access and other data entitlements should be addressed at the outset, as part of the [conditions of procurement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅  [Intellectual property issues](../meta-issues/untitled-1.md) will arise over ownership and confidentiality of data.  Access and other data entitlements should be addressed at the outset, as part of the [conditions of procurement](../meta-issues/untitled-2.md). |
 | ✅ A proactive approach to procurement prioritizes value for money across the life cycle of the product rather than the lowest bid. Request for Proposals \(RFP\) can specifically seek out low-embodied carbon materials and low-carbon infrastructure designs that will lower GHG emissions over the building life cycle. Life cycle assessment \(LCA\) is a tool and criteria that can be used to prioritize infrastructure investments. |
 | ✅ Deciding between high-tech and low-tech solutions will depend on several factors: \(a\) What is the environmental context for its use? Municipalities must assess whether they have the appropriate environmental conditions for local renewable energy production to maximize return on investment. \(b\) Cost - low-tech solutions tend to be cheaper to acquire and maintain. Solutions that make use of existing infrastructure will also have lower costs. \(c\) Low-carbon building materials may be more expensive than conventional versions which can be negated be subsidy programs. \(d\) Scalability – Assess bid submissions on the risks of scalability and flexibility to deal with structured and unstructured data. Some considerations include use of consortium models for incremental expansions and non-relational databases. \(e\) Effectiveness – The RFP can be customized to include requirements to demonstrate effectiveness of the renewable energy production methods in the specific environment such as Canada’s cold winter climates. |
-| ✅ Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Follow [sound procurement practices](../meta-issues/untitled-2.md). |
 

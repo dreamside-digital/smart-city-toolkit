@@ -41,7 +41,7 @@ Data trusts are just one of a variety of emerging data governance systems, inclu
 | ✅ Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, do not include start and end points in route data so that a particular route cannot be traced to an individual. Similarly, fuzzing data of sensitive areas provides an additional layer of security for personal information. |
 | ✅ De-identify at the source. Many data collection technologies allow for collection of less granular data. |
 | ✅ Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../meta-issues/privacy.md). |
 
 | Security |
 | :--- |
@@ -50,7 +50,7 @@ Data trusts are just one of a variety of emerging data governance systems, inclu
 | **Managing issues.** |
 | ✅ Encryption tools and strategies will protect data in storage and in transit while securing access rights to stewarded data. |
 | ✅ Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html) |
+| ✅ Follow [good security practices](../meta-issues/security.md) |
 
 | Intellectual Property |
 | :--- |
@@ -59,7 +59,7 @@ Data trusts are just one of a variety of emerging data governance systems, inclu
 | **Managing issues.** |
 | ✅ In dealing with confidential information, non-disclosure agreements will often include crucial details over conditions of access, including: \(a\) the term of use \(i.e., an expiry date\); \(b\) the identities of individuals who may access the information; \(c\) the permitted uses of the information; and \(d\) storage conditions \(for example, the data may be required to be encrypted and may not be duplicated\). |
 | ✅ License terms of original compilations of data protected by copyright may similarly include conditions of access, such as terms, permitted uses, and other such restrictions. |
-| ✅ Carefully review [intellectual property issues](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html). |
+| ✅ Carefully review [intellectual property issues](../meta-issues/untitled-1.md). |
 
 | Inclusion |
 | :--- |
@@ -70,7 +70,7 @@ Data trusts are just one of a variety of emerging data governance systems, inclu
 | **Managing issues.** |
 | ✅ Trust-like data stewardship structures should have a well-defined trusteeship model.  Such models should identify data beneficiaries and in administer access and exploitation decisions on a good faith assessment of the best interests on those beneficiaries. |
 | ✅ Multi-stakeholder forum models are not well suited to act as trustees in such structures since, by definition, the loyalties of representatives are divided.  Multi-stakeholder forums may nonetheless provide essential inputs enabling informed trustee decision-making. |
-| ✅ [Follow inclusive practices](https://cippic-ca.github.io/SmartCityToolkit/inclusion.html). |
+| ✅ [Follow inclusive practices](../meta-issues/inclusion.md). |
 
 ## Resources
 

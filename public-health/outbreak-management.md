@@ -35,7 +35,7 @@ The tracking and monitoring of infectious diseases has long since been a measure
 | ✅ De-identify at the source. Extraneous information should not be gathered when data is being obtained for use in datasets if it is unnecessary. |
 | ✅ Provide notice and allow for opt-out. If data provided by an individual may be disclosed to different stakeholders, they should be informed of this disclosure, its nature, and scope. Objections should factor greatly into risk assessments and given heavy consideration. |
 | ✅ Use less invasive technologies when possible. For example, contact tracing can be entirely non-location based, with each mobile device carrying a unique encrypted key. This key is broadcasted to nearby devices and stored in a queue for a specified period. If someone is found by health authorities to be infected, a notification is sent to every device storing that specific key to inform the individual to seek out testing. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../meta-issues/privacy.md). |
 
 | Security |
 | :--- |
@@ -46,7 +46,7 @@ The tracking and monitoring of infectious diseases has long since been a measure
 | ✅ Institute privacy solutions. Many privacy solutions that seek to strip identifying data will also address issues of security. |
 | ✅ Hold data in a secure location. If data cannot be anonymized, it should be held in a secure location. This ensures individuals cannot be identified by it except in authorized situations. |
 | ✅ Limit access. Any collected user data should only be able to be accessed by those who need to use the information. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Follow [good security practices](../meta-issues/security.md). |
 
 | Accuracy |
 | :--- |

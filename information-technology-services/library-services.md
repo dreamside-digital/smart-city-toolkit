@@ -31,7 +31,7 @@ Learning portals present an elegant and simple solution to this issue by essenti
 | ✅ Only record necessary data. If data is recorded to further develop the portal \(i.e. determine which resources are most useful, etc\), then it should be done so conservatively and in accordance with privacy laws. |
 | ✅ Scrub data of identifying features. Names are typically unnecessary data and should be excluded. |
 | ✅ Use disclaimer: If the portal does collect user data, the user should be clearly informed in simple terms of what data is being collected and why. Libraries may also  choose to make their data collecting opt-in – although users should be able to use the portal regardless of whether they opt-in or not. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../meta-issues/privacy.md). |
 
 | Security |
 | :--- |
@@ -41,5 +41,5 @@ Learning portals present an elegant and simple solution to this issue by essenti
 | ✅ Institute privacy solutions. Many privacy solutions that seek to strip identifying data will also address issues of security. |
 | ✅ Hold data in a secure location. If data cannot be anonymized, it should be held in a secure location. This ensures individuals cannot be identified by it except in authorized situations. |
 | ✅ Limit access. Any collected user data should only be able to be accessed by those who need to use the information. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Follow [good security practices](../meta-issues/security.md). |
 

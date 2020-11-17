@@ -44,7 +44,7 @@ Cycle counting by communities encompasses the tracking of cyclists' road usage, 
 | ✅De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
 | ✅Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns. |
 | ✅Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅Follow [good privacy practices](../meta-issues/privacy.md). |
 
 | Security Issues |
 | :--- |
@@ -53,14 +53,14 @@ Cycle counting by communities encompasses the tracking of cyclists' road usage, 
 | **Managing Issues.** |
 | ✅Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location. |
 | ✅Access should be limited to those with a need to use the information. |
-| ✅Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅Follow [good security practices](../meta-issues/security.md). |
 
 | Procurement |
 | :--- |
 | **Issues.** |
 | ⚠ Most bicycle counting solutions will involve the purchase of products or services from third parties, which will raise procurement issues: \(a\) who will own the data produced by the solution?  What are the long-term costs of the technology? Do the offerings raise issues around vendor lock-in? \(b\) How does a municipality choose between high technology and low-technology solutions? |
 | **Managing Issues.** |
-| ✅Procurement issues should be dealt with by following [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html) |
-| ✅ [Intellectual property issues](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html) will arise over ownership and confidentiality of data.  Access and other data entitlements should be addressed at the outset, as part of the conditions of procurement. |
+| ✅Procurement issues should be dealt with by following [sound procurement practices](../meta-issues/untitled-2.md) |
+| ✅ [Intellectual property issues](../meta-issues/untitled-1.md) will arise over ownership and confidentiality of data.  Access and other data entitlements should be addressed at the outset, as part of the conditions of procurement. |
 | ✅ Deciding between high-tech and low-tech solutions will depend on several factors: \(a\) What is the use case? Long-term planning, or baseline measurement of activity within the city, may not require the speed, accuracy, and scalability that “smarter” technologies offer. Real-time public transit information for customers, in contrast, will heavily rely on these features. \(b\) Cost - low-tech solutions tend to be cheaper to acquire and maintain. High-tech solutions such as autonomous shuttles may have high costs for risk mitigation such as custom insurance coverages and specialized maintenance services. \(c\) Scalability – Assess bid submissions on the risks of scalability and flexibility to deal with structured and unstructured data. Some considerations include use of consortium models for incremental expansions and non-relational databases. |
 

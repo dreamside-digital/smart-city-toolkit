@@ -38,7 +38,7 @@ Smart city solutions are effective at automating monitoring, tracking, and sensi
 | ✅ Choose the technology appropriate to the task.  Low-tech solutions such passive technologies may be preferable to high tech post-construction solutions that are less, more prone to weather and technical failures and more privacy invasive. |
 | ✅ Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, if technologies must be placed near private residences, ensure data is not collected from these locations. |
 | ✅ Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../meta-issues/privacy.md). |
 
 | Security |
 | :--- |
@@ -46,7 +46,7 @@ Smart city solutions are effective at automating monitoring, tracking, and sensi
 | ⚠ Roadside detection devices are subject to vandalization, theft, and destruction from automobile collisions. |
 | **Managing issues.** |
 | ✅ Considering security and replacement costs of lost or damaged devices should be assessed as part of adoption. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Follow [good security practices](../meta-issues/security.md). |
 
 | Procurement |
 | :--- |
@@ -54,7 +54,7 @@ Smart city solutions are effective at automating monitoring, tracking, and sensi
 | ⚠ Costs of deploying wildlife crossing strategies should be considered from a lifecycle perspective. |
 | **Managing issues.** |
 | ✅ Smart technologies may appear to eliminate a problem altogether but can have significant operational and maintenance costs associated with their implementation including structural requirements, damage from weather, technical failures, false-positive and false negative detection rates, and more. |
-| ✅ Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Follow [sound procurement practices](../meta-issues/untitled-2.md). |
 
 | Operations |
 | :--- |

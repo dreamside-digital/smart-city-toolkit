@@ -49,7 +49,7 @@ The waste collection involves sending trucks into the community to collect garba
 | ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
 | ✅ Limit data collection to only that which is needed. Serious consideration and justification should be made for the collection of sensitive personal information. Information associated with a household information regarding the types and volumes of waste should not include specific addresses. |
 | ✅ Ensure that partners follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../meta-issues/privacy.md). |
 
 | Security Issues |
 | :--- |
@@ -62,14 +62,14 @@ The waste collection involves sending trucks into the community to collect garba
 | ✅ Limit access to data. Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information. |
 | ✅ Regular audits and security patches. Where city data is stored on cloud-based servers, the cloud platform should be subject to consistent audits and security patches, with a data recovery strategy in place. |
 | ✅  Ensure that partners have adequate safeguards. All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Follow [good security practices](../meta-issues/security.md). |
 
 | Procurement |
 | :--- |
 | **Issues.** |
 | ⚠ Most waste management solutions will involve the procurement of products or services from third parties, which will raise procurement issues concerning the long-term costs of the technology, depending on the complexity and volume of hardware to be installed. Municipalities also enter Public-Private Partnerships \(P3\) for solid waste and recycling which may potentially raise issues about actual costs, service quality, and reduced transparency and accountability. |
 | **Managing Issues.** |
-| ✅ Procurement issues should be dealt with by following [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Procurement issues should be dealt with by following[ sound procurement practices](../meta-issues/untitled-2.md). |
 | ✅ Intellectual property issues will arise over ownership and confidentiality of data.  Access and other data entitlements should be addressed at the outset, as part of the conditions of procurement. |
 | ✅ P3 procurement should be negotiated such that costs are balanced with the risk transfer to the private sector so that municipalities are paying an appropriate premium to protect against higher costs. P3 contracts that clearly define and control the levels of quality and service required of private-sector partners paired with penalty clauses and right to terminate the contract can ensure service quality and transparency. Accountability can also be enhanced through public reporting of performance measures and a structure of the mechanisms for complaints and redress for the public. |
 | ✅ Deciding between high-tech and low-tech solutions will depend on several factors: - What is the use case? Real-time fill sensors will require the speed and accuracy that “smarter” sensor technologies offer.  - Cost - low-tech solutions tend to be cheaper to acquire and maintain. Solutions that make use of existing infrastructure will also have lower costs. Use of low-power wide area networks \(LPWANs\) for waste collection also have lower costs with high penetration.  - Monthly subscriptions for IoT devices from vendors may overcome upfront cost barriers.  - Scalability – Assess bid submissions on the risks of scalability and flexibility to deal with structured and unstructured data. Some considerations include use of consortium models for incremental expansions and non-relational databases. |

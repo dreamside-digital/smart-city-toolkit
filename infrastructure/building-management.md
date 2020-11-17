@@ -14,7 +14,9 @@ Coupling building maintenance and conservation needs through deep energy retrofi
 
 ## Technologies
 
-**On-site, or in situ investigation** – Takes a whole building approach to upgrades by revealing cross-linkages in building systems which can help to identify overlap in solutions and prioritize investments that resolve multiple issues. Occupant surveys – Identifies the building’s needs and functions. This is important to optimize performance for users as a goal in engineering and design solutions. **Infrared thermography** – Aids in visualizing where heat gains and loss occur in buildings, to target insulation and ventilation efforts. Building sensors – Uses passive infrared, LiDAR, and cameras to detect the presence of occupants and if BAS enabled, can adjust the heating, cooling, and ventilation setpoints when a building is unoccupied.
+**On-site, or in situ investigation** – Takes a whole building approach to upgrades by revealing cross-linkages in building systems which can help to identify overlap in solutions and prioritize investments that resolve multiple issues. Occupant surveys – Identifies the building’s needs and functions. This is important to optimize performance for users as a goal in engineering and design solutions. 
+
+**Infrared thermography** – Aids in visualizing where heat gains and loss occur in buildings, to target insulation and ventilation efforts. Building sensors – Uses passive infrared, LiDAR, and cameras to detect the presence of occupants and if BAS enabled, can adjust the heating, cooling, and ventilation setpoints when a building is unoccupied.
 
 **Building meters** – These devices include air quality monitors, smart thermostats, and smart meters. Air quality monitors detect carbon dioxide and other pollutants to measure fresh air circulation and when connected to BAS they form the information-sensor pathway for smart monitoring. IoT enabled thermostats that allow operators to automate adjust temperature setpoints adjustment based on building occupancy. Energy meters use live energy consumption connected with utility networks to enable time-of-use pricing.
 
@@ -46,7 +48,7 @@ Smart heritage is a concept that seeks to overcome the idea that architectural h
 | ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
 | ✅ Limit data collection to only that which is needed. Collection of highly sensitive personal information through visitor surveys and interactive displays require an examination of why the information is being collected and what purpose it serves to avoid engaging more serious privacy concerns. |
 | ✅ Only keep data for a limited time. Data collected from interactive systems should be collected for a defined period of time and destroyed afterwards. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../meta-issues/privacy.md). |
 
 | Security |
 | :--- |
@@ -56,7 +58,7 @@ Smart heritage is a concept that seeks to overcome the idea that architectural h
 | ✅ In the building retrofits  context, software security must be high where potentially surveilling technologies are used, such as cameras built into interactive kiosks or IoT connected security systems. |
 | ✅ Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location. |
 | ✅ Access should be limited to those with a need to use the information. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Follow [good security practices](../meta-issues/security.md). |
 
 | Procurement |
 | :--- |
@@ -64,7 +66,7 @@ Smart heritage is a concept that seeks to overcome the idea that architectural h
 | ⚠ Compatibility and synchronicity across hardware and software systems is a critical liability risk because the effectiveness of smart systems relies upon coordinating functions. If third parties are involved in data collection and analysis, contracts should be reviewed to ensure data stewardship is aligned with privacy policies. |
 | **Managing issues.** |
 | ✅ Linking sensors, monitors, and energy consumption information to optimize performance is envisioned as the ideal in theory. But introduces contractual, privacy, security and safety risks when examining building systems at an ecosystem level. |
-| ✅ Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Follow[ sound procurement practices](../meta-issues/untitled-2.md). |
 
 | Operations |
 | :--- |
