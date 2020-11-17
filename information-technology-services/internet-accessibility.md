@@ -49,6 +49,6 @@ Un réseau Wi-Fi municipal permet à quiconque disposant d’un appareil compati
 | ✅ Encouragez l’utilisation des sites Web qui utilisent le protocole HTTPS. Le protocole HTTPS est plus sûr et contribuera à protéger les données privées des utilisateurs. Les sites qui n’utilisent pas le protocole HTTPS et qui sont accessibles via le Wi-Fi municipal pourraient s’accompagner d’un avertissement ou d’un avis de non-responsabilité. |
 | ✅ Encouragez l’utilisation de réseaux privés virtuels \(RPV\). Contre une somme modique, les réseaux privés virtuels \(RPV, ou VPN en anglais\) permettent de préserver la confidentialité des données des utilisateurs et d’éviter que des personnes non autorisées ne puissent mettre la main dessus. Les réseaux Wi-Fi municipaux peuvent avoir recours à une page de renvoi qui encourage l’utilisation d’un RPV lors de l’utilisation du réseau. |
 | ✅ Incluez des avertissements. La page de renvoi du Wi-Fi doit comporter un avertissement énonçant les risques liés à l’utilisation d’un Wi-Fi public, auxquels les utilisateurs devraient pouvoir consentir avant d’accéder au service. |
-| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
-| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md). |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](../meta-issues/security.md). |
 

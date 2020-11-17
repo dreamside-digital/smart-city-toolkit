@@ -16,7 +16,9 @@ En apportant d’importantes rénovations énergétiques à des bâtiments histo
 
 ## Technologies
 
-**Enquête sur place** – Ce type d’enquête favorise une approche globale de la modernisation des bâtiments en révélant les liens entre les systèmes de construction, ce qui contribue à l’identification des chevauchements dans les solutions et à la hiérarchisation des investissements qui permettent de résoudre de multiples problèmes. Enquêtes auprès des occupants – Cette méthode permet de définir les besoins et les fonctions du bâtiment. On établit ainsi des solutions d’ingénierie et de conception avec en tête l’optimisation du rendement pour les utilisateurs. **Thermographie infrarouge** – Grâce à cet outil, il est possible de visualiser où se produisent les gains et les pertes de chaleur afin de cibler les efforts d’isolation et de ventilation. Capteurs du bâtiment – Ces capteurs utilisent des détecteurs à infrarouges passifs, le lidar et des caméras pour détecter la présence d’occupants et, s’ils font partie d’un système immotique, ils permettent d’ajuster le chauffage, la climatisation et la ventilation lorsque le bâtiment est inoccupé.
+**Enquête sur place** – Ce type d’enquête favorise une approche globale de la modernisation des bâtiments en révélant les liens entre les systèmes de construction, ce qui contribue à l’identification des chevauchements dans les solutions et à la hiérarchisation des investissements qui permettent de résoudre de multiples problèmes. Enquêtes auprès des occupants – Cette méthode permet de définir les besoins et les fonctions du bâtiment. On établit ainsi des solutions d’ingénierie et de conception avec en tête l’optimisation du rendement pour les utilisateurs. 
+
+**Thermographie infrarouge** – Grâce à cet outil, il est possible de visualiser où se produisent les gains et les pertes de chaleur afin de cibler les efforts d’isolation et de ventilation. Capteurs du bâtiment – Ces capteurs utilisent des détecteurs à infrarouges passifs, le lidar et des caméras pour détecter la présence d’occupants et, s’ils font partie d’un système immotique, ils permettent d’ajuster le chauffage, la climatisation et la ventilation lorsque le bâtiment est inoccupé.
 
 **Compteurs pour bâtiment** – Ces dispositifs comprennent des moniteurs de qualité de l’air, des thermostats intelligents et des compteurs intelligents. Les moniteurs de qualité de l’air détectent le dioxyde de carbone et d’autres polluants pour mesurer la circulation d’air frais et, lorsqu’ils sont connectés à un système immotique, ils forment la voie d’accès aux capteurs d’informations pour la surveillance intelligente. Les thermostats utilisant l’IdO permettent aux responsables d’automatiser le réglage de la température en fonction de l’occupation du bâtiment. Les compteurs d’énergie intelligents mesurent la consommation d’énergie et sont connectés au réseau de services publics pour permettre une facturation différenciée dans le temps.
 
@@ -48,7 +50,7 @@ Le patrimoine intelligent est un concept qui cherche à vaincre l’idée que le
 | ✅ Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. |
 | ✅ Limitez la collecte de données au strict minimum. La collecte de renseignements personnels très sensibles dans le cadre de sondages et d’expositions interactives nécessite un examen des raisons de la collecte et de sa finalité afin d’éviter de susciter des préoccupations plus sérieuses en matière de protection de la vie privée. |
 | ✅ Ne conservez les données que pendant une période limitée. Les données recueillies à partir de systèmes interactifs devraient être conservées pendant une période définie puis détruites. |
-| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md). |
 
 | Sécurité |
 | :--- |
@@ -58,7 +60,7 @@ Le patrimoine intelligent est un concept qui cherche à vaincre l’idée que le
 | ✅ Dans le contexte de la rénovation des bâtiments, la sécurité des logiciels doit être élevée là où il y a usage de technologies de surveillance, par exemple des caméras intégrées dans des kiosques interactifs ou des systèmes de sécurité connectés à l’IdO. |
 | ✅ Bon nombre des solutions aux risques pour la vie privée atténueront aussi les risques pour la sécurité, par exemple l’anonymisation à la source, sinon l’anonymisation dès que possible. Si des renseignements personnels sont recueillis, ils doivent être conservés dans un endroit sûr. |
 | ✅ Seules les personnes qui ont besoin de consulter l’information doivent y avoir accès. |
-| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](../meta-issues/security.md). |
 
 | Approvisionnement |
 | :--- |
@@ -66,7 +68,7 @@ Le patrimoine intelligent est un concept qui cherche à vaincre l’idée que le
 | ⚠ La compatibilité et la synchronicité du matériel et des logiciels représentent un risque critique susceptible d’engager la responsabilité, car l’efficacité des réseaux intelligents repose sur la coordination des fonctions. Si des tiers participent à la collecte et à l’analyse des données, il faut passer en revue les contrats pour s’assurer que l’intendance des données est conforme aux politiques de protection de la vie privée. |
 | **Gestion des risques** |
 | ✅ Relier les capteurs, les moniteurs et l’information sur la consommation d’énergie constitue en principe le moyen idéal d’optimiser le rendement. Cependant, des risques contractuels, pour la vie privée et pour la sécurité s’ajoutent lorsqu’on examine les systèmes de construction à l’échelle de l’écosystème. |
-| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](../meta-issues/procurement.md). |
 
 | Opérations |
 | :--- |

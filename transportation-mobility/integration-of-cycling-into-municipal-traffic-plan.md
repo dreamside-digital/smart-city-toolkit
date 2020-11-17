@@ -54,7 +54,7 @@ Limitez la collecte de données au strict minimum. Les stratégies qui misent su
 
 Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données à une société privée, vérifiez qu’elle respecte ses obligations en matière de respect de la vie privée prévues par les lois applicables.
 
-Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippc-ca.github.io/SmartCityToolkit/privacy.html).
+Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md).
 
 ### Risques pour la sécurité
 
@@ -64,7 +64,7 @@ Suivez les [pratiques exemplaires en matière de protection de la vie privée](h
 
 Seules les personnes qui ont besoin de consulter l’information doivent y avoir accès.
 
-Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html).
+Suivez les [pratiques exemplaires en matière de sécurité](../meta-issues/security.md).
 
 ### Approvisionnement
 
@@ -75,9 +75,9 @@ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.g
 
 **Gestion des risques**
 
-Les risques liés à l’approvisionnement doivent être traités en suivant [les pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).
+Les risques liés à l’approvisionnement doivent être traités en suivant [les pratiques exemplaires en matière d’approvisionnement](../meta-issues/procurement.md).
 
-Des [risques liés à la propriété intellectuelle](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html) sont à prévoir en lien avec la propriété et la confidentialité des données. Les droits d’accès et autres droits relatifs aux données devraient être abordés d’entrée de jeu, en tant que partie intégrante des conditions d’acquisition.
+Des [risques liés à la propriété intellectuelle](../meta-issues/intellectual-property.md) sont à prévoir en lien avec la propriété et la confidentialité des données. Les droits d’accès et autres droits relatifs aux données devraient être abordés d’entrée de jeu, en tant que partie intégrante des conditions d’acquisition.
 
 Le choix de solutions de faible ou de haute technicité dépendra de plusieurs facteurs :
 

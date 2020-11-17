@@ -24,7 +24,7 @@ Il ne suffit pas d’offrir des espaces publics et de loisir, il faut aussi enco
 
 **Cabines de DJ extérieures** – Les cabines de DJ extérieures amplifient et manipulent les musiques pré-enregistrées sur des téléphones intelligents.
 
-_Appareils d’exercice verts\*_ – Appareils d’exercice accessibles gratuitement qui génèrent de l’électricité pour charger les téléphones.
+**Appareils d’exercice verts** – Appareils d’exercice accessibles gratuitement qui génèrent de l’électricité pour charger les téléphones.
 
 **Wi-Fi** – Les municipalités peuvent créer un réseau Wi-Fi public accessible partout dans les parcs grâce à une borne, un modem ou un routeur principal et à des points d’accès sans fil. **Panneaux numériques** – Les panneaux numériques \(écrans à DEL ou films transparents DEL collés sur une surface de verre\) peuvent afficher des images, du texte et des vidéos et être mis à jour en temps réel.
 
@@ -46,7 +46,7 @@ _Appareils d’exercice verts\*_ – Appareils d’exercice accessibles gratuite
 | ✅ Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. |
 | ✅ Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données comme les numéros de vélo ou les cartes de densité de circulation, plutôt que les trajets des cyclistes individuels, éviteront les atteintes graves à la vie privée. |
 | ✅ Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données de sociétés privées, vérifiez que celles-ci respectent leurs propres obligations en matière de respect de la vie privée en vertu des lois applicables. |
-| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md). |
 
 | Risques pour la sécurité |
 | :--- |
@@ -56,7 +56,7 @@ _Appareils d’exercice verts\*_ – Appareils d’exercice accessibles gratuite
 | ✅ Bon nombre des solutions aux risques pour la vie privée atténueront aussi les risques pour la sécurité, par exemple l’anonymisation à la source, sinon l’anonymisation dès que possible. Si des renseignements personnels sont recueillis, ils doivent être conservés dans un endroit sûr. |
 | ✅ Seules les personnes qui ont besoin de consulter l’information doivent y avoir accès. |
 | ✅ Il existe plusieurs modes de paiement sécurisé en ligne. |
-| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](../meta-issues/security.md). |
 
 | Risques liés à l’approvisionnement |
 | :--- |
@@ -64,5 +64,5 @@ _Appareils d’exercice verts\*_ – Appareils d’exercice accessibles gratuite
 | ⚠ Les acquisitions de technologies impliquent souvent un engagement à long terme envers un fournisseur précis. Cela crée le risque qu’une municipalité, après s’être engagée envers un fournisseur dans le cadre d’un processus d’approvisionnement concurrentiel et transparent, soit maintenant à sa merci pour les services après-vente et les produits connexes. |
 | **Gestion des risques** |
 | ✅ Conscience Les municipalités doivent être conscientes que l’argent des contribuables est vulnérable, non seulement lors du processus de sélection de la technologie, mais aussi tout au long de son cycle de vie. Les économies à court terme engendrent souvent des coûts importants à long terme. |
-| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](../meta-issues/procurement.md). |
 

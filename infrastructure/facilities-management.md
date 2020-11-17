@@ -44,7 +44,7 @@ En reliant des détecteurs à des logiciels d’immotique, on peut mettre la sur
 | ✅ Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. |
 | ✅ Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données comme les numéros de vélo ou les cartes de densité de circulation, plutôt que les trajets des cyclistes individuels, éviteront les atteintes graves à la vie privée. |
 | ✅ Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données à une société privée, vérifiez qu’elle respecte ses obligations en matière de respect de la vie privée prévues par les lois applicables. |
-| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md). |
 
 | Sécurité |
 | :--- |
@@ -54,7 +54,7 @@ En reliant des détecteurs à des logiciels d’immotique, on peut mettre la sur
 | ✅ Les mesures de sécurité supplémentaires visant à surveiller les appareils intelligents peuvent aggraver les problèmes de vie privée sans remédier à celui d’entretien des installations. Il faut des mesures de sécurité bien dosées qui respectent le contexte communautaire et l’opinion du public. |
 | ✅ Bon nombre des solutions aux risques pour la vie privée atténueront aussi les risques pour la sécurité, par exemple l’anonymisation à la source, sinon l’anonymisation dès que possible. Si des renseignements personnels sont recueillis, ils doivent être conservés dans un endroit sûr. |
 | ✅ Seules les personnes qui ont besoin de consulter l’information doivent y avoir accès. |
-| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](../meta-issues/security.md). |
 
 | Approvisionnement |
 | :--- |
@@ -62,7 +62,7 @@ En reliant des détecteurs à des logiciels d’immotique, on peut mettre la sur
 | ⚠ Les analyses communautaires élaborées par des tiers peuvent nuire aux efforts de la municipalité ou suggérer des solutions coûteuses. |
 | **Gestion des risques** |
 | ✅ Fixez des modalités à l’utilisation des données partagées en licence libre avec les développeurs tiers. Ajoutez des clauses contractuelles pour l’achat direct de données de marché reliant les analyses à des résultats mesurables. |
-| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](../meta-issues/procurement.md). |
 
 | Opérations |
 | :--- |

@@ -40,7 +40,7 @@ Les solutions de ville intelligente sont efficaces pour automatiser la surveilla
 | ✅ Choisissez la technologie appropriée. L’utilisation de solutions passives de faible technicité peut être préférable aux solutions très techniques après la construction, qui sont moins efficaces et sujettes à des défaillances \(en raison notamment des intempéries et des problèmes techniques\) et qui portent davantage atteinte à la vie privée. |
 | ✅ Floutez les données. Utilisez des techniques de floutage des données pour en préserver la confidentialité. Par exemple, si les appareils doivent être installés à proximité de résidences privées, veillez à ce qu’ils ne recueillent pas de données de cette zone. |
 | ✅ Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données à une société privée, vérifiez qu’elle respecte ses obligations en matière de respect de la vie privée prévues par les lois applicables. |
-| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md). |
 
 | Sécurité |
 | :--- |
@@ -48,7 +48,7 @@ Les solutions de ville intelligente sont efficaces pour automatiser la surveilla
 | ⚠ Les dispositifs de détection installés en bordure des routes peuvent être vandalisés, volés ou encore détruits par des véhicules. |
 | **Gestion des risques** |
 | ✅ Avant d’adopter un appareil, il faut tenir compte des frais de sécurité et de remplacement des appareils perdus ou endommagés. |
-| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](../meta-issues/security.md). |
 
 | Approvisionnement |
 | :--- |
@@ -56,7 +56,7 @@ Les solutions de ville intelligente sont efficaces pour automatiser la surveilla
 | ⚠ Les coûts liés à l’aménagement de passages fauniques doivent être envisagés du point de vue du cycle de vie. |
 | **Gestion des risques** |
 | ✅ Les technologies intelligentes utilisées pour résoudre des problèmes peuvent engendrer des coûts d’exploitation et d’entretien importants \(exigences structurelles, dommages causés par les intempéries, problèmes techniques, faux positifs et faux négatifs, etc.\). |
-| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](../meta-issues/procurement.md). |
 
 | Opérations |
 | :--- |

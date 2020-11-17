@@ -36,7 +36,7 @@ Les outils de détection automatique des coups de feu ne requièrent aucun appel
 | ✅ Utilisez la technologie avec parcimonie. Ces systèmes devraient uniquement être envisagés si les coups de feu non signalés représentent un véritable problème dans la communauté et s’il y a un réel danger que les victimes ne soient pas traitées. |
 | ✅ Supprimez les données qui permettent d’identifier les personnes. La modulation de la voix ou le floutage du visage en temps réel pourrait être utilisé pour rendre anonymes les personnes se trouvant sur les enregistrements. |
 | ✅ Établissez un lien avec la communauté. Avant d’installer ces systèmes, il faut faire preuve d’une transparence absolue avec la communauté et expliquer les limites de la technologie ainsi que la manière dont les données seront utilisées. |
-| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippc-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md). |
 
 | Sécurité |
 | :--- |
@@ -46,5 +46,5 @@ Les outils de détection automatique des coups de feu ne requièrent aucun appel
 | ✅ Établissez des solutions en matière de vie privée. De nombreuses solutions en matière de vie privée visant à éliminer les identificateurs permettent aussi de régler les questions de sécurité. |
 | ✅ Conservez les données dans un endroit sûr. Si les données ne peuvent pas être rendues anonymes, elles doivent être conservées dans un endroit sûr. Il sera ainsi impossible d’identifier les personnes, sauf en cas d’autorisation. |
 | ✅ Limitez l’accès. Seules les personnes qui ont besoin d’accéder aux données audio et vidéo recueillies doivent pouvoir le faire. |
-| ✅  Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅  Suivez les [pratiques exemplaires en matière de sécurité](../meta-issues/security.md). |
 

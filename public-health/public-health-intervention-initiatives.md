@@ -38,7 +38,7 @@ Les données sont un outil puissant, et les tendances sanitaires observées dans
 | ✅ Fournissez un avis et permettez aux gens de se retirer. Si des données fournies par un individu sont susceptibles d’être divulguées à d’autres parties, cet individu doit être informé de la divulgation en question, de sa nature et de sa portée. Dans les évaluations des risques, il faut accorder une place importante aux objections et les prendre très au sérieux. |
 | ✅ Consultez les parties prenantes. Puisque les interventions ciblent certaines communautés, il est logique de les consulter avant de mettre des mesures en place; elles pourront peut-être fournir des données utiles ou soulever des problèmes auxquels personne n’avait pensé. |
 | ✅ Utilisez des cartes de densité. Plutôt que d’indiquer où les personnes se trouvaient au moment de la collecte des données, colligez les données par secteur pour faciliter l’anonymisation. |
-| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md). |
 
 | Sécurité |
 | :--- |
@@ -49,5 +49,5 @@ Les données sont un outil puissant, et les tendances sanitaires observées dans
 | ✅ Instaurez des mesures de respect de la vie privée. De nombreuses solutions en matière de vie privée visant à éliminer les identificateurs permettent aussi de régler les questions de sécurité. |
 | ✅ Gardez les données dans un endroit sécurisé. Si les données ne peuvent pas être rendues anonymes, elles doivent être conservées dans un endroit sûr. Il sera ainsi impossible d’identifier les personnes, sauf sur autorisation. |
 | ✅  Limitez l’accès. Seules les personnes qui ont besoin d’accéder aux données des utilisateurs recueillies doivent pouvoir le faire. |
-| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité.](../meta-issues/security.md) |
 

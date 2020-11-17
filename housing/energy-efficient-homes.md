@@ -51,7 +51,7 @@ La modélisation énergétique permet de s’assurer qu’un bâtiment respecte 
 | ✅ Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. |
 | ✅ Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données comme les numéros de vélo ou les cartes de densité de circulation, plutôt que les trajets des cyclistes individuels, éviteront les atteintes graves à la vie privée. |
 | ✅ Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données de sociétés privées, vérifiez que celles-ci respectent leurs propres obligations en matière de respect de la vie privée en vertu des lois applicables. |
-| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md). |
 
 | Sécurité |
 | :--- |
@@ -59,7 +59,7 @@ La modélisation énergétique permet de s’assurer qu’un bâtiment respecte 
 | ⚠ Les risques principaux liés aux technologies d’efficacité énergétique dépendent de l’échelle de leur déploiement. Les menaces à la sécurité d’un réseau intelligent ne sont pas du même niveau que celles posées par un logiciel de collecte de données. Ce qu’il faut se demander, c’est si quelqu’un peut pirater le système et nuire à la bonne distribution de l’énergie. |
 | **Gestion des risques** |
 | ✅ Les brèches de sécurité visant les technologies essentielles peuvent entraîner des blessures physiques et requièrent donc une évaluation des risques détaillée. |
-| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](../meta-issues/security.md). |
 
 | Approvisionnement |
 | :--- |
@@ -67,7 +67,7 @@ La modélisation énergétique permet de s’assurer qu’un bâtiment respecte 
 | ⚠ La compatibilité et la synchronicité du matériel et des logiciels représentent un risque critique susceptible d’engager la responsabilité, car l’efficacité des réseaux intelligents repose sur la coordination des fonctions. |
 | **Gestion des risques** |
 | ✅ Relier les capteurs, les moniteurs et l’information sur la consommation d’énergie constitue en principe le moyen idéal d’optimiser le rendement. Cependant, des risques contractuels, pour la vie privée et pour la sécurité s’ajoutent lorsqu’on examine les systèmes de construction à l’échelle de l’écosystème. |
-| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](../meta-issues/procurement.md). |
 
 | Opérations |
 | :--- |

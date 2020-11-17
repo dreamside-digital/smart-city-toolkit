@@ -46,7 +46,7 @@ Il faut tenir compte du fait que bon nombre de personnes itinérantes sont incap
 | ⚠ De nombreuses personnes en situation d’itinérance entretiennent une grande méfiance envers toute atteinte à la vie privée et sont réfractaires aux technologies de collecte de données. |
 | **Gestion des risques** |
 | ✅ La protection de la vie privée et de la confidentialité doit être au cœur de l’évaluation des technologies, car la participation en pâtira si l’on permet des atteintes à la vie privée. |
-| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md). |
 
 | Sécurité |
 | :--- |
@@ -55,7 +55,7 @@ Il faut tenir compte du fait que bon nombre de personnes itinérantes sont incap
 | **Gestion des risques** |
 | ✅ Les solutions de faible technicité, comme la présence d’agents de sécurité, peuvent contribuer à la perception de prison, ce qui peut repousser les clients dans le besoin. La surveillance visuelle ou vidéo et les autres formes de contrôle peuvent avoir un effet contre-productif et engendrer chez les occupants du refuge de l’agressivité, des comportements méprisants, de l’irritation et des menaces de violence. |
 | ✅ La détermination des limites acceptables du refuge constitue un problème important lorsque l’on envisage d’expulser les pommes pourries. La technologie peut permettre de repérer les personnes qui ne respectent pas les règlements du refuge, afin d’assurer la bonne conduite et de diminuer les risques d’activités criminelles. L’utilisation de caméras en circuit fermé pour surveiller les espaces du refuge, combinée à la présence de personnel de sécurité, est légitime pour protéger le personnel et les occupants et gérer les situations violentes. |
-| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](../meta-issues/security.md). |
 
 | Approvisionnement |
 | :--- |
@@ -63,7 +63,7 @@ Il faut tenir compte du fait que bon nombre de personnes itinérantes sont incap
 | ⚠ Les technologies non testées peuvent causer des préjudices imprévus. |
 | **Gestion des risques** |
 | ✅ L’achat de téléphones « idiots » à remettre aux personnes en situation d’itinérance est essentiel à l’adoption et à la réussite du programme. |
-| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Suivez les [pratiques exemplaires en matière d’approvisionnement](../meta-issues/procurement.md). |
 
 | Opérations |
 | :--- |

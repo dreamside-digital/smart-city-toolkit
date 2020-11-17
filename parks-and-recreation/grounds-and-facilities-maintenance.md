@@ -76,7 +76,7 @@ La présence d’enfants dans les parcs et les espaces de loisirs publics rend p
 | ✅ Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. |
 | ✅ Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données comme les numéros de vélo ou les cartes de densité de circulation, plutôt que les trajets des cyclistes individuels, éviteront les atteintes graves à la vie privée. |
 | ✅ Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données de sociétés privées, vérifiez que celles-ci respectent leurs propres obligations en matière de respect de la vie privée en vertu des lois applicables. |
-| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md). |
 
 | Sécurité |
 | :--- |
@@ -88,7 +88,7 @@ La présence d’enfants dans les parcs et les espaces de loisirs publics rend p
 | ✅ Seules les personnes qui ont besoin de consulter l’information doivent y avoir accès. |
 | ✅ Le recours à des bracelets d’identification par radiofréquence, comme ceux utilisés à Disneyland, pourrait théoriquement rehausser le sentiment de sécurité lors d’événements très achalandés comme la fête du Canada. Cependant, cette technologie n’a pas fait ses preuves pour ce qui est de retrouver un enfant perdu. Disney utilise les bracelets principalement comme preuve d’achat numérique et pour garder une trace des activités de ses clients. |
 | ✅ Il existe plusieurs modes de paiement sécurisé en ligne. |
-| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](../meta-issues/security.md). |
 
 | Risques liés à l’approvisionnement |
 | :--- |
@@ -97,6 +97,6 @@ La présence d’enfants dans les parcs et les espaces de loisirs publics rend p
 | **Gestion des risques** |
 | ✅ Misez sur les chiffres, pas sur le traçage. Enregistrez les données sur la fréquence d’utilisation des bacs intelligents, le nombre de collectes, les heures optimales pour la collecte et les types de déchets. Les données numériques sur la fréquence de collecte des déchets ne permettent pas nécessairement de connaître l’identité de quelqu’un. |
 | ✅ Misez sur les chiffres, pas sur le traçage. Enregistrez les données sur la fréquence d’utilisation des bacs intelligents, le nombre de collectes, les heures optimales pour la collecte et les types de déchets. Les données numériques sur la fréquence de collecte des déchets ne permettent pas nécessairement de connaître l’identité de quelqu’un. |
-
-Conscience. Les municipalités doivent être conscientes que l’argent des contribuables est vulnérable, non seulement lors du processus de sélection de la technologie, mais aussi tout au long de son cycle de vie. Les économies à court terme engendrent souvent des coûts importants à long terme.\| \|:heavy\_check\_mark: Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).\|
+| ✅ Conscience. Les municipalités doivent être conscientes que l’argent des contribuables est vulnérable, non seulement lors du processus de sélection de la technologie, mais aussi tout au long de son cycle de vie. Les économies à court terme engendrent souvent des coûts importants à long terme. |
+| ✅Suivez les [pratiques exemplaires en matière d’approvisionnement](../meta-issues/procurement.md). |
 

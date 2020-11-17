@@ -37,7 +37,7 @@ Le traçage et la surveillance des maladies infectieuses ont depuis longtemps co
 | ✅ Anonymisez à la source. Aucune information superflue ne devrait être recueillie en vue de son utilisation dans un ensemble de données. |
 | ✅ Fournissez un avis et permettez aux gens de se retirer. Si des données fournies par un individu sont susceptibles d’être divulguées à d’autres parties, cet individu doit être informé de la divulgation en question, de sa nature et de sa portée. Dans les évaluations des risques, il faut accorder une place importante aux objections et les prendre très au sérieux. |
 | ✅ Utilisez si possible des technologies qui portent moins atteinte à la vie privée. Par exemple, la recherche de contacts n’est aucunement géodépendante si chaque appareil mobile possède une clé chiffrée unique. Cette clé est transmise aux appareils situés à proximité et enregistrée dans une file d’attente pour une durée déterminée. Si les autorités sanitaires découvrent que quelqu’un est infecté, un avis est envoyé à chacun des appareils dans lesquels la clé est enregistrée afin d’informer leurs propriétaires qu’ils devraient subir un test de dépistage. |
-| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md). |
 
 | Sécurité |
 | :--- |
@@ -48,7 +48,7 @@ Le traçage et la surveillance des maladies infectieuses ont depuis longtemps co
 | ✅ Instaurez des mesures de respect de la vie privée. De nombreuses solutions en matière de vie privée visant à éliminer les identificateurs permettent aussi de régler les questions de sécurité. |
 | ✅  Gardez les données dans un endroit sécurisé. Si les données ne peuvent pas être rendues anonymes, elles doivent être conservées dans un endroit sûr. Il sera ainsi impossible d’identifier les personnes, sauf sur autorisation. |
 | ✅ Limitez l’accès. Seules les personnes qui ont besoin d’accéder aux données des utilisateurs recueillies doivent pouvoir le faire. |
-| ✅ Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de sécurité](../meta-issues/security.md). |
 
 | Exactitude |
 | :--- |

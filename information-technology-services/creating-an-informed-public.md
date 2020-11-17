@@ -40,7 +40,7 @@ L’ouverture des données est une approche utilisée par les municipalités pou
 | ✅ Faites examiner les données sensibles par un comité interne. Un comité composé d’experts et de représentants divers permettra de soupeser les risques de fuite de données de manière précise et équilibrée. Des acteurs communautaires doivent aussi y siéger. |
 | ✅ Fournissez un avis et permettez aux gens de se retirer. Si des données fournies par une personne sont susceptibles d’être publiées dans le cadre d’un programme ou sur une plateforme de données ouvertes d’une municipalité, cette personne doit être informée de la publication en question, de sa nature et de sa portée. Dans les évaluations des risques, il faut accorder une place importante aux objections et les prendre très au sérieux. |
 | ✅ Caviardez les données au besoin. Les données peuvent être caviardées pour exclure les informations permettant d’identifier une personne. |
-| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Suivez les [pratiques exemplaires en matière de protection de la vie privée](../meta-issues/privacy.md). |
 
 | Inclusion : exactitude, équité et justice |
 | :--- |
@@ -51,5 +51,5 @@ L’ouverture des données est une approche utilisée par les municipalités pou
 | ✅ Créez des systèmes de correction et de plaintes. Les municipalités devraient mettre au point des méthodes claires et simples permettant au public d’identifier et de corriger les données inexactes. |
 | ✅ Réévaluez les données à mesure que de nouveaux faits se présentent. Les données devraient être modifiées ou corrigées au besoin. |
 | ✅ Établissez des calendriers de réexamen des données publiées. Toutes les données, ententes et licences seront examinées périodiquement pour déterminer si elles doivent être mises à jour ou modifiées. |
-| ✅ Suivez les [pratiques exemplaires en matière d’inclusivité](https://cippic-ca.github.io/SmartCityToolkit/inclusion.html). |
+| ✅ Suivez les [pratiques exemplaires en matière d’inclusivité](../meta-issues/inclusion.md). |
 
