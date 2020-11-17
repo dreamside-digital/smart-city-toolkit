@@ -31,14 +31,15 @@ Lorsque vient le temps d’acquérir des technologies de ville intelligente, les
 Center for Internet Security, [“Cybersecurity Best Practices”](https://www.cisecurity.org/cybersecurity-best-practices/).
 
 * Le Center for Internet Security a élaboré une liste de 140 lignes directrices sur les configurations de sécurité à l’échelle mondiale.
+* La Fondation pour la sécurité de l’IdO fournit un cadre et un questionnaire de conformité à la sécurité de l’IdO. Le cadre de conformité couvre les exigences de sécurité et les processus d’orientation de l’IdO, tandis que le questionnaire de conformité est une liste de contrôle sous forme de chiffrier pour soutenir et documenter les conceptions de sécurité.
+* L’association GSM fournit des listes de contrôle pour l’évaluation de la confidentialité et de la sécurité de l’IdO à l’intention des fournisseurs et des vendeurs afin de documenter le processus de conception des produits de l’IdO.
+* En 2016, le gouvernement indien a publié un cadre modèle comprenant 30 exigences de cybersécurité pour une ville intelligente. Ces exigences couvrent différents niveaux ou couches de sécurité dans les villes intelligentes \(applications, données, communications et capteurs\).
 
-• La Fondation pour la sécurité de l’IdO fournit un cadre et un questionnaire de conformité à la sécurité de l’IdO. Le cadre de conformité couvre les exigences de sécurité et les processus d’orientation de l’IdO, tandis que le questionnaire de conformité est une liste de contrôle sous forme de chiffrier pour soutenir et documenter les conceptions de sécurité.
+Sécurité publique Canada
 
-• L’association GSM fournit des listes de contrôle pour l’évaluation de la confidentialité et de la sécurité de l’IdO à l’intention des fournisseurs et des vendeurs afin de documenter le processus de conception des produits de l’IdO.
-
-• En 2016, le gouvernement indien a publié un cadre modèle comprenant 30 exigences de cybersécurité pour une ville intelligente. Ces exigences couvrent différents niveaux ou couches de sécurité dans les villes intelligentes \(applications, données, communications et capteurs\).
-
-Sécurité publique Canada — • Principes fondamentaux de cybersécurité à l’intention du milieu des infrastructures essentielles du Canada. • Principes de prévention contre les attaques par déni de service. • Sécurité informatique et systèmes de contrôle industriel \(SCI\) : pratiques exemplaires recommandées.
+* Principes fondamentaux de cybersécurité à l’intention du milieu des infrastructures essentielles du Canada. 
+* Principes de prévention contre les attaques par déni de service. 
+* Sécurité informatique et systèmes de contrôle industriel \(SCI\) : pratiques exemplaires recommandées.
 
 LSNetwork, Best Practices and Guides on IoT security in Smart Cities.
 
@@ -56,11 +57,11 @@ Ann Cavoukian and Mark Dixon, “Privacy and Security by Design: An Enterprise A
 
 * Ce document de 2013 sur l’approche fondamentale de l’intégration conceptuelle de la sécurité pour les technologies de l’IdO en expose les principes de base pour les étapes de conception, de construction, de test et de maintenance de l’architecture d’entreprise.
 
-Mohamad Hasbini et al., ["Smart Cities Cyber Crisis Management"](https://securingsmartcities.org/wp-content/uploads/2017/09/SSC-SCCCM.pdf) • Les auteurs discutent de la sécurisation des villes intelligentes, des 15 éléments qui ne devraient pas échouer dans ces villes \(soins de santé, identité, eau, transports, énergie, drones, déchets, etc.\) et des mesures proactives à prendre pour éviter les cyberattaques et les rançongiciels. Les auteurs détaillent des stratégies pour atténuer et gérer toute cybercrise, le cas échéant, en recourant à des mesures comme la préparation, la détection, la réponse, l’enquête, le confinement, la remédiation, etc.
+Mohamad Hasbini et al., ["Smart Cities Cyber Crisis Management"](https://securingsmartcities.org/wp-content/uploads/2017/09/SSC-SCCCM.pdf) 
 
-• En ce qui concerne les attaques basées sur l’IdO, l’Autorité canadienne pour les enregistrements Internet a créé une Passerelle domestique sécurisée qui aide à rendre sécuritaires les foyers connectés.
-
-• Le Deloitte Centre for Government Insights a produit un rapport intitulé « Making Smart Cities Cybersecure », lequel résume les sources systémiques de vulnérabilité en matière de sécurité pour les villes intelligentes et propose des solutions politiques pour résoudre ces problèmes.
+* Les auteurs discutent de la sécurisation des villes intelligentes, des 15 éléments qui ne devraient pas échouer dans ces villes \(soins de santé, identité, eau, transports, énergie, drones, déchets, etc.\) et des mesures proactives à prendre pour éviter les cyberattaques et les rançongiciels. Les auteurs détaillent des stratégies pour atténuer et gérer toute cybercrise, le cas échéant, en recourant à des mesures comme la préparation, la détection, la réponse, l’enquête, le confinement, la remédiation, etc.
+* En ce qui concerne les attaques basées sur l’IdO, l’Autorité canadienne pour les enregistrements Internet a créé une Passerelle domestique sécurisée qui aide à rendre sécuritaires les foyers connectés.
+* Le Deloitte Centre for Government Insights a produit un rapport intitulé « Making Smart Cities Cybersecure », lequel résume les sources systémiques de vulnérabilité en matière de sécurité pour les villes intelligentes et propose des solutions politiques pour résoudre ces problèmes.
 
 Canadian Centre for Cyber Security: An Introduction to the Cyber Threat Environment
 
@@ -80,7 +81,9 @@ Global Public Policy Institute \(GPPI\): Advancing Cybersecurity Capacity Buildi
 
 IoTSecurity2018 – Enhancing IoT Security.
 
-ENISA – • Good Practices for Security of Internet of Things in the context of Smart Manufacturing. • Baseline Security Recommendations for IoT in the context of Critical Information Infrastructures.
+ENISA 
+
+* Good Practices for Security of Internet of Things in the context of Smart Manufacturing. • Baseline Security Recommendations for IoT in the context of Critical Information Infrastructures.
 
 1. HKCERT – IoT Security Best Practice Guidelines, January 2020.
 
