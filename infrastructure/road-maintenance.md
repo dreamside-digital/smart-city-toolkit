@@ -3,63 +3,61 @@ layout: default
 title: Road Maintenance
 permalink: /infrastructure/road-maintenance
 ---
+# Services : Entretien des routes
 
-# Road Maintenance
+L’entretien des routes – repavage, remplissage des nids de poule et peinture – est une activité permanente. Or, des problèmes saisonniers, comme la présence d’animaux morts sur les routes, peuvent nuire à leur entretien ainsi qu’à la circulation. Le problème du chevauchement entre l’entretien des routes et les passages pour animaux sauvages est également compliqué par le fait que ces questions sont souvent traitées par deux services municipaux distincts : (i) l’infrastructure et les routes, et (ii) l’environnement et la faune.
 
-Road maintenance is an ongoing activity that involves repaving, pothole filling, and repainting. However seasonal issues on roads, such as wildlife casualties can interfere with normal traffic and impact road maintenance. The overlap between road maintenance and wildlife crossings is also challenged by the fact that these issues are often dealt with by two distinct municipal departments: \(i\) infrastructure/roads, and \(ii\) environment/wildlife.
+## Applications et solutions : Surveillance de la faune
 
-## Applications and Solutions: Wildlife Monitoring
+Nombre d’automobilistes, de passagers et d’animaux sont sérieusement blessés ou tués à la suite de collisions sur les routes municipales. Il s’agit d’un problème grave : selon les statistiques, de quatre à huit collisions avec des animaux se produisent toutes les heures au Canada. Chaque année, on estime qu’il y en a entre 10 000 et plus de 15 000 dans chaque province. Comme on peine à suivre les grands mammifères et à détecter leurs passages, il est difficile de déterminer les endroits où les automobilistes doivent ralentir et rouler avec prudence. Les panneaux affichés sur les routes à grande vitesse ne sont pas particulièrement utiles, car ils n’informent pas les conducteurs lorsqu’il y a un risque accru.
 
-Wildlife collisions are a serious problem that results in death and serious injuries to motorists, their passengers and animal casualties on municipal roadways. Statistics reveal 4 to 8 animal collisions occur every hour in Canada. Annually, wildlife collisions are estimated to range from 10,000 to over 15,000 annually in each province. Anticipating where crossings occur can alert motorists to slow down and proceed cautiously is made difficult because of the difficulties of tracking large mammals and detecting crossings. Posted signs on high-speed roads are not especially useful because they do not inform drivers when a heightened risk is present.
-
-Smart city solutions are effective at automating monitoring, tracking, and sensing when animals are on road and can provide live updates that inform motorists when to slow down.
+Les solutions de ville intelligente sont efficaces pour automatiser la surveillance, le suivi et la détection des animaux sur la route et peuvent avertir les automobilistes en temps réel.
 
 ## Technologies
 
-**Fencing** – Roadside fencing is effective at preventing wildlife collisions by restricting their entry onto roadways, but this also confines animals to one side preventing essential mating, access to food sources, and migration patterns that can negatively impact animal populations. Studies revealed that this solution has allowed cougar populations to double and are used by a wide variety of species such as: bears, elk, deer, moose, foxes, marmots, toads, wolves, wolverines, lynx, snakes, beavers, coyotes, cougars, bighorn sheep and more.
+**Clôtures** – Les clôtures préviennent efficacement les collisions en réduisant la circulation animale sur la route. Cependant, elles peuvent nuire aux populations animales en les confinant d’un côté de la route, ce qui coupe l’accès aux sites de reproduction, à la nourriture et aux corridors migratoires. Selon des études, cette solution a permis aux populations de couguars de doubler et est employée par d’autres espèces, dont les ours, les wapiti, les cerfs, les orignaux, les renards, les marmottes, les crapauds, les loups, les carcajous, les lynx, les serpents, les castors, les coyotes, et les mouflons.
 
-**Green overpass and underpasses** – Creating animal crossings at strategic points on roadways can encourage safe passage for animals, reducing use of roads, which leads to less collisions and accompanying injuries and death. This can support animal crossings and enable research through camera installation, as was the case in Banff National Park. Both under and overpasses were important for different species and adaptation may take up to five years for bears and wolves
+**Ponts verts supérieurs et inférieurs** – La création de passages fauniques à des endroits stratégiques peut encourager les animaux à utiliser ces structures sécuritaires plutôt que la route et réduire le nombre de collisions et les blessures et les décès qui en découlent. Cette solution peut faciliter le passage des animaux, mais aussi la recherche grâce à l’installation de caméras, comme ce fut le cas dans le Parc national de Banff où les passages supérieurs et inférieurs étaient très utilisés par plusieurs espèces, leur adoption pouvant prendre jusqu’à cinq ans dans le cas des ours et des loups.
 
-**Break the beam sensors** – Break-the-beam sensors detect large animals when their bodies block or interrupt a beam of infrared, laser, or microwave radio signals sent between a transmitter and receiver. They often miss small animals, however, and produce many false positives and negatives. They also require ongoing maintenance such as mowing, introduction of power sources, fence construction, and replacement costs due to weatherization, technical problems such as signal failure, obstruction issues, costs, vandalism, and threat, and are subject to vehicle collisions.
+**Détecteurs à faisceau** – Les détecteurs à faisceau détectent les grands mammifères dont le corps bloque un faisceau infrarouge, laser ou de micro-ondes entre un émetteur et un détecteur. Cependant, ils manquent souvent les petits animaux et produisent beaucoup de faux positifs et de faux négatifs. Il faut continuellement les entretenir (tondre le gazon, ajouter des sources d’alimentation, construire des clôtures, etc.). Il faut aussi tenir compte des coûts de remplacement en raison des intempéries et des problèmes techniques (défaillance ou obstruction du signal, vandalisme, menaces, etc.), en plus du fait qu’ils peuvent être heurtés par des véhicules.
 
-**Digital road signs** – These signs warn motorists of upcoming road traffic and safety conditions and can be programmed to provide live updates. Digital road signs can complement break the beam sensors to inform motorists when wildlife is crossing. They can also be used independently to warn motorists when heightened alert is warranted during peak crossing periods.
+**Panneaux de signalisation numériques** – Ces panneaux préviennent les automobilistes des conditions de circulation et de sécurité sur la route et peuvent être programmés pour fournir des alertes en temps réel. Ils peuvent être utilisés conjointement avec des détecteurs à faisceau pour informer les usagers de la présence d’animaux sur la route. Utilisés indépendamment, ils peuvent inviter les automobilistes à redoubler de vigilance pendant les périodes où les passages sont les plus fréquents.
 
-**LiDAR cameras** – LiDAR technologies scan a defined area using laser and detector pairs mounted in a compact housing unit. This can cover a 360-degree horizontal and 30-degree vertical field view allowing for advanced wildlife detection and tracking. Coupled with deer classifying algorithms which includes background filtering, LiDAR can detect a deer 30 metres away with a controlled time delay of 0.2 seconds.
+**Caméras lidar** – La technologie lidar se présente sous forme de faisceaux laser associés à des détecteurs, installés dans des boîtiers compacts, balayant un endroit donné. Ces appareils peuvent couvrir un plan horizontal de 360° et un champ vertical de 30°, permettant une détection et un suivi avancés de la faune. Associés à des algorithmes de détection des cerfs qui filtrent l’arrière-plan, ils peuvent détecter un animal à une distance de 30 m dans un délai de 0,2 s.
 
-## Managing Liability Issues
+## Gestion des risques susceptibles d’engager la responsabilité
 
-| Privacy |
-| :--- |
-| **Issues.** |
-| ⚠ Consider the location of installing detection devices. Ensure that advanced sensor systems such as LiDAR are not located near private residences. |
-| **Managing issues.** |
-| ✅ Modifying algorithms to distort human classifiers can reduce the likelihood that individuals will be inadvertently monitored. |
-| ✅ Collect data, don’t surveil.  Wildlife monitoring should not in theory, infringe on privacy rights. However, technologies that are used in surveillance gathering should be carefully screened for privacy issues. |
-| ✅ Choose the technology appropriate to the task.  Low-tech solutions such passive technologies may be preferable to high tech post-construction solutions that are less, more prone to weather and technical failures and more privacy invasive. |
-| ✅ Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, if technologies must be placed near private residences, ensure data is not collected from these locations. |
-| ✅ Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
 
-| Security |
-| :--- |
-| **Issues.** |
-| ⚠ Roadside detection devices are subject to vandalization, theft, and destruction from automobile collisions. |
-| **Managing issues.** |
-| ✅ Considering security and replacement costs of lost or damaged devices should be assessed as part of adoption. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| Vie privée|
+|---|
+| **Risques**|
+|:warning: Pensez à l’emplacement des appareils. Veillez à ce que les systèmes de détection avancés comme le lidar ne soient pas installés à proximité de résidences privées. |
+|**Gestion des risques** |
+|:heavy_check_mark: En modifiant les algorithmes pour éviter de reconnaître une forme humaine, on peut réduire les risques qu’une personne soit surveillée par inadvertance. |
+|:heavy_check_mark: Recueillez des données, mais ne surveillez pas les maisons. En principe, la surveillance de la faune ne doit pas porter atteinte au droit à la vie privée. Les appareils de collecte de données doivent être soigneusement sélectionnés pour réduire les risques en la matière. |
+|:heavy_check_mark: Choisissez la technologie appropriée. L’utilisation de solutions passives de faible technicité peut être préférable aux solutions très techniques après la construction, qui sont moins efficaces et sujettes à des défaillances (en raison notamment des intempéries et des problèmes techniques) et qui portent davantage atteinte à la vie privée. |
+|:heavy_check_mark: Floutez les données. Utilisez des techniques de floutage des données pour en préserver la confidentialité. Par exemple, si les appareils doivent être installés à proximité de résidences privées, veillez à ce qu’ils ne recueillent pas de données de cette zone. |
+|:heavy_check_mark: Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données à une société privée, vérifiez qu’elle respecte ses obligations en matière de respect de la vie privée prévues par les lois applicables.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
 
-| Procurement |
-| :--- |
-| **Issues.** |
-| ⚠ Costs of deploying wildlife crossing strategies should be considered from a lifecycle perspective. |
-| **Managing issues.** |
-| ✅ Smart technologies may appear to eliminate a problem altogether but can have significant operational and maintenance costs associated with their implementation including structural requirements, damage from weather, technical failures, false-positive and false negative detection rates, and more. |
-| ✅ Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| Sécurité|
+|---|
+| **Risques**|
+|:warning: Les dispositifs de détection installés en bordure des routes peuvent être vandalisés, volés ou encore détruits par des véhicules. |**Gestion des risques** |
+|:heavy_check_mark: Avant d’adopter un appareil, il faut tenir compte des frais de sécurité et de remplacement des appareils perdus ou endommagés. |
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html).|
 
-| Operations |
-| :--- |
-| **Issues.** |
-| ⚠ Effectiveness in terms of reducing vehicle-animal collisions should be considered before selecting a solution. |
-| **Managing issues.** |
-| ✅ Pilot technologies prior to incentivizing or deploying it. Collect appropriate data on various solutions before adopting a municipal-wide strategy. |
+| Approvisionnement |
+|---|
+| **Risques**|
+|:warning: Les coûts liés à l’aménagement de passages fauniques doivent être envisagés du point de vue du cycle de vie. |
+|**Gestion des risques** |
+|:heavy_check_mark: Les technologies intelligentes utilisées pour résoudre des problèmes peuvent engendrer des coûts d’exploitation et d’entretien importants (exigences structurelles, dommages causés par les intempéries, problèmes techniques, faux positifs et faux négatifs, etc.). |
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).|
 
+| Opérations|
+|---|
+| **Risques**|
+|:warning: Avant d’adopter une solution, il faut envisager son efficacité en ce qui a trait à la réduction du nombre de collisions entre les véhicules et les animaux. |
+|**Gestion des risques** |
+|:heavy_check_mark: Testez les appareils avant de les adopter ou de les déployer. Renseignez-vous suffisamment sur les solutions disponibles avant d’adopter une stratégie municipale. |

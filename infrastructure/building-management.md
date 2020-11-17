@@ -3,73 +3,75 @@ layout: default
 title: Building Management
 permalink: /infrastructure/building-management
 ---
+# Services : Gestion des bâtiments
 
-# Building Management
+Le service de gestion des actifs des municipalités supervise généralement les calendriers de remplacement et de modernisation des bâtiments existants. Les bâtiments et les infrastructures vieillissants posent des défis permanents lorsque le remplacement des bâtiments n’est pas possible en raison de leur caractère historique. La conservation du patrimoine coûte cher, mais les principes qui les sous-tendent sont généralement dissociés des considérations de durabilité environnementale, se concentrant plutôt sur la sécurité incendie, l’accessibilité, le retrait du plomb et de l’amiante et le renforcement sismique. Cela dit, les coûts d’exploitation de ces bâtiments sont également élevés. L’inefficacité énergétique, l’isolation thermique, la ventilation et la qualité de l’air déficientes, ainsi que le manque d’étanchéité des fenêtres et des portes entraînent des coûts d’entretien élevés.
 
-The asset management department in municipalities typically oversees the replacement and upgrade schedules for existing buildings. Aging buildings and infrastructure present ongoing challenges where building replacement is not possible due to their historical character. The cost of heritage conservation is significant, yet their principles tend to be divorced from environmental sustainability considerations, focusing instead on fire safety, accessibility, lead and asbestos removal, and seismic strengthening. However, the operational costs of these buildings are also high. Energy inefficiency, poor thermal insulation, poor ventilation and air quality, and leaky windows and doors lead to high maintenance costs.
+## Applications et solutions : Rénovation des bâtiments historiques
 
-## Applications & Solutions: Retrofitting Historical Buildings
-
-Coupling building maintenance and conservation needs through deep energy retrofits of historical buildings can substantially extend their life while preserving architectural features and improving comfort and design. Deep energy retrofits coupling the replacement of major building assets with redesign of energy systems involving energy modelling and redesign, and upgrades to building envelope. This requires coordinating heritage conservation efforts with asset management upgrade and replacement schedules. The unique conditions of historical buildings require early identification and assessment of challenges and solutions from an engineering, design, and occupant perspective with clear project goals and priorities identified at the outset. Smart solutions allow evaluating where building upgrades are needed by modelling performance and connecting building energy systems through automation.
-
-## Technologies
-
-**On-site, or in situ investigation** – Takes a whole building approach to upgrades by revealing cross-linkages in building systems which can help to identify overlap in solutions and prioritize investments that resolve multiple issues. Occupant surveys – Identifies the building’s needs and functions. This is important to optimize performance for users as a goal in engineering and design solutions. **Infrared thermography** – Aids in visualizing where heat gains and loss occur in buildings, to target insulation and ventilation efforts. Building sensors – Uses passive infrared, LiDAR, and cameras to detect the presence of occupants and if BAS enabled, can adjust the heating, cooling, and ventilation setpoints when a building is unoccupied.
-
-**Building meters** – These devices include air quality monitors, smart thermostats, and smart meters. Air quality monitors detect carbon dioxide and other pollutants to measure fresh air circulation and when connected to BAS they form the information-sensor pathway for smart monitoring. IoT enabled thermostats that allow operators to automate adjust temperature setpoints adjustment based on building occupancy. Energy meters use live energy consumption connected with utility networks to enable time-of-use pricing.
-
-**Integrated building automation systems \(BAS\)** – The complex integration of multiple energy systems and monitoring sensors requires a coordinated approach to managing indoor climate control and operational performance of a building. Combines operational control of heating, cooling, lighting, ventilation, and home security systems to manage energy systems and home technologies. This relies on sensors, energy meters, and wi-fi enabled devices to be coordinated through an application interface. Designing BAS using IoT connected devices allows for live feedback and predictive algorithms to control setpoints and automate building systems.
-
-## Applications & Solutions: Smart Heritage
-
-Smart heritage is a concept that seeks to overcome the idea that architectural heritage remains “frozen in time” by integrating historical evolution through narrative and storytelling to link present day uses with the past functions of a building. For buildings that are frequented by tourists, this approach helps to convey the importance of preserving buildings while educating the public and fostering community through the historical connection to place.
+En apportant d’importantes rénovations énergétiques à des bâtiments historiques, on répond aux besoins en matière d’entretien et de conservation, prolonge considérablement leur durée de vie et améliore leur confort et leur apparence, tout en préservant leurs caractéristiques architecturales. On peut ainsi combiner le remplacement des principaux actifs immobiliers à la refonte des systèmes énergétiques, ce qui comprend la modélisation et la refonte énergétiques, ainsi que la modernisation de l’enveloppe du bâtiment. Pour ce faire, il faut coordonner les efforts de conservation du patrimoine avec les calendriers de modernisation et de remplacement des actifs. En raison des caractéristiques uniques des bâtiments historiques, il faut, dès le départ, identifier et évaluer les défis et les solutions du point de vue de l’ingénierie, de la conception et de l’occupation, et établir des priorités et des objectifs clairs.
+Les solutions intelligentes permettent d’évaluer où il faut apporter des améliorations aux bâtiments en modélisant le rendement et en connectant leurs systèmes énergétiques grâce à l’automatisation.
 
 ## Technologies
 
-**Green building certification** – Buildings that achieve green building certification can showcase these features in retrofitted heritage buildings. This includes installing information plaques next to updated building systems describing the purpose of the technology and the amount of energy or water conserved. Visitors interested in a green building tour can be provided a map of plaque locations in the building.
+**Enquête sur place** – Ce type d’enquête favorise une approche globale de la modernisation des bâtiments en révélant les liens entre les systèmes de construction, ce qui contribue à l’identification des chevauchements dans les solutions et à la hiérarchisation des investissements qui permettent de résoudre de multiples problèmes.
+Enquêtes auprès des occupants – Cette méthode permet de définir les besoins et les fonctions du bâtiment. On établit ainsi des solutions d’ingénierie et de conception avec en tête l’optimisation du rendement pour les utilisateurs.
+**Thermographie infrarouge** – Grâce à cet outil, il est possible de visualiser où se produisent les gains et les pertes de chaleur afin de cibler les efforts d’isolation et de ventilation.
+Capteurs du bâtiment – Ces capteurs utilisent des détecteurs à infrarouges passifs, le lidar et des caméras pour détecter la présence d’occupants et, s’ils font partie d’un système immotique, ils permettent d’ajuster le chauffage, la climatisation et la ventilation lorsque le bâtiment est inoccupé.
 
-**Digital kiosks** – Digital kiosks can inform visitors of integral information about a heritage building and can act as a one-stop source of guidance on municipal services and events, and activities. Conservation initiatives can be highlighted with live-feeds of the energy, water, and cost-savings of upgrading activities.
+**Compteurs pour bâtiment** – Ces dispositifs comprennent des moniteurs de qualité de l’air, des thermostats intelligents et des compteurs intelligents. Les moniteurs de qualité de l’air détectent le dioxyde de carbone et d’autres polluants pour mesurer la circulation d’air frais et, lorsqu’ils sont connectés à un système immotique, ils forment la voie d’accès aux capteurs d’informations pour la surveillance intelligente. Les thermostats utilisant l’IdO permettent aux responsables d’automatiser le réglage de la température en fonction de l’occupation du bâtiment. Les compteurs d’énergie intelligents mesurent la consommation d’énergie et sont connectés au réseau de services publics pour permettre une facturation différenciée dans le temps.
 
-**Interactive digital mapping** – Spatial data and building modelling can be used to create interactive digital mapping to support historical storytelling. This can attract and educate visitors on the heritage aspects of a building, linking past and present functions to preservation efforts. Visitors can interact with building features which in turn collects data on number of users, feedback on the features, and other research and knowledge building data collection.
+**Système immotique** – L’intégration complexe de plusieurs systèmes énergétiques et de capteurs de surveillance nécessite une approche coordonnée de la régulation du climat intérieur et du rendement opérationnel d’un bâtiment. Le système immotique combine le contrôle du chauffage, de la climatisation, de l’éclairage, de la ventilation et des systèmes de sécurité pour gérer les systèmes énergétiques et les technologies domestiques. Il repose sur des capteurs, des compteurs d’énergie et des appareils Wi-Fi coordonnés grâce à l’interface d’une application. La conception de systèmes immotiques à l’aide d’appareils connectés à l’IdO permet d’obtenir des données en temps réel et de créer des algorithmes prédictifs pour le réglage et l’automatisation des systèmes du bâtiment.
 
-## Managing Liability Issues
+## Applications et solutions : Patrimoine intelligent
 
-| Privacy |
-| :--- |
-| **Issues.** |
-| ⚠ Wherever information is collected that has the possibility of personally identifying an individual, a privacy assessment is needed. In building energy systems, the privacy implications are low unless advanced surveillance systems are being implemented that is capable of identifying individuals. However, if smart heritage design is integrated into heritage building retrofits, privacy considerations arise where interactive features may require consent for participation in data collection initiatives. |
-| **Managing issues.** |
-| ✅ Capture data impersonally.  Record feedback and comments in an anonymous way that cannot be attributed to individuals. |
-| ✅ Choose the technology appropriate to the task.  Low-tech solutions in some contexts may be preferable to high-tech ones, consider the non-technical benefits of an activity and whether the technology is enhancing the outcomes and protecting privacy or if it is obstructing the development of trust and community. |
-| ✅ Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, do not include start and end points in route data so that a particular route cannot be traced to an individual. Similarly, fuzzing data of sensitive areas provides an additional layer of security for personal information. |
-| ✅ Obtain consent. Some exhibitions integrate selfie booths, biosensor collection and other sensitive information. These interactive displays should build in consent forms indicating the purpose of data collection, the use and retention of data. |
-| ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
-| ✅ Limit data collection to only that which is needed. Collection of highly sensitive personal information through visitor surveys and interactive displays require an examination of why the information is being collected and what purpose it serves to avoid engaging more serious privacy concerns. |
-| ✅ Only keep data for a limited time. Data collected from interactive systems should be collected for a defined period of time and destroyed afterwards. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+Le patrimoine intelligent est un concept qui cherche à vaincre l’idée que le patrimoine architectural est figé dans le temps par la mise en récit de l’évolution historique d’un bâtiment pour relier son utilisation actuelle à sa fonction passée. Pour les bâtiments touristiques, cette approche contribue à faire comprendre l’importance de la préservation tout en éduquant le public et en renforçant l’attachement de la communauté grâce au lien historique qui l’unit au lieu.
 
-| Security |
-| :--- |
-| **Issues.** |
-| ⚠ Security issues emerge from the hardware and software components of technology. Software issues will require security review to ensure that they are well-programmed and not prone to backdoor malware and privacy breaches. |
-| **Managing issues.** |
-| ✅ In the building retrofits  context, software security must be high where potentially surveilling technologies are used, such as cameras built into interactive kiosks or IoT connected security systems. |
-| ✅ Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location. |
-| ✅ Access should be limited to those with a need to use the information. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+## Technologies
 
-| Procurement |
-| :--- |
-| **Issues.** |
-| ⚠ Compatibility and synchronicity across hardware and software systems is a critical liability risk because the effectiveness of smart systems relies upon coordinating functions. If third parties are involved in data collection and analysis, contracts should be reviewed to ensure data stewardship is aligned with privacy policies. |
-| **Managing issues.** |
-| ✅ Linking sensors, monitors, and energy consumption information to optimize performance is envisioned as the ideal in theory. But introduces contractual, privacy, security and safety risks when examining building systems at an ecosystem level. |
-| ✅ Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+**Certification écologique** – Les bâtiments patrimoniaux rénovés qui obtiennent une certification écologique peuvent mettre en valeur cette caractéristique, notamment par l’installation de plaques d’information à côté des systèmes mis à jour, décrivant l’objectif de la technologie et la quantité d’énergie ou d’eau économisée. Les visiteurs souhaitant visiter un bâtiment écologique peuvent recevoir une carte montrant où se trouvent les plaques.
 
-| Operations |
-| :--- |
-| **Issues.** |
-| ⚠ Comprehensive retrofit design and modelling should alleviate many operational risks associated with hardware performance. However, operational issues are more likely to arise from software failures. |
-| **Managing issues.** |
-| ✅ Comprehensive software testing must be undertaken before allowing full automation of connected devices without operational oversight. In fact, designing software systems that ousts facility oversight can lead to system-wide failure in the future especially since software engineers are often unavailable to troubleshoot system or correct customized features. Staff software training on new systems and ongoing training on software updates is essential to mitigating software failures. |
+**Kiosques numériques** –  Les kiosques numériques peuvent fournir aux visiteurs des renseignements sur un bâtiment patrimonial et servir de source d’information sur les activités, services et événements municipaux. Les initiatives de conservation peuvent être soulignées grâce à la transmission des économies d’énergie, d’eau et d’argent réalisées grâce aux activités de modernisation.
 
+**Cartographie numérique interactive** – Les données spatiales et la modélisation des bâtiments peuvent servir à créer une cartographie numérique interactive venant appuyer la mise en récit historique. C’est un moyen d’attirer les visiteurs et de les éduquer sur les aspects patrimoniaux d’un bâtiment, en reliant ses fonctions passées et présentes aux efforts de préservation. Les visiteurs peuvent interagir avec les caractéristiques du bâtiment, ce qui permet de recueillir des données sur le nombre d’utilisateurs, des commentaires sur les caractéristiques et d’autres données de recherche et d’acquisition de connaissances.
+
+## Gestion des risques susceptibles d’engager la responsabilité
+
+| Vie privée|
+|---|
+| **Risques**|
+|:warning: Chaque fois que l’on recueille des renseignements susceptibles d’identifier une personne, il faut procéder à une évaluation de la protection de la vie privée. Dans les systèmes énergétiques des bâtiments, les répercussions sur la vie privée sont faibles, à moins que l’on adopte des systèmes de surveillance avancés capables d’identifier les personnes. Cependant, si la conception patrimoniale intelligente est intégrée à la rénovation, il peut y avoir des risques, par exemple si des caractéristiques interactives nécessitent un consentement à la collecte de données.|
+|**Gestion des risques**|
+|:heavy_check_mark: Collectez les données de manière impersonnelle. Consignez les rétroactions et commentaires de sorte qu’ils ne puissent être associés aux personnes.|
+|:heavy_check_mark: Choisissez la technologie appropriée. Les solutions simples peuvent parfois être préférables aux solutions technologiques très poussées. Tenez compte des avantages non techniques d’une activité et évaluez si la technologie améliore les résultats et protège la vie privée, ou si elle nuit à l’établissement de la confiance et au développement de la communauté.|
+|:heavy_check_mark: Floutez les données. Utilisez des techniques de floutage des données. Par exemple, n’incluez pas les points de départ et d’arrivée dans les données sur les itinéraires, de sorte qu’on ne puisse pas relier l’itinéraire à la personne qui l’a parcouru. De même, flouter les données de secteurs sensibles contribue à la sécurité des informations personnelles.|
+|:heavy_check_mark: Obtenez le consentement. Certaines expositions intègrent des kiosques d’autoportraits ainsi que la collecte de biocapteurs et d’autres renseignements sensibles. Ces expositions interactives doivent proposer des formulaires de consentement indiquant la finalité de la collecte, de l’utilisation et de la conservation des données.|
+|:heavy_check_mark: Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible.|
+|:heavy_check_mark: Limitez la collecte de données au strict minimum. La collecte de renseignements personnels très sensibles dans le cadre de sondages et d’expositions interactives nécessite un examen des raisons de la collecte et de sa finalité afin d’éviter de susciter des préoccupations plus sérieuses en matière de protection de la vie privée.|
+|:heavy_check_mark: Ne conservez les données que pendant une période limitée. Les données recueillies à partir de systèmes interactifs devraient être conservées pendant une période définie puis détruites.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
+
+| Sécurité|
+|---|
+| **Risques**|
+|:warning: Les éléments matériels et logiciels de la technologie posent des risques pour la sécurité. Les problèmes de logiciels requièrent un examen de sécurité pour s’assurer qu’ils sont bien programmés et ne présentent pas de risques d’accès par porte dérobée ou de brèches de sécurité. |
+|**Gestion des risques** |
+|:heavy_check_mark: Dans le contexte de la rénovation des bâtiments, la sécurité des logiciels doit être élevée là où il y a usage de technologies de surveillance, par exemple des caméras intégrées dans des kiosques interactifs ou des systèmes de sécurité connectés à l’IdO. |
+|:heavy_check_mark: Bon nombre des solutions aux risques pour la vie privée atténueront aussi les risques pour la sécurité, par exemple l’anonymisation à la source, sinon l’anonymisation dès que possible. Si des renseignements personnels sont recueillis, ils doivent être conservés dans un endroit sûr.|
+|:heavy_check_mark: Seules les personnes qui ont besoin de consulter l’information doivent y avoir accès. |
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html).|
+
+| Approvisionnement |
+|---|
+| **Risques**|
+|:warning: La compatibilité et la synchronicité du matériel et des logiciels représentent un risque critique susceptible d’engager la responsabilité, car l’efficacité des réseaux intelligents repose sur la coordination des fonctions. Si des tiers participent à la collecte et à l’analyse des données, il faut passer en revue les contrats pour s’assurer que l’intendance des données est conforme aux politiques de protection de la vie privée. |
+|**Gestion des risques** |
+|:heavy_check_mark: Relier les capteurs, les moniteurs et l’information sur la consommation d’énergie constitue en principe le moyen idéal d’optimiser le rendement. Cependant, des risques contractuels, pour la vie privée et pour la sécurité s’ajoutent lorsqu’on examine les systèmes de construction à l’échelle de l’écosystème. |
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).|
+
+| Opérations |
+|---|
+| **Risques**|
+|:warning: Une conception et une modélisation complètes des rénovations devraient atténuer de nombreux risques opérationnels associés au rendement du matériel. Cependant, les problèmes opérationnels sont plus susceptibles de découler de défaillances logicielles. |
+|**Gestion des risques** |
+|:heavy_check_mark: Des tests logiciels approfondis doivent être effectués avant de permettre l’automatisation complète des dispositifs connectés sans surveillance opérationnelle. En fait, la conception de systèmes logiciels qui excluent la surveillance des installations peut entraîner des défaillances à l’échelle du système, d’autant plus que les ingénieurs logiciels ne sont souvent pas disponibles pour assurer le dépannage du système ou corriger les caractéristiques personnalisées. La formation du personnel sur les logiciels des nouveaux systèmes et la formation continue sur les mises à jour des logiciels sont essentielles pour atténuer les défaillances des logiciels. |

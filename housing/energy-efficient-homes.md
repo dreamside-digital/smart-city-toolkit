@@ -3,74 +3,75 @@ layout: default
 title: Energy Efficient Homes
 permalink: /housing/energy-efficient-homes
 ---
+# Services : Habitations écoénergétiques
 
-# Energy Efficient Homes
+Dans le cadre de leurs engagements en matière de lutte aux changements climatiques, de nombreuses municipalités encouragent les propriétaires à adopter des solutions écoénergétiques pour diminuer la consommation d’énergie et les émissions de gaz à effet de serre (GES). Le suivi de ces réductions est nécessaire pour mesurer l’efficacité des cibles municipales.
 
-As part of community climate change commitments, many municipalities are incentivizing homeowners to adopt energy efficiency solutions to reduce energy and greenhouse gas emissions. Tracking the corresponding energy/GHG reductions is required to measure the effectiveness of municipal targets.
+La planification et l’élaboration d’un programme d’habitations écoénergétiques sont possibles grâce à la planification de l’énergie communautaire (ex. : réseaux intelligents, systèmes énergétiques collectifs), à la modification des bâtiments existants et à des systèmes immotiques connectés pour optimiser l’énergie. Ces technologies permettent aux collectivités d’atteindre leurs cibles en matière d’efficacité énergétique et de diminution des émissions de GES.
 
-The planning and program development for energy efficient housing is unlocked by community energy planning \(i.e. smart grids, district energy\), building retrofits and upgrades for existing homes, and connected building automation systems for energy optimization. These technologies enable communities to achieve energy efficiency and greenhouse gas reduction targets.
+La planification des maisons écoénergétiques peut passer par la diminution des besoins en électricité, en chauffage et en eau grâce à des stratégies de conception passive (isolation accrue, fenêtres à triple vitrage, test d’étanchéité de l’enveloppe, etc.) et le choix des systèmes de construction (pompes de récupération thermique, chaudières à grande efficacité énergétique, refroidisseurs par évaporation, etc.).
 
-Planning energy efficient homes can be achieved by lowering the electricity, heating, and water needs of individual homes through passive design strategies \(i.e. increased insulation, triple-glazed windows, air tightness testing of envelopes, etc.\) and choice of building systems \(i.e. waste-heat recovery pumps, high-energy efficiency furnace, evaporative coolers, etc.\).
+Pour pouvoir améliorer l’efficacité énergétique des maisons existantes, il faut réaliser des audits énergétiques détaillés, modéliser la consommation d’énergie des bâtiments et automatiser ces derniers à l’aide de capteurs pour détecter les besoins en matière d’occupation.
 
-Opportunities to improve energy efficiency of existing homes requires in-depth energy audits, building energy modelling, and automating buildings using sensors to track occupancy needs.
+## Applications et solutions : Modélisation énergétique et gestion de la demande
 
-## Applications and Solutions: Energy Modelling & Demand Management
-
-Energy modelling ensures that building design will meet performance requirements. At the community scale, district energy and active demand management are being made possible by live-data insights unlocked by smart grids. Existing buildings benefit from energy retrofits that use smart technologies that record real-time utility data using built-in sensors, meters, and connected devices to improve real-time demand management.
+La modélisation énergétique permet de s’assurer qu’un bâtiment respecte les exigences de rendement. À l’échelle de la collectivité, les systèmes énergétiques collectifs et la gestion active de la demande sont possibles grâce aux données en temps réel fournies par les réseaux intelligents. Les bâtiments existants peuvent tirer profit des modifications énergétiques qui utilisent les technologies intelligentes pour enregistrer en temps réel les données relatives aux services publics à l’aide de capteurs, de compteurs et d’appareils connectés, afin d’améliorer la gestion de la demande en temps réel.
 
 ## Technologies
 
-**Passive design strategies** – This principle improves the energy efficiency in the design of buildings used to optimize solar gains for heating and lighting through thermal windows, reduce heat loss through insulation, reduce cooling through improved ventilation strategies.
+**Stratégies de conception passive** – Ce principe permet d’améliorer l’efficacité énergétique dès la conception d’un bâtiment : fenêtres à vitrage isolant qui optimisent les gains de chaleur et d’éclairage solaires, isolation qui réduit les pertes de chaleur et dispositifs de ventilation améliorés qui diminuent les besoins en climatisation.
 
-**Ground source and electric heat pumps** – Energy systems that are designed to recover heat from other sources can offset the demand needs in buildings. Smart thermostats – IoT enabled thermostats that allow homeowners to adjust temperature setpoints when they are away from home.
+**Pompes à chaleur géothermique et électriques** – Les systèmes énergétiques conçus pour récupérer la chaleur d’autres sources peuvent compenser les besoins en chauffage d’un bâtiment.
+Thermostats intelligents – Thermostats utilisant l’IdO pour permettre aux propriétaires de régler la température lorsqu’ils ne sont pas à la maison.
 
-**Smart meters** – Energy meters that monitor home energy consumption and are connected with utility networks to enable time-of-use pricing. Third party applications – Utility-based energy tracking applications offer multiple parties access to homeowner data for data gathering, marketing, disclosure, and system planning purposes.
+**Compteurs intelligents** – Compteurs qui mesurent la consommation d’énergie d’une maison et qui sont connectés au réseau de services publics pour permettre une facturation différenciée dans le temps.
+Applications de tiers – Les applications de suivi de la consommation d’énergie offrent à diverses parties un accès aux données sur les propriétaires aux fins de collecte, de marketing, de divulgation et de planification des systèmes.
 
-**Building sensors** – Uses passive infrared, LiDAR, and cameras to detect the presence of occupants and if BAS enabled, can adjust the heating, cooling, and ventilation setpoints when a building is unoccupied.
+**Capteurs du bâtiment** – Ces capteurs utilisent des détecteurs à infrarouges passifs, le lidar et des caméras pour détecter la présence d’occupants et, s’ils font partie d’un système immotique, ils permettent d’ajuster le chauffage, la climatisation et la ventilation lorsque le bâtiment est inoccupé.
 
-**Integrated Building Automation Systems \(BAS\)** – Combines operational control of heating, cooling, lighting, ventilation, and home security systems to manage energy systems and home technologies. This relies on sensors, energy meters, and wi-fi enabled devices to be coordinated through an application interface.
+**Système immotique** – Combine le contrôle du chauffage, de la climatisation, de l’éclairage, de la ventilation et des systèmes de sécurité pour gérer les systèmes énergétiques et les technologies domestiques. Il repose sur des capteurs, des compteurs d’énergie et des appareils Wi-Fi coordonnés grâce à l’interface d’une application.
 
-**District Energy** – Distributed system that uses excess heat gains from sewer heat, industrial production, or cold lake water for example, to transfer heating and cooling to connected buildings. This reduces the need to produce new energy through renewable and non-renewable sources to meet building demands.
+**Système énergétique collectif** – Ce système décentralisé utilise la chaleur excessive provenant des eaux usées, la production industrielle ou l’eau froide d’un lac, par exemple, pour chauffer ou climatiser les bâtiments branchés. On diminue ainsi les besoins de production de nouvelle énergie provenant de sources renouvelables ou non renouvelables pour répondre aux besoins des bâtiments.
 
-**Smart Grids** – Networked electricity operation that integrates all buildings in the grid to use real-time data to manage demand and supply by reducing grid losses, integrating renewable energy, optimizing energy storage, enabling electric vehicles, improving efficiency and reliability of electricity.1 Software interface unifying IoTs – Integrates energy sub-systems to enable rule setting and automated controls by creating holistic dashboard that links home IoTs with utility data and service bills \(e.g. sewage, water, electricity, heating, road maintenance schedules etc.\). Linking sensors with bills and applications provides for a harmonized experience, reducing user pain-points by providing a single, unified interface for master control.
+**Réseaux intelligents** – Systèmes de distribution d’électricité en réseau qui intègrent tous les bâtiments qui en font partie et utilisent des données en temps réel pour gérer l’offre et la demande en diminuant les pertes dans le réseau, en intégrant l’énergie renouvelable, en optimisant le stockage d’énergie, en facilitant l’utilisation de véhicules électriques, et en améliorant l’efficacité et la fiabilité de l’électricité.
+Interface logicielle pour unifier l’IdO – Intègre les sous-systèmes énergétiques pour permettre l’établissement de règles et l’automatisation des contrôles en créant un tableau de bord holistique qui relie l’IdO des maisons avec les données et les factures des fournisseurs de services publics (égouts, eau, électricité, chauffage, calendrier d’entretien des routes, etc.). En reliant les capteurs aux factures et aux applications, on propose une expérience harmonisée et diminue les soucis des utilisateurs en offrant une seule interface unifiée permettant de tout gérer.
 
-## Managing Liability Issues
+## Gestion des risques susceptibles d’engager la responsabilité
 
-| Privacy |
-| :--- |
-| **Issues.** |
-| ⚠ Consider the level of detail personal information is being collected and shared. Utility data is not personal unless it is linked with personal information such as home address or customer information. |
-| **Managing issues.** |
-| ✅ De-identification of data and aggregating energy data prior to sharing with different agencies will help protect privacy. |
-| ✅ Collect data, don’t surveil homes.  Collect samples of data that can be used to inform efficiency solutions rather than ongoing collection that can reveal personal activities and may be considered energy surveillance. |
-| ✅ Choose the technology appropriate to the task.  Low-tech solutions such passive technologies may be preferable to high tech post-construction solutions that are less effective and more privacy invasive. |
-| ✅ Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, do not include start and end points in route data so that a particular route cannot be traced to an individual. Similarly, fuzzing data of sensitive areas provides an additional layer of security for personal information. |
-| ✅ De-identify at the source. Many camera technologies allow for faces to be blurred at collection. |
-| ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
-| ✅ Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns. |
-| ✅ Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| Vie privée|
+|---|
+| **Risques**|
+|:warning: Tenez compte du niveau de renseignements personnels qui sont recueillis et partagés. Les données sur les services publics ne sont pas de nature personnelle, sauf si elles sont associées à des renseignements personnels comme l’adresse ou les coordonnées du client.|
+|**Gestion des risques**|
+|:heavy_check_mark: Dépersonnalisez et agrégez les données sur l’énergie avant de les partager avec les différentes agences, afin de protéger la vie privée.|
+|:heavy_check_mark: Recueillez des données, mais ne surveillez pas les maisons. Recueillez des échantillons de données pouvant être utilisés pour trouver les solutions en matière d’efficacité; la collecte continue de données risque de révéler les activités personnelles et peut être perçue comme de la surveillance énergétique. |
+|:heavy_check_mark: Choisissez la technologie appropriée. L’utilisation de solutions passives, de faible technicité, peut être préférable aux solutions très techniques après la construction, qui sont moins efficaces et portent davantage atteinte à la vie privée. |
+|:heavy_check_mark: Floutage des données. Utilisez des techniques de floutage des données. Par exemple, n’incluez pas les points de départ et d’arrivée dans les données sur les itinéraires, de sorte que les itinéraires particuliers ne permettent pas de remonter à quelqu’un. De même, flouter les données de secteurs sensibles contribue à la sécurité des informations personnelles.|
+|:heavy_check_mark: Anonymisez à la source. Bon nombre de technologies de caméra permettent de flouter les visages à la source.|
+|:heavy_check_mark: Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible.|
+|:heavy_check_mark: Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données comme les numéros de vélo ou les cartes de densité de circulation, plutôt que les trajets des cyclistes individuels, éviteront les atteintes graves à la vie privée.|
+|:heavy_check_mark: Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données de sociétés privées, vérifiez que celles-ci respectent leurs propres obligations en matière de respect de la vie privée en vertu des lois applicables.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
 
-| Security |
-| :--- |
-| **Issues.** |
-| ⚠ Primary issues with energy efficiency technologies are impacted by scale. The security concerns and threats to a smart grid system are of a different level than the threats posed by a software application collecting data. The relevant question is whether an adversary could hack the system to interfere with delivering energy reliably. |
-| **Managing issues.** |
-| ✅ Security breaches against essential technologies can result in physical harm to an individual and requires thorough risk assessment. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| Sécurité|
+|---|
+| **Risques**|
+|:warning: Les risques principaux liés aux technologies d’efficacité énergétique dépendent de l’échelle de leur déploiement. Les menaces à la sécurité d’un réseau intelligent ne sont pas du même niveau que celles posées par un logiciel de collecte de données. Ce qu’il faut se demander, c’est si quelqu’un peut pirater le système et nuire à la bonne distribution de l’énergie.|
+|**Gestion des risques** |
+|:heavy_check_mark: Les brèches de sécurité visant les technologies essentielles peuvent entraîner des blessures physiques et requièrent donc une évaluation des risques détaillée.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html).|
 
-| Procurement |
-| :--- |
-| **Issues.** |
-| ⚠ Compatibility and synchronicity across hardware and software systems is a critical liability risk because the effectiveness of smart systems relies upon coordinating functions. |
-| **Managing issues.** |
-| ✅ Linking sensors, monitors, and energy consumption information to optimize performance is envisioned as the ideal in theory. But introduces contractual, privacy, security and safety risks when examining  building systems at an ecosystem level. |
-| ✅ Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| Approvisionnement |
+|---|
+| **Risques**|
+|:warning: La compatibilité et la synchronicité du matériel et des logiciels représentent un risque critique susceptible d’engager la responsabilité, car l’efficacité des réseaux intelligents repose sur la coordination des fonctions. |
+|**Gestion des risques**|
+|:heavy_check_mark: Relier les capteurs, les moniteurs et l’information sur la consommation d’énergie constitue en principe le moyen idéal d’optimiser le rendement. Cependant, des risques contractuels, pour la vie privée et pour la sécurité s’ajoutent lorsqu’on examine les systèmes de construction à l’échelle de l’écosystème. |
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).|
 
-| Operations |
-| :--- |
-| **Issues.** |
-| ⚠ Safety considerations on the efficacy of new technologies requires proving it performs to code.  If safety and performance are not thoroughly tested they can endanger safety, result in property damage, and compromise the reliability of other building systems. |
-| **Managing issues.** |
-| ✅ Developing metrics and easing file sharing restrictions can benefit the end user and produce better outcomes. |
-
+| Opérations|
+|---|
+|**Risques**|
+|:warning: Pour établir la sécurité et l’efficacité des nouvelles technologies, il faut prouver qu’elles respectent les normes. Si la sécurité et le rendement ne font pas l’objet d’examens rigoureux, la sécurité peut être mise en péril, des dommages matériels peuvent survenir et la fiabilité des autres systèmes du bâtiment peut être compromise. |
+|**Gestion des risques**|
+|:heavy_check_mark: L’établissement de paramètres et l’allègement des restrictions sur le partage de fichiers peut profiter à l’utilisateur final et donner de meilleurs résultats. |

@@ -3,69 +3,67 @@ layout: default
 title: Facilities Management
 permalink: /infrastructure/facilities-management
 ---
+# Services : Gestion des installations
 
-# Facilities Management
+La gestion des immeubles municipaux comprend la climatisation, la conservation d’énergie, les utilisations et les analyses spécialisées de l’eau (production de glace, chauffage à l’eau chaude, réutilisation des eaux grises, etc.), la maintenance de l’éclairage, la sécurité incendie et la gestion de la sécurité pour le contrôle de l’accès et des entrées. Dans la plupart des bâtiments, des personnes travaillent à temps plein pour assurer la gestion, la maintenance et la surveillance de ces systèmes. Cependant, en raison de la maintenance planifiée, des coûts de mise en œuvre des audits énergétiques et de la complexité des systèmes immotiques, dans de nombreux immeubles, la priorité est accordée aux urgences, au détriment de l’optimisation.
 
-Facilities management in municipal buildings involves climate control, energy conservation, specialized water functions and testing \(e.g. ice creation, hot water heating, grey water reuse\), lighting maintenance, fire safety, and security management to control access and entry. Most building facilities will have full-time staff operating to provide oversight, maintenance, and control over these systems. However, the demand of maintenance schedules, costs of undertaking and implementing energy audits, and complexity of building automation systems \(BAS\), result in many buildings prioritizing only the most pressing operations with optimization needs lagging.
+La gestion des structures extérieures comprend notamment l’entretien des parcs, de toilettes et d’installations récréatives (p. ex., piscines et patinoires), la collecte des ordures et du recyclage, et le nettoyage des abribus. Les municipalités confient généralement ces tâches à des employés payés à l’heure, ce qui limite la capacité d’instaurer de meilleures mesures de surveillance de l’entretien. Les solutions de ville intelligente peuvent remédier à ce problème en équipant les installations de capteurs de surveillance et de collecte de données afin d’optimiser le déploiement du personnel et les horaires d’entretien.
 
-Facilities management for outdoor structures includes the maintenance of parks and outdoor washrooms, outdoor recreation facilities \(e.g. swimming and ice skating\), servicing recycling and waste bins, and clearing transit shelters. Municipalities will typically staff hourly wage workers to upkeep these many of these facilities, which limits the ability to integrate enhanced maintenance monitoring efforts. Smart city solutions can bridge this gap by outfitting structures with sensors to monitor facilities and provide feedback that prioritizes deployment of staff while optimizing maintenance schedules.
+Éléments à considérer : limites de capacité et ressources, participation, rétroaction et suivi
 
-Considerations: capacity and resource limits, engagement and feedback, and monitoring outcomes
+## Applications et solutions : Inspections de bâtiment guidées par les données
 
-## Applications and Solutions: Data-Driven Building Inspections
+Les principales sources de données servant à la planification des inspections sont les audits cycliques, les plaintes des clients, les alertes de défaillance, ainsi que la maintenance et les inspections planifiées. Les inspections guidées par des données permettent d’anticiper les besoins plutôt que d’attendre qu’un problème survienne pour le régler.
 
-The primary sources of data for scheduling building inspections include regular audit cycles, client complaints, BAS alerts to troubleshoot system failures, or scheduled maintenance and monitoring. Data-driven inspections can anticipate facility management needs derived from data insights rather than after-the-fact problem-solving.
-
-In buildings, connecting sensors with BAS software can coordinate live monitoring with system performance objectives. In outdoor facilities, integrating IoT sensors into infrastructure can reduce maintenance costs, enable targeted servicing, and monitor facility usage.
+En reliant des détecteurs à des logiciels d’immotique, on peut mettre la surveillance en temps réel au service des objectifs de performance du système. Pour les installations extérieures, l’intégration de capteurs de l’IdO dans les infrastructures peut réduire les dépenses en maintenance, faciliter l’entretien ciblé et permettre de surveiller l’utilisation.
 
 ## Technologies
 
-**Building sensors** – Carbon dioxide and temperature monitoring can be coupled with HVAC systems to automate ventilation, heating and cooling needs. Daylight sensors can be connected with lighting controls to fluctuate lighting needs based on available daylight.
+**Capteurs intérieurs** – Les capteurs de température et de concentration de dioxyde de carbone peuvent être reliés aux systèmes de CVC pour automatiser la ventilation, le chauffage ou la climatisation. Des capteurs de luminosité peuvent être reliés à l’éclairage pour le faire varier selon la lumière naturelle.
 
-**Outdoor sensors** – Sensors built into urban infrastructure collects use data on outdoor infrastructure. For example, sensors built into waste bins detect when garbage and recycling bins need to be emptied. This can direct maintenance workers to high-use areas and to identify where facility needs are the greatest for locating new bins. Sensors built into benches can track usage and help relocation to optimize use.
+**Capteurs extérieurs** – Les capteurs intégrés aux infrastructures urbaines collectent des données sur l’utilisation. Par exemple, un détecteur intégré à une poubelle peut indiquer qu’il faut la vider. Ainsi, les employés de l’entretien peuvent être affectés aux secteurs achalandés, et on peut voir où il faut installer de nouvelles poubelles. Grâce à des capteurs intégrés aux bancs, on peut évaluer leur utilisation et les relocaliser, au besoin.
 
-**IoT surveys** – Citizen feedback on public washroom conditions can enable restocking and cleaning efforts and provide useful data on use frequency of outdoor facilities. This data can be collected in many ways, either through an app or a digital device installed onsite.
+**Sondages IdO** – Les commentaires des citoyens sur l’état des toilettes peuvent indiquer qu’un réapprovisionnement ou un nettoyage s’impose, en plus de fournir des données utiles sur la fréquence d’utilisation des installations extérieures. Ces données peuvent être collectées de plusieurs façons, comme par une application ou par un appareil sur place.
 
-**Open Data** – Sharing municipal data on facility performance metrics can encourage community engagement and development of targeted solutions.
+**Données ouvertes** – Le partage des données de la municipalité sur les indicateurs de rendement des installations peut favoriser la participation citoyenne et l’élaboration de solutions ciblées.
 
-## Managing Liability Issues
+## Gestion des risques susceptibles d’engager la responsabilité
 
-| Privacy |
-| :--- |
-| **Issues.** |
-| ⚠ Technology should be used to determine drive data-based decisions to reduce costs and to improve, measure, and track outcomes of facility maintenance and services, not to invade personal and public spaces or to encourage monetization of user data. |
-| **Managing issues.** |
-| ✅ Capture data impersonally.  Record feedback and comments in an anonymous way that cannot be attributed to individuals. |
-| ✅ Choose the technology appropriate to the task.  Low-tech solutions in some contexts may be preferable to high-tech ones, consider the non-technical benefits of an activity and whether the technology is enhancing the outcomes and protecting privacy or if it is obstructing the development of trust and community. |
-| ✅ Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, do not include start and end points in route data so that a particular route cannot be traced to an individual. Similarly, fuzzing data of sensitive areas provides an additional layer of security for personal information. |
-| ✅ De-identify at the source. Many camera technologies allow for faces to be blurred at collection. If there is an alternative solution that does not use cameras, opt for that instead. |
-| ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
-| ✅ Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns. |
-| ✅ Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| Vie privée|
+|---|
+| **Risques**|
+|:warning: La technologie doit servir à prendre des décisions éclairées et basées sur les faits pour réduire les dépenses et surveiller, mesurer et améliorer la maintenance et les services des installations. Elle ne doit pas servir à envahir l’espace privé ou public ni à encourager la monétisation des données sur les utilisateurs.|
+|**Gestion des risques** |
+|:heavy_check_mark: Collectez les données de manière impersonnelle. Consignez les rétroactions et commentaires de sorte qu’ils ne puissent être associés aux personnes.|
+|:heavy_check_mark: Choisissez la technologie appropriée. Les solutions simples peuvent parfois être préférables aux solutions technologiques très poussées. Tenez compte des avantages non techniques d’une activité et évaluez si la technologie améliore les résultats et protège la vie privée, ou si elle nuit à l’établissement de la confiance et au développement de la communauté.|
+|:heavy_check_mark: Floutez les données. Utilisez des techniques de floutage des données pour en préserver la confidentialité. Par exemple, n’incluez pas les points de départ et d’arrivée dans les données sur les itinéraires, de sorte qu’on ne puisse pas relier un itinéraire à une personne précise. De même, flouter les données de secteurs sensibles contribue à la sécurité des informations personnelles.|
+|:heavy_check_mark: Dépersonnalisez à la source. Bon nombre de technologies de caméra permettent de flouter les visages à la source. S’il existe une solution qui n’utilise pas de caméra, il faut la privilégier.|
+|:heavy_check_mark: Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible.|
+|:heavy_check_mark: Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données comme les numéros de vélo ou les cartes de densité de circulation, plutôt que les trajets des cyclistes individuels, éviteront les atteintes graves à la vie privée.|
+|:heavy_check_mark: Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données à une société privée, vérifiez qu’elle respecte ses obligations en matière de respect de la vie privée prévues par les lois applicables.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
 
-| Security |
-| :--- |
-| **Issues.** |
-| ⚠ Security issues emerge from the hardware and software components of technology. The location of hardware in urban infrastructure may be vulnerable to damage from weather, wear and tear, and vandalism. |
-| **Managing issues.** |
-| ✅ Security added to urban spaces to monitor smart devices may magnify privacy issues rather than address the original problem of servicing facilities. A balance needs to be struck in terms of how much security is needed, that is contextualized in a given community and informed by community engagement and feedback. |
-| ✅ Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location. |
-| ✅ Access should be limited to those with a need to use the information. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| Sécurité|
+|---|
+| **Risques**|
+|:warning: Les éléments matériels et logiciels de la technologie posent des risques pour la sécurité. L’emplacement du matériel dans les infrastructures urbaines peut l’exposer aux intempéries, à l’usure et au vandalisme. |
+|**Gestion des risques** |
+|:heavy_check_mark: Les mesures de sécurité supplémentaires visant à surveiller les appareils intelligents peuvent aggraver les problèmes de vie privée sans remédier à celui d’entretien des installations. Il faut des mesures de sécurité bien dosées qui respectent le contexte communautaire et l’opinion du public. |
+|:heavy_check_mark: Bon nombre des solutions aux risques pour la vie privée atténueront aussi les risques pour la sécurité, par exemple l’anonymisation à la source, sinon l’anonymisation dès que possible. Si des renseignements personnels sont recueillis, ils doivent être conservés dans un endroit sûr.|
+|:heavy_check_mark: Seules les personnes qui ont besoin de consulter l’information doivent y avoir accès. |
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html).|
 
-| Procurement |
-| :--- |
-| **Issues.** |
-| ⚠ Community based insights created by third-party developers may thwart municipal efforts or identify more costly solutions required for procurement. |
-| **Managing issues.** |
-| ✅ Share data using open license with terms of use for third-party developers. Embed contract terms if directly procuring market data that connects insights with measurable outcomes. |
-| ✅ Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| Approvisionnement|
+|---|
+| **Risques**|
+|:warning: Les analyses communautaires élaborées par des tiers peuvent nuire aux efforts de la municipalité ou suggérer des solutions coûteuses.|
+|**Gestion des risques** |
+|:heavy_check_mark: Fixez des modalités à l’utilisation des données partagées en licence libre avec les développeurs tiers. Ajoutez des clauses contractuelles pour l’achat direct de données de marché reliant les analyses à des résultats mesurables. |
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).|
 
-| Operations |
-| :--- |
-| **Issues.** |
-| ⚠ Staffing resources for facilities maintenance is often constrained by cost and time limitations. Engaging community feedback can support open data initiatives and the development of app-based solutions enabling as rating systems, user-contributed data, and automated municipal alerts. |
-| **Managing issues.** |
-| ✅ Sharing de-identified data early can support maintenance cycles and allow municipalities to improve services without investing significantly on embedded hardware where it may not be cost-effective or necessary. |
-
+| Opérations|
+|---|
+| **Risques**|
+|:warning: La dotation en personnel pour l’entretien des installations est souvent limitée par des facteurs de temps ou d’argent. Les rétroactions du public peuvent soutenir les initiatives de données ouvertes et l’élaboration de solutions fondées sur des applications, comme des systèmes d’attribution de notes, d’apport de données et d’alertes municipales automatisées. |
+|**Gestion des risques** |
+|:heavy_check_mark: Le partage rapide de données anonymisées peut contribuer aux cycles d’entretien et permettre aux municipalités d’améliorer leurs services sans devoir dépenser des sommes importantes pour acquérir du matériel intégré lorsqu’il n’est pas économique ou nécessaire de le faire. |

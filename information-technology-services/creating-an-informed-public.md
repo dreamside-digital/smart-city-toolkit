@@ -3,51 +3,49 @@ layout: default
 title: Creating an Informed Public
 permalink: /information-technology/creating-informed-public
 ---
+# Services : Bien informer le public
 
-# Creating an Informed Public
+Tandis que les villes ont de plus en plus recours aux données pour guider leurs décisions en matière de services, de qualité de vie des citoyens et de développement économique, les personnes concernées par ces décisions pourraient devenir étrangères aux données qui les motivent. Pareille abstraction nous éloigne des principes de gouvernance ouverte et d’engagement communautaire démocratique qui permettent au public d’apporter sa précieuse contribution au fonctionnement de sa municipalité.
 
-As cities and towns have started to progressively use more data to inform the decisions they make about services, the quality of life of citizens, and economic development, the divide between the people affected by these decisions and the data used to make them may become much wider. This sort of abstraction moves away from the principles of open governance and democratic community engagement that enables the public to give their valuable input into the way their municipality functions.
+## Applications et solutions : Données ouvertes
 
-## Applications and Solutions: Open Data
-
-Open Data is an approach to sharing the data that municipalities use to make decisions which seeks to share that data with the public in new and accessible ways. This can include population statistics, unemployment rates, the municipality’s operating budget, information on public and private transportation – basically, any aspect of life in the municipality.
+L’ouverture des données est une approche utilisée par les municipalités pour partager leurs données avec le public par des moyens nouveaux et accessibles. Ces données peuvent être des statistiques démographiques, le taux de chômage, le budget de fonctionnement de la municipalité, des informations sur les transports publics et privés, bref, tout ce qui touche de près ou de loin à la vie d’une municipalité.
 
 ## Technologies
 
-**Open Data Registries** – Municipalities may participate in a cities/township registry administered by a third party service. This registry uses data provided by the municipality to allow for accessible comparisons between the infrastructure, services, and populations of municipalities.
+**Registres de données ouvertes** – Les municipalités peuvent participer à un registre des villes administré par un tiers fournisseur de services. Ce registre utilise les données fournies par les municipalités pour permettre de comparer facilement leurs infrastructures, leurs services et leur population.
 
-**Data Portals and Databases** – Other Canadian cities have created their own data portals which host open data on Transportation, Health & Safety, Business & Finance, Infrastructure, and other areas.
+**Portails et bases de données** – Certaines villes canadiennes ont créé leurs propres portails hébergeant des données ouvertes sur les transports, la santé, la sécurité, les affaires, les finances, les infrastructures et dans d’autres domaines.
 
-**Data Request Systems** – Provides data on an individualized basis by request. Requests may be provided to the requestor only or may be added to a communal data portal / database.
+**Systèmes de requêtes de données** – Il existe aussi des systèmes qui fournissent des données sur présentation d’une requête individuelle. Les données peuvent être fournies au demandeur uniquement ou être ajoutées à un portail ou une base de données communautaires.
 
-**Case Studies** – Case studies of how citizens of the municipality are using existing open data initiatives can help encourage others to use open data in their own projects and initiatives.
+**Études de cas** – Les études de cas sur l’emploi que les citoyens font des initiatives existantes d’ouverture des données peuvent encourager d’autres personnes à utiliser des données ouvertes dans leurs propres projets et initiatives.
 
-## Managing Liability Issues
+## Gestion des risques susceptibles d’engager la responsabilité
 
-| Privacy |
-| :--- |
-| **Issues.** |
-| ⚠ While the objectives behind open data initiatives are laudable, of concern is if individuals may be able to be identified through the use of available data. |
-| **Managing Issues.** |
-| ✅ Conduct annual audits and/or risk assessments. Doing so could raise issues of privacy that may not be examined otherwise. |
-| ✅ Reassess data as new facts emerge. Risk analysis should not be a static process. If new information emerges and is to be added to a dataset, the assessment should again be conducted to avoid disclosing personal information inadvertently. Legacy data should undergo evaluation as well. |
-| ✅ Anonymize data. Involved parties should likely not be identified beyond their approximate age and gender, if they are identified at all. |
-| ✅ De-identify at the source. Extraneous information should not be gathered when data is being obtained for use in datasets if it is unnecessary. |
-| ✅ Do not publish data that could identify individuals. If data cannot be adequately scrubbed then it should not be published, or the request for the data should not be fulfilled on privacy grounds. |
-| ✅ Use limited-access or controlled-access models for more sensitive datasets. Data enclaves, contractual safeguards, or tiered access models can be used to limit access to potentially sensitive data to organizations that follow good privacy and security practices. |
-| ✅ Have sensitive data be reviewed by an internal review board. A diverse board that includes a variety of experts and representatives will help ensure the risks of disclosure are measured in an accurate, balanced manner. Community stakeholders should also be included. |
-| ✅ Provide notice and allow for opt-out. If data provided by an individual may be disclosed through a municipality’s open data programs or platforms, they should be informed of this disclosure and its nature and scope. Objections should factor greatly into risk assessments and given heavy consideration. |
-| ✅ Redact if necessary. Data can be redacted to exclude identifying features. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+|Vie privée   |
+|---|
+| **Risques**|
+|:warning: Si les objectifs des initiatives d’ouverture des données sont louables, la possibilité que des individus puissent être identifiés au moyen des données disponibles est préoccupante.
+|**Gestion des risques**|
+|:heavy_check_mark: Procédez à des audits annuels ou à des évaluations des risques. On pourrait ainsi soulever des questions de vie privée qui risqueraient autrement de passer inaperçues.
+|:heavy_check_mark: Réévaluez les données à mesure que de nouveaux faits se présentent. L’analyse des risques ne devrait pas être un processus statique. S’il est nécessaire d’ajouter des informations à un ensemble de données, une nouvelle évaluation devrait être faite pour éviter que des renseignements personnels soient divulgués par inadvertance. Les données patrimoniales doivent aussi être soumises à l’évaluation.|
+|:heavy_check_mark: Anonymisez les données. Si vous communiquez des données sur les parties en cause, elles ne devraient pas être plus précises que l’âge approximatif et le genre.|
+|:heavy_check_mark: Anonymisez à la source. Aucune information superflue ne devrait être recueillie en vue de son utilisation dans un ensemble de données.|
+|:heavy_check_mark: Ne publiez pas de données qui pourraient permettre d’identifier des personnes. Si les données ne peuvent être correctement épurées, elles ne doivent pas être publiées, ou la requête de données doit être rejetée au motif qu’elle ne respecte pas la vie privée.|
+|:heavy_check_mark: Utilisez des modèles à accès limité ou à accès contrôlé pour les ensembles de données plus sensibles. Des enclaves de données, des garanties contractuelles ou des modèles d’accès progressif peuvent être utilisés pour limiter l’accès à des données potentiellement sensibles aux seules organisations qui suivent de bonnes pratiques en matière de sécurité et de respect de la vie privée.|
+|:heavy_check_mark: Faites examiner les données sensibles par un comité interne. Un comité composé d’experts et de représentants divers permettra de soupeser les risques de fuite de données de manière précise et équilibrée. Des acteurs communautaires doivent aussi y siéger.
+|:heavy_check_mark: Fournissez un avis et permettez aux gens de se retirer. Si des données fournies par une personne sont susceptibles d’être publiées dans le cadre d’un programme ou sur une plateforme de données ouvertes d’une municipalité, cette personne doit être informée de la publication en question, de sa nature et de sa portée. Dans les évaluations des risques, il faut accorder une place importante aux objections et les prendre très au sérieux.|
+|:heavy_check_mark: Caviardez les données au besoin. Les données peuvent être caviardées pour exclure les informations permettant d’identifier une personne.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
 
-| Inclusion: Accuracy, Equity, and Fairness |
-| :--- |
-| **Issues.** |
-| ⚠ Because open data is simply a manner of disclosure, many issues that underlie data collection are also inherent in open data. This includes problems of accuracy, equity, and fairness. Inaccurate data may have little impact, such as if the incorrect make and model of some vehicles in a fleet is disclosed. In other cases, inaccurate data may result in poor or inefficient decision-making, unethical or illegal data uses, or discriminatory outcomes. Predictive policing and criminal sentencing, for example, often show racial bias and therefore the data generated from these areas may disproportionately and unfairly represent certain groups of people. |
-| **Managing Issues.** |
-| ✅ Follow strict privacy practices. “Clean” data that does not identify individuals addresses many adjacent issues of equality and fairness. |
-| ✅ Create correction and complaints systems. Municipalities should create clear and simple methods for the public to identify and correct inaccurate data. |
-| ✅ Reassess data as new facts emerge. Data should be amended or corrected as necessary. |
-| ✅ Establish review schedules for published data. All data, agreements, and licenses should be periodically reviewed in order to assess if it needs to be updated or amended. |
-| ✅ Follow [inclusive practices](https://cippic-ca.github.io/SmartCityToolkit/inclusion.html). |
-
+|Inclusion : exactitude, équité et justice|
+|---|
+| **Risques**|
+|:warning: L’ouverture des données étant simplement un mode de divulgation, de nombreuses questions touchant à la collecte de données s’appliquent également aux données ouvertes. Cela va pour l’exactitude des données, l’équité et la justice. Dans certains cas, des données inexactes peuvent avoir peu d’incidences. Pensons à la divulgation de la marque et du modèle erronés de certains véhicules d’une flotte. Par contre, dans d’autres cas, des données inexactes peuvent être source de décisions mauvaises ou inefficaces, d’utilisations non éthiques ou illégales de données ou de résultats discriminatoires. L’utilisation de modèles prédictifs par la police et les tribunaux, par exemple, révèle souvent des préjugés raciaux, ce qui fait que les données générées dans ces domaines peuvent représenter certains groupes de personnes de manière disproportionnée et injuste.|
+|**Gestion des risques**|
+|:heavy_check_mark:Observez des pratiques strictes en matière de respect de la vie privée. Des données « propres » qui ne permettent pas d’identifier les gens règlent de nombreux problèmes connexes d’égalité et d’équité.|
+|:heavy_check_mark:Créez des systèmes de correction et de plaintes. Les municipalités devraient mettre au point des méthodes claires et simples permettant au public d’identifier et de corriger les données inexactes.|
+|:heavy_check_mark: Réévaluez les données à mesure que de nouveaux faits se présentent. Les données devraient être modifiées ou corrigées au besoin.|
+|:heavy_check_mark: Établissez des calendriers de réexamen des données publiées. Toutes les données, ententes et licences seront examinées périodiquement pour déterminer si elles doivent être mises à jour ou modifiées.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière d’inclusivité](https://cippic-ca.github.io/SmartCityToolkit/inclusion.html).|

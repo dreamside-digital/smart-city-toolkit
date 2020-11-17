@@ -3,43 +3,43 @@ layout: default
 title: Library Services
 permalink: /information-technology/library-services
 ---
+# Services : Bibliothèques
 
-# Library Services
+Pour beaucoup de gens, les bibliothèques sont la principale source de matériel éducatif accessible et gratuit. Si on n’y trouvait autrefois que des livres, les bibliothèques ont étendu leurs collections au fil du temps et proposent maintenant différents médias, tant pour l’information que pour le divertissement. Souvent, les bibliothèques sont des piliers de la communauté où leurs gens peuvent se réunir pour apprendre de nouvelles habiletés et échanger entre eux. Le fait que les bibliothèques offrent de nouveaux services soulève toutefois une question : comment peuvent-elles faire connaître leur formidable programmation si leurs programmes et services sont offerts par la municipalité et n’ont aucune visibilité au-delà du service des loisirs?
 
-For many people, libraries are their premier source of free, accessible education materials. While they once were a place where only books could be accessed, their collections over the years have expanded to contain all types of media, from informative to entertaining. Libraries are also often pillars of their communities, representing a place where people can gather to learn new skills and engage with one another. But as the services libraries offer have expanded, a new question has emerged: how can libraries ensure the public is aware and informed of all the amazing opportunities they offer, especially when these programs and services often are facilitated by the municipality and may not be shared beyond recreational enrollment resources?
+## Applications et solutions : Portails d’apprentissage
 
-## Applications and Solutions: Learning Portals
-
-Learning portals present an elegant and simple solution to this issue by essentially gathering, describing, and exploring library resources in one place. Essentially functioning as an accessible online database, a learning portal is, at its core, a jump off point that provides a quick and easy overview of available learning materials, programs, and resources. It is typically unnecessary for the learning portal to contain these materials, programs, and resources on its own – instead, it provides an overview of where content is located or how it may be accessed.
+Les portails d’apprentissage sont une solution simple et élégante à ce problème; ils permettent de regrouper, de décrire et d’explorer les ressources de la bibliothèque en un seul et même endroit. Un portail d’apprentissage fonctionne comme une base de données en ligne. Il fait office de point d’accès principal et donne un aperçu simple et rapide du matériel d’apprentissage, des programmes et des ressources disponibles. Le portail n’a généralement pas besoin de contenir l’ensemble du matériel, des programmes et des ressources; il indique plutôt où se trouve le contenu et comment on peut y accéder.
 
 ## Technologies
 
-**Website builders** – While building websites used to typically require knowledge of HTML and CSS, visual website builders now provide a much more user-friendly experience. The range of customizability typically depends on the platform, but many offer plug-ins and other customization options that can allow for a site to be tailored to specific needs.
+**Constructeurs de site Web** – Auparavant, il fallait maîtriser les langages HTML et CSS pour créer un site Web; maintenant, les constructeurs visuels offrent une expérience beaucoup plus conviviale. Les capacités de personnalisation varient selon les plateformes, mais beaucoup offrent des modules d’extension et d’autres d’options qui permettent de créer un site en fonction de ses besoins.
 
-**Custom Website Creation** – Alternatively, learning portals may be built from scratch by using HTML and CSS. This option would likely be better suited for learning portals that seek to host specific types of content that may not be easily embedded into a website builder, or integrate custom web apps \(such as recreation enrollment systems\) directly into the portal as opposed to simply linking to it.
+**Création de sites Web sur mesure** – Les portails d’apprentissage peuvent aussi être créés de toute pièce à l’aide des langages HTML et CSS. Cette option convient mieux aux portails destinés à héberger du contenu difficile à ajouter dans un constructeur et permet d’intégrer directement des applications Web sur mesure (p. ex. un système d’inscription à des activités de loisir) plutôt que de simplement les mettre en lien.
 
-**Portal integration** – If the library already has its own website, it may instead consider further integrating some aspects of a learning portal into that site. This allows for the site to become more of a hub of library materials, programs, and resources than it was previously without the need to create a portal from scratch.
+**Intégration du portail** – Si la bibliothèque possède déjà son propre site Web, il est possible d’intégrer des éléments de portail au site existant. Le site Web pourra ainsi servir de guichet d’accès pour le matériel, les programmes et les ressources de l’établissement sans qu’il soit nécessaire de créer un portail de toute pièce.
 
-## Managing Liability Issues
+## Gestion des risques susceptibles d’engager la responsabilité
 
-| Privacy |
-| :--- |
-| **Issues.** |
-| ⚠ While it may be tempting for libraries to gather data about who is using the learning portal for what and why, doing so raises issues of privacy if that data can be used to identify an individual. |
-| **Managing Issues.** |
-| ✅ Don’t gather data. Cookies and other means of collecting user data can simply not be utilized, or only used to store user settings instead of identifying information. |
-| ✅ Only record necessary data. If data is recorded to further develop the portal \(i.e. determine which resources are most useful, etc\), then it should be done so conservatively and in accordance with privacy laws. |
-| ✅ Scrub data of identifying features. Names are typically unnecessary data and should be excluded. |
-| ✅ Use disclaimer: If the portal does collect user data, the user should be clearly informed in simple terms of what data is being collected and why. Libraries may also  choose to make their data collecting opt-in – although users should be able to use the portal regardless of whether they opt-in or not. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
 
-| Security |
-| :--- |
-| **Issues.** |
-| ⚠ If any data is being recorded and anyone can be identified with that data, then the previously outlined privacy issues also raise issues of security. Data that is stored could potentially be accessed by unauthorized users if proper care isn’t taken to prevent it, allowing for people to be improperly identified. |
-| **Managing issues.** |
-| ✅ Institute privacy solutions. Many privacy solutions that seek to strip identifying data will also address issues of security. |
-| ✅ Hold data in a secure location. If data cannot be anonymized, it should be held in a secure location. This ensures individuals cannot be identified by it except in authorized situations. |
-| ✅ Limit access. Any collected user data should only be able to be accessed by those who need to use the information. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| Vie privée |
+|---|
+| **Risques**   |
+|:warning: Il peut être tentant pour une bibliothèque de recueillir des données sur les utilisateurs du portail et leurs recherches, mais cela présente un risque pour la vie privée si les données peuvent être utilisées pour identifier une personne.|
+|**Gestion des risques**|
+|:heavy_check_mark: Ne recueillez aucune donnée. L’utilisation de témoins ou d’autres moyens pour recueillir les données est tout simplement interdite, sauf si elle vise uniquement à sauvegarder des réglages.|
+|:heavy_check_mark: Ne sauvegardez que les données nécessaires. Si vous enregistrez des données pour le développement de votre portail, par exemple afin de savoir quelles sont les données les plus utiles, vous devez agir avec prudence et respecter les lois sur la protection de la vie privée.|
+|:heavy_check_mark: Supprimez les données qui permettent d’identifier les personnes. Les noms ne sont généralement pas nécessaires et doivent être éliminés.|
+|:heavy_check_mark: Ajoutez une mise en garde. Si votre portail recueille des données d’utilisateur, vous devez expliquer aux utilisateurs en termes simples quelles sont les données recueillies et pourquoi vous le faites. Les bibliothèques peuvent aussi rendre la collecte de données optionnelle. Les utilisateurs devraient toutefois pouvoir utiliser le portail même s’ils refusent qu’on enregistre leurs données.
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
 
+
+| Sécurité|
+|---|
+| **Risques**   |
+|:warning: Si des données sont enregistrées et qu’elles permettent d’identifier quelqu’un, les risques pour la vie privée énoncés précédemment soulèvent également des questions de sécurité. Si les mesures de prévention nécessaires ne sont pas prises, des utilisateurs non autorisés pourraient accéder aux données stockées et des gens pourraient ainsi être incorrectement identifiés.|
+|**Gestion des risques**|
+|:heavy_check_mark: Instaurez des mesures de respect de la vie privée. De nombreuses solutions en matière de vie privée visant à éliminer les identificateurs permettent aussi de régler les questions de sécurité. |
+|:heavy_check_mark: Gardez les données dans un endroit sécurisé. Si les données ne peuvent pas être rendues anonymes, elles doivent être conservées dans un endroit sûr. Il sera ainsi impossible d’identifier les personnes, sauf sur autorisation.|
+|:heavy_check_mark: Limitez l’accès. Seules les personnes qui ont besoin d’accéder aux données des utilisateurs recueillies doivent pouvoir le faire.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html).|

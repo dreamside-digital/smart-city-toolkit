@@ -3,50 +3,48 @@ layout: default
 title: Internet Accessibility
 permalink: /information-technology/internet-accessibility
 ---
+# Services : Meilleure accessibilité à l’Internet
 
-# Internet Accessibility
+Notre quotidien est de plus en plus dicté par les services en ligne. Tout, depuis les banques avec lesquelles nous faisons affaire, les services gouvernementaux que nous sollicitons, les divertissements que nous consommons, jusqu’aux plateformes que nous utilisons pour communiquer entre nous, nécessite non seulement d’être connecté à l’Internet, mais encore de l’être en permanence. Malheureusement, cette situation peut être très limitante pour ceux qui n’ont pas les moyens d’utiliser un cellulaire pourvu de données mobiles, qui ne comprennent pas comment fonctionne cette technologie ou qui n’y ont tout simplement pas accès, et qui ne peuvent donc pas accéder au Web hors de chez eux. Ce problème affecte encore plus gravement ceux qui n’ont pas l’Internet à la maison et qui se voient contraints d’utiliser le réseau Wi-Fi de leur école, de leur bibliothèque ou d’une entreprise privée pour accéder à un monde devenu presque entièrement virtuel.
 
-Daily life has become increasingly governed by online services. Everything from the banks we rely on, the government services we apply for, the entertainment we consume, and the platforms we use to communicate with each other rely on not only being connected to the internet, but rather always being connected to the internet. Unfortunately, this can present some very significant issues of access to those who can’t afford, don’t understand, or don’t have access to cellular mobile data – which is usually necessary for people to access the web when they’re not at home. These issues are even worse for those who don’t have home internet service, and are forced to use the Wi-Fi of their school, library, or a private business to access a world that has essentially all but gone online.
+C’est pourquoi les municipalités devraient au minimum commencer à réfléchir aux moyens de garantir que les personnes qui vivent et travaillent sur leur territoire aient accès à tous les services dont elles ont besoin, quand et où elles en ont besoin.
 
-For this reason, municipalities should at least begin to consider ways they can ensure that the people that live and work there are able to access all the services they need, when and where they need them.
+## Applications et solutions : Réseau Wi-Fi municipal
 
-## Applications and Solutions: Municipal Wi-Fi
-
-Municipal Wi-Fi ensures that anyone with a wi-fi enabled device is able to access the internet while within a certain area – typically municipal city or town limits – for a limited fee or no fee at all. Essentially, it approaches wi-fi as a utility essential to daily life as opposed to an optional service, and seeks to facilitate the practice of accessing the internet anywhere, at any time.
+Un réseau Wi-Fi municipal permet à quiconque disposant d’un appareil compatible d’accéder à l’Internet sur un territoire déterminé, généralement dans les limites de la municipalité, pour un coût réduit ou sans frais. Essentiellement, il s’agit d’envisager le Wi-Fi comme un service public nécessaire à la vie quotidienne, et non un service optionnel, et de faciliter l’accès à l’Internet partout et à tout moment.
 
 ## Technologies
 
-**Access Point Grid** – Uses strategically placed conventional wi-fi routers located in municipal properties to provide wi-fi service in certain areas. While signal boosters can be used to extend the range of one signal throughout the building, service will typically not be available in outdoor areas.
+**Grille de points d’accès** – Ce type de réseau utilise des routeurs Wi-Fi ordinaires placés stratégiquement dans les propriétés municipales pour fournir un accès à Internet dans certains secteurs. Des amplificateurs de signal peuvent être utilisés pour étendre la portée d’un signal dans l’ensemble d’un bâtiment, mais le service ne sera généralement pas disponible à l’extérieur.
 
-**Wireless Mesh Networks** – Utilizes a network of radio transmitters to provide a “cloud” of wi-fi that spans to both indoor and outdoor locations. The radio transmitters re-transmit the wi-fi signal from an originating access point, allowing for internet to be provided in areas a conventional router cannot reach.
+**Réseau sans fil maillé** – Ce type de réseau utilise un réseau d’émetteurs radio pour créer un « nuage » de Wi-Fi s’étendant à l’intérieur comme à l’extérieur. Les émetteurs radio retransmettent le signal Wi-Fi d’un point d’accès d’origine, ce qui permet au signal de se rendre à des endroits qu’un routeur ordinaire ne pourrait pas atteindre.
 
-**Commercially-owned Networks or Sponsorships** – Some municipalities have chosen to provide municipal wif-fi over pre-existing private cellular data networks or internet infrastructure. Others have used Access Point Grids or Wireless Mesh Networks that are sponsored by private companies and funded by advertisements.
+**Réseaux commerciaux ou commandites** – Certaines municipalités font appel à des réseaux de données cellulaires privés ou à des infrastructures Internet préexistantes pour héberger leur service Wi-Fi municipal. D’autres font commanditer et financent par la publicité leurs réseaux de points d’accès ou réseaux maillés sans fil.
 
-**Fibre Networks** – Sometimes acting as a subsect of commercially-owned networks and otherwise funded by the municipality itself, Fibre optic networks provide high-speed wired internet to residences, workplaces, and other places present within a municipal community. The municipality then is able to directly charge citizens for internet access, typically at a more affordable cost than a traditional ISP. Corporate sponsored Fibre is also typically offered at a greatly reduced cost or provided for free.
+**Réseaux à fibres optiques** – Pouvant faire partie de réseaux commerciaux ou être financés par la municipalité elle-même, les réseaux à fibres optiques fournissent l’Internet câblé haute vitesse aux résidences, aux lieux de travail et aux autres établissements de la communauté. La municipalité est alors en mesure de facturer directement aux citoyens l’accès à l’Internet, généralement à un coût plus abordable qu’un fournisseur traditionnel. La fibre optique commanditée par des entreprises est aussi généralement proposée à un coût très réduit ou fournie gratuitement.
 
-## Managing Liability Issues
+## Gestion des risques susceptibles d’engager la responsabilité
 
-| Reliability and Cost |
-| :--- |
-| **Issues.** |
-| ⚠ Because Wireless Mesh Networks require a fair amount of radio receivers to function effectively, there is a notable cost to having them installed and administered by the municipality. Likewise, Fibre Networks can also be costly to install. Wireless Mesh Networks also may prove ineffective if people’s homes are not located centrally in the wi-fi “cloud” – while the signal from the receivers may reach their wi-fi enabled device, their device may be unable to communicate properly with the transmitter. |
-| **Managing Issues.** |
-| ✅ Distribute costs. The cost of the municipally-provided internet service could potentially be distributed evenly across the municipality through mechanisms like property taxes or utilities. |
-| ✅ Pursue sponsorships. Municipalities may offset the cost of both Access Point Grids, Wireless Mesh Networks, and Fibre Networks by having a private company sponsor them. Landing pages that appear when the wi-fi is connected to may feature an advertisement, or an advertisement may be placed in the building or transportation where the access point is located. |
-| ✅ Provide boosting equipment. Equipment to connect to a Wireless Mesh network in a residential building may be provided by the municipality at a reasonable cost. Monthly cost could also be charged for the provision of the service. |
-| ✅ Be redundant when possible. In the case of Wireless Mesh Networks, the more receivers are in the “mesh”, the more reliable the service. Even if a few receivers in the mesh are rendered inoperative, service should continue without interruption. Wireless Mesh Networks can also be used in conjunction with Access Points or limited Fibre networks to ensure internet service is provided with a fair amount of reliability. |
+| Fiabilité et coût|
+|---|
+|**Risques**|
+|:warning: Comme les réseaux maillés sans fil nécessitent un nombre important d’émetteurs pour fonctionner efficacement, leur installation et leur gestion par la municipalité ont un coût important. Les réseaux à fibres optiques peuvent eux aussi s’avérer coûteux. Les réseaux maillés sans fil peuvent également se révéler inefficaces si le domicile des résidents n’est pas situé au centre du « nuage » Wi-Fi, auquel cas, bien que le signal des émetteurs puisse atteindre leur appareil compatible, celui-ci pourrait être incapable de communiquer correctement avec le terminal source.|
+|**Gestion des risques**|
+|:heavy_check_mark: Répartissez les coûts. Le coût du service peut être réparti de manière uniforme dans la population grâce à des mécanismes tels que les taxes foncières ou les services publics.|
+|:heavy_check_mark: Recherchez des commandites. Les municipalités peuvent amortir le coût de leur grille de points d’accès, de leur réseau maillé sans fil ou de leur réseau à fibres optiques en les faisant commanditer par une entreprise privée. La page de renvoi qui s’affiche lorsque le Wi-Fi est connecté peut comporter une publicité, et une publicité peut être affichée dans le bâtiment ou le moyen de transport où se trouve le point d’accès.|
+|:heavy_check_mark: Fournissez de l’équipement d’amplification. L’équipement permettant de se connecter à un réseau maillé sans fil dans un bâtiment résidentiel peut être fourni par la municipalité à un coût raisonnable. Des frais mensuels pourront également être facturés pour la fourniture du service.|
+|:heavy_check_mark: Optez pour la redondance quand cela est possible. Dans le cas des réseaux maillés sans fil, plus il y a d’émetteurs dans le maillage, plus le service est fiable. Même si certains émetteurs cessaient de fonctionner, le service devrait se poursuivre sans interruption. Les réseaux maillés sans fil peuvent également être utilisés en conjonction avec des points d’accès ou encore avec des réseaux à fibres optiques limités pour garantir la fiabilité du service Internet. |
 
-| Privacy and Security |
-| :--- |
-| **Issues.** |
-| ⚠ Municipalities have few means of ensuring that privately-owned networks that provide municipal wi-fi or Fibre internet do not improperly collect user data.  Even if the municipality itself provides and administers the network, like all forms of public wi-fi, it is vulnerable to man-in-the-middle attacks, sniffing, and malicious hotspots. |
-| **Managing Issues.** |
-| ✅ Ensure private networks do not collect data on users. One of the main concerns of municipalities in negotiating privately-administered municipal wi-fi of Fibre agreements is that user data is not improperly collected or used. |
-| ✅ Anonymize data. Alternatively, municipalities may allow for data collection, but stipulate that data be stripped of most or all identifying features. |
-| ✅ Use encrypted networks. Encrypted networks usually ensure that communications between the router and the user are private. |
-| ✅ Encourage use of websites that use HTTPS protocol. HTTPS protocol is more secure and will help protect user’s private data. Sites that do not use HTTPS protocol that are accessed via municipal wifi could be accompanied by a warning or disclaimer. |
-| ✅ Encourage the use of VPNs. Virtual Private Networks \(VPNs\) help keep user data private and out of the hands of those unauthorized to possess it for a small fee. Municipal wi-fi systems may make use of a landing page that encourages use of a VPN when using the system. |
-| ✅ Include disclaimers. The wi-fi’s landing page should include a disclaimer that sets out the risk of using public wi-fi and allows users to agree to the risks to access the service. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
-
+| Vie privée et sécurité|
+|---|
+| **Risques**|
+|:warning: Les municipalités ont peu de moyens de s’assurer que les réseaux privés qui fournissent le Wi-Fi municipal ou l’Internet par fibres optiques ne collectent pas indûment les données des utilisateurs. Même quand la municipalité fournit et administre elle-même le réseau, comme tous les types de réseaux Wi-Fi publics, il est vulnérable aux attaques par interposition, au reniflage et aux points d’accès malveillants.|
+|**Gestion des risques**|
+|:heavy_check_mark: Veillez à ce que les réseaux privés ne recueillent pas de données sur les utilisateurs. L’une des principales inquiétudes des municipalités lors de la négociation d’accords municipaux privés sur un réseau Wi-Fi ou à fibres optiques concerne le risque que les données des utilisateurs soient recueillies ou utilisées de manière inappropriée.|
+|:heavy_check_mark: Anonymisez les données. Pour éviter ce risque, les municipalités peuvent autoriser la collecte de données, à la condition que celles-ci soient dépourvues de la plupart ou de la totalité des éléments permettant d’identifier les personnes concernées.|
+|Utilisez des réseaux cryptés. Les réseaux cryptés garantissent généralement que les communications entre le routeur et l’utilisateur sont privées.|
+|:heavy_check_mark: Encouragez l’utilisation des sites Web qui utilisent le protocole HTTPS. Le protocole HTTPS est plus sûr et contribuera à protéger les données privées des utilisateurs. Les sites qui n’utilisent pas le protocole HTTPS et qui sont accessibles via le Wi-Fi municipal pourraient s’accompagner d’un avertissement ou d’un avis de non-responsabilité.|
+|:heavy_check_mark: Encouragez l’utilisation de réseaux privés virtuels (RPV). Contre une somme modique, les réseaux privés virtuels (RPV, ou VPN en anglais) permettent de préserver la confidentialité des données des utilisateurs et d’éviter que des personnes non autorisées ne puissent mettre la main dessus. Les réseaux Wi-Fi municipaux peuvent avoir recours à une page de renvoi qui encourage l’utilisation d’un RPV lors de l’utilisation du réseau.|
+|:heavy_check_mark: Incluez des avertissements. La page de renvoi du Wi-Fi doit comporter un avertissement énonçant les risques liés à l’utilisation d’un Wi-Fi public, auxquels les utilisateurs devraient pouvoir consentir avant d’accéder au service.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html).|

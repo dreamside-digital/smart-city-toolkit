@@ -2,72 +2,69 @@
 layout: default
 title: Affordable Housing
 permalink: /housing/affordable-housing
+
 ---
+# Services : Favoriser les projets de logement abordable
 
-# Affordable Housing
+Le coût du logement augmentant partout au Canada, on compte sur les municipalités pour offrir des solutions de logement abordable. On entend par logement abordable un vaste éventail de logements publics subventionnés, de locations privées, de coopératives et de logements à but non lucratif. Le contrôle de l’emplacement et de la conception du parc résidentiel abordable font partie des responsabilités des municipalités en matière de planification et de zonage.
 
-## Services: Encouraging Affordable Housing Developments <a id="services-encouraging-affordable-housing-developments"></a>
+Pour surmonter les défis associés au logement abordable, il fait intégrer des incitatifs économiques au développement. Les sites idéaux pour construire des unités de logement abordable se trouvent habituellement en zone urbaine centrale, où la valeur des terrains est plus élevée. Lorsqu’il est possible de construire de tels logements en zone urbaine, ils sont souvent situés à côté d’autoroutes ou de secteurs industriels, loin des écoles, des centres communautaires, des parcs, des services de transport en commun et des lieux de travail.
 
-As dwelling costs rise across Canada, municipalities are relied upon to provide affordable housing solutions. Affordable housing covers a wide range of subsidized public, private rental, co-ops, and non-profit housing. Municipalities control the location and design of affordable housing stock as part of their planning and zoning responsibilities.
+## Applications et solutions : Optimisation du mieux-être dans le logement abordable
 
-Overcoming the cost challenges of affordable housing requires integrating economic incentives with development. The ideal places to build affordable housing units are typically in centralized urban areas, where the cost of land is at a premium. Where opportunities to situate affordable housing in urban areas exist, they tend to be adjacent to highways or industrialized areas disconnected from schools, community centers, parks, reliable transit, and workplaces.
+Les frais d’entretien, d’exploitation et de surveillance associés aux programmes communautaires demeurent un défi pour les municipalités. L’automatisation des calendriers d’entretien à l’aide d’un logiciel, afin de coordonner les résidents et les bénévoles, peut contribuer à assurer l’exploitation à long terme et diminuer le recours à du personnel à temps plein pour gérer les programmes.
 
-## Applications and Solutions: Optimizing Wellness in Affordable Housing
+Parmi les incitatifs au développement, notons la subvention d’unités de logement abordable offrant des espaces commerciaux et communautaires au rez-de-chaussée et l’exigence d’inclure un pourcentage d’unités de logement abordable dans les constructions haut de gamme. Dans ces bâtiments à usages multiples, il est possible de récupérer les coûts de gestion et d’exploitation : on subventionne les frais accessoires tout en offrant aux locataires à faible revenu les avantages en matière de bien-être des communautés mieux nanties.
 
-The ongoing maintenance, operations, and oversight costs associated with community programs remains challenging for municipalities. Automating maintenance schedules using software to coordinate residents and volunteers can ensure long-term operations and reduce the need for full-time staff to manage programs.
-
-Development incentives include subsidizing affordable housing units with ground-floor retail and community spaces or requiring affordable housing units make up a percentage of higher-end development. The benefit is that management and operational costs are captured in mixed-use buildings, subsidizing ancillary fees, while affording low-income tenants wellness benefits of affluent communities.
-
-Considerations – capital costs vs reduced operating costs and improved outcomes
+Considérations : coûts en capital, diminution des coûts d’exploitation et amélioration des résultats
 
 ## Technologies
 
-**CBPR \(Community-based participatory research\)** – Partnership approach to community engagement based on collaborative input for decision-making. This advances traditional town hall techniques but is resource-intensive and slow.
+**Recherche participative communautaire** – Modèle de mobilisation communautaire axée sur le partenariat et où les décisions tiennent compte des commentaires formulés par tous. Il s’agit d’une amélioration par rapport à l’assemblée publique traditionnelle, mais qui requiert beaucoup de ressources et de temps.
 
-**Open Data** – Sharing municipal data on community metrics can encourage community engagement and development of targeted solutions.
+**Données ouvertes** – Le partage des données de la municipalité sur les indicateurs communautaires peut favoriser la participation citoyenne et l’élaboration de solutions ciblées.
 
-**APIs for App Developers** – APIs can enable private sector developers build applications that are compatible with secure municipal systems to enable connected user interfaces.
+**Interfaces de programmation pour les développeurs d’applications** – Les interfaces de programmation peuvent aider les développeurs du secteur privé à concevoir des applications compatibles avec les systèmes municipaux sécurisés et des interfaces utilisateur connectées.
 
-**Smart technologies** – Mobile-based scheduling apps can help reduce service delivery costs. People who have difficulty managing their life and require additional car can use smartphone and publicly available touchscreen monitors to connect them with municipal, community, and health services.
+**Technologies intelligentes** – Certaines applications mobiles de planification peuvent contribuer à diminuer les coûts de prestation de services. Les personnes ayant de la difficulté à gérer leur vie et qui ont besoin de soins supplémentaires peuvent utiliser leur téléphone intelligent ou les écrans tactiles publics pour accéder aux services municipaux, communautaires et de santé.
 
-**Cloud-Based Data Platforms** - Some service providers offer internet-based services for accessing and displaying sensor output. These services allow their municipal customers to access the data in a single online space.
+**Plateformes de données infonuagiques** - Certains fournisseurs offrent des services sur le Web pour accéder aux données des capteurs. Grâce à ces services, les clients municipaux peuvent accéder aux données à partir d’un seul espace en ligne.
 
-**Crowdfunding Development Bonds** – Financial bonds that connect instruments together can accelerate the cost challenges to affordable housing development.
+**Obligations de développement issues du sociofinancement** – Des obligations financières qui permettent de relier les instruments peuvent atténuer les problèmes liés aux coûts de construction de logements abordables.
 
-**Smart gardening** – Gardening with technology can reduce the overhead costs of managing community gardens and green roofs through automated irrigation systems, smart plant monitors, gardening apps and robotic lawn mowers and weeders.
+**Jardinage intelligent** – Certaines technologies, par exemple des systèmes d’irrigation automatisés, des systèmes intelligents de surveillance des plantes, des applications de jardinage et des tondeuses et désherbeuses robotisées permettent de réduire les coûts fixes liés à la gestion des jardins communautaires et des toits verts.
 
-**Modular Construction** - Modular home design and construction can also reduce construction costs through prefabricated foundation, wall assemblies, and insulation systems. This approach can integrate renewable energy into building facades using solar tiles, for example, improving the energy efficiency of homes and thus, affordability.
+**Construction modulaire** - Les fondations, assemblages de murs et systèmes d’isolation préfabriqués des habitations modulaires peuvent aussi contribuer à diminuer les coûts de construction. Cette approche permet d’intégrer l’énergie renouvelable dans les façades des bâtiments, par exemple au moyen de tuiles solaires, afin d’améliorer leur efficacité énergétique et, par conséquent, de les rendre plus abordables.
 
-## Managing Liability Issues
+## Gestion des risques susceptibles d’engager la responsabilité
 
-| Privacy |
-| :--- |
-| **Issues.** |
-| ⚠ Successful community initiatives are based on interpersonal relationships built on trust between members. Introducing data mining technologies can undermine project goals and participation. Technology should be used to determine evidence-based investments and measure and track outcomes, not to invade personal and public spaces or to encourage monetization of user data. |
-| **Managing issues.** |
-| ✅ Capture data impersonally.  Record feedback and comments in an anonymous way that cannot be attributed to individuals. |
-| ✅ Choose the technology appropriate to the task.  Low-tech solutions in some contexts may be preferable to high-tech ones, consider the non-technical benefits of an activity and whether the technology is enhancing the outcomes and protecting privacy or if it is obstructing the development of trust and community. |
-| ✅ Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, do not include start and end points in route data so that a particular route cannot be traced to an individual. Similarly, fuzzing data of sensitive areas provides an additional layer of security for personal information. |
-| ✅ De-identify at the source. Many camera technologies allow for faces to be blurred at collection. |
-| ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
-| ✅ Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns. |
-| ✅ Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| Vie privée|
+|---|
+| **Risques**|
+|:warning: Les initiatives communautaires réussies reposent sur des relations interpersonnelles fondées sur la confiance. L’introduction de technologies d’extraction de données peut nuire aux objectifs du projet et à la participation. La technologie doit être utilisée pour déterminer les investissements fondés sur des faits et mesurer les résultats, et non pour envahir l’espace privé et public ou pour encourager la monétisation des données sur les utilisateurs.|
+|**Gestion des risques**|
+|:heavy_check_mark: Collectez les données de manière impersonnelle. Consignez les rétroactions et commentaires de sorte qu’ils ne puissent être associés aux personnes.|
+|:heavy_check_mark: Choisissez la technologie appropriée. Des solutions de faible technicité peuvent parfois être préférables aux solutions très techniques. Tenez compte des avantages non techniques d’une activité et évaluez si la technologie améliore les résultats et protège la vie privée, ou si elle nuit à l’établissement de la confiance et au développement de la communauté.|
+|:heavy_check_mark: Floutage des données. Utilisez des techniques de floutage des données pour préserver la vie privée. Par exemple, n’incluez pas les points de départ et d’arrivée dans les données sur les itinéraires, de sorte que les itinéraires particuliers ne permettent pas de remonter à quelqu’un. De même, flouter les données de secteurs sensibles contribue à la sécurité des informations personnelles.|
+|:heavy_check_mark: Anonymisez à la source. Bon nombre de technologies de caméra permettent de flouter les visages à la source.|
+|:heavy_check_mark: Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible.|
+|:heavy_check_mark: Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données comme les numéros de vélo ou les cartes de densité de circulation, plutôt que les trajets des cyclistes individuels, éviteront les atteintes graves à la vie privée.|
+|:heavy_check_mark: Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données de sociétés privées, vérifiez que celles-ci respectent leurs propres obligations en matière de respect de la vie privée en vertu des lois applicables.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
 
-| Security |
-| :--- |
-| **Issues.** |
-| ⚠ Security issues emerge from the hardware and software components of technology. The location of hardware in urban infrastructure may be vulnerable to vandalism, interference, or theft. Software issues will require security review to ensure that they are well-programmed and not prone to backdoor malware and privacy breaches. |
-| **Managing issues.** |
-| ✅ In the affordable housing context, security issues can transform the objectives of wellness outcomes – for better or for worse. Security issues are contextualized in a community and can be mitigated by community engagement and feedback. |
-| ✅ Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location. |
-| ✅ Access should be limited to those with a need to use the information. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| Sécurité|
+|---|
+| **Risques**|
+|:warning: Les éléments matériels et logiciels de la technologie posent des risques pour la sécurité. L’emplacement du matériel dans les infrastructures urbaines peut l’exposer au vandalisme, à l’interférence ou au vol. Les problèmes de logiciels requièrent un examen de sécurité pour s’assurer qu’ils sont bien programmés et ne présentent pas de risques d’accès par porte dérobée ou de brèches de sécurité. |
+|**Gestion des risques** |
+|:heavy_check_mark: Dans le contexte des logements abordables, les risques à la sécurité peuvent transformer les objectifs en matière de mieux-être, pour le meilleur ou pour le pire. Ces risques peuvent toutefois être atténués par l’engagement de la communauté et la rétroaction. |
+|:heavy_check_mark: Bon nombre des solutions aux risques pour la vie privée atténueront aussi les risques pour la sécurité, par exemple l’anonymisation à la source, sinon l’anonymisation dès que possible. Si des renseignements personnels sont recueillis, ils doivent être conservés dans un endroit sûr.|
+|:heavy_check_mark: Seules les personnes qui ont besoin de consulter l’information doivent y avoir accès. |
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html).|
 
-| Operations |
-| :--- |
-| **Issues.** |
-| ⚠ Staff costs for delivery of ongoing community programs, projects and developments are often limited. Building community-based nonprofit, charity, and volunteer capacity is often critical for ongoing success, since private partners are unlikely to manage services post-construction. However, neglecting to appropriately allocate responsibility can expose both private and public partners to liabilities. |
-| **Managing issues.** |
-| ✅ Forming early partnerships with key stakeholders through contractual agreements allows liabilities to be distributed prior to their occurrence. To facilitate agreement, this should include detailing duties and relevant sunset clauses for when liabilities end. Understanding the lifecycle of projects and assessing risks early can shield municipalities from inheriting failed programs, plans and projects. |
-
+| Opérations|
+|---|
+| **Risques**|
+|:warning: Les coûts du personnel nécessaires pour la prestation de programmes communautaires, des projets et développements sont souvent élevés. La constitution d’une capacité bénévole et d’organismes caritatifs communautaires est souvent essentielle à la réussite à long terme, puisqu’il est plutôt rare que les partenaires du secteur privé gèrent les services après la construction. Cependant, si les rôles sont mal attribués, on peut exposer les partenaires publics et privés à des risques susceptibles d’engager la responsabilité. |
+|**Gestion des risques** |
+|:heavy_check_mark: La formation hâtive de partenariats avec des intervenants clés au moyen d’ententes contractuelles permet de distribuer les risques avant qu’ils surviennent. Pour faciliter le processus, l’entente doit exposer les devoirs et clauses d’extinction lorsque les responsabilités prennent fin. La bonne compréhension du cycle de vie des projets et de l’évaluation hâtive des risques permet d’éviter que les municipalités n’héritent de programmes, de plans et de projets échoués. |
