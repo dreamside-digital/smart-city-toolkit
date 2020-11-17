@@ -6,6 +6,8 @@ permalink: civic-engagement/civic-empowerment/encouraging-residents-to-vote.html
 
 # Encourager les résidents à voter
 
+## Application : Encourager les résidents à voter
+
 Selon les analyses démographiques, seule une partie des résidents exercent leur droit de vote. Cela peut poser problème puisque les personnes qui ne peuvent pas se déplacer pour voter ne font pas entendre leur opinion. Les outils de ville intelligente peuvent aider les résidents à exercer leur droit démocratique de se prononcer sur un éventail de questions municipales et de candidats, peu importe s’ils peuvent se rendre physiquement aux urnes.
 
 ## Technologies

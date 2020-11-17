@@ -7,6 +7,8 @@ permalink: >-
 
 # La sensibilisation de la population locale à la sécurité dans les rues
 
+## Application : La sensibilisation de la population locale à la sécurité dans les rues
+
 Les municipalités peinent à faire respecter les règlements de stationnement dans les zones résidentielles. Résultat : un risque accru d’accidents automobiles, des amendes salées et des obstacles à la circulation. Les infractions en matière de stationnement et les amendes qui en découlent peuvent être évitées si l’on informe les résidents des règlements qui s’appliquent aux diverses zones de la ville. Grâce aux outils de ville intelligente, la municipalité peut se servir de la géolocalisation pour donner des renseignements précis sur le stationnement. Au lieu de chercher un parcomètre, une personne peut donc consulter son appareil électronique, ce qui accroît la sécurité dans les rues.
 
 ## Technologies

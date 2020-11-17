@@ -6,6 +6,8 @@ permalink: civic-engagement/public-outreach/outreach-to-the-disability-community
 
 # Les relations avec les personnes handicapées
 
+## Application : Les relations avec les personnes handicapées
+
 Les personnes handicapées sont marginalisées à bien des égards. Des services précis sont essentiels à leur participation à la prise de décisions municipale. Or, les municipalités offrent souvent ces services en silo : les travailleurs sociaux exercent leurs activités indépendamment des professionnels juridiques, qui n’ont rien à voir avec les soins de santé.
 
 Les outils de ville intelligente peuvent donner aux personnes handicapées un meilleur accès aux services municipaux. En offrant ces services à distance, la municipalité encourage et facilite la participation des citoyennes et citoyens qui ont auparavant rencontré des obstacles. Elle prend ainsi en compte les enjeux pluridimensionnels auxquels sont confrontées les personnes handicapées, et améliore l’accès aux services pour toute la communauté.

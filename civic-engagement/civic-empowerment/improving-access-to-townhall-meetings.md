@@ -6,6 +6,8 @@ permalink: civic-engagement/civic-empowerment/improving-access-to-townhall-meeti
 
 # Améliorer l’accès aux assemblées publiques
 
+## Application : Améliorer l’accès aux assemblées publiques
+
 En leur donnant un meilleur accès aux décideurs, nous pouvons aider les citoyens à participer aux décisions municipales. En plus du rôle qu’il assume habituellement dans la communauté, un résident doit généralement prendre activement des mesures, comme participer à une assemblée publique, pour faire entendre son opinion. Les assemblées publiques ont lieu à un endroit et à un moment donnés, et sont seulement accessibles à certaines personnes. Celles qui sont incapables d’y assister ne peuvent donc pas donner leur avis. Par conséquent, ces assemblées ne reflètent pas toujours les résidents de la municipalité.
 
 En améliorant l’accès aux assemblées publiques, une ville intelligente peut stimuler l’engagement civique. Les outils de ville intelligente permettent la participation virtuelle aux assemblées, assurant une représentation citoyenne plus équilibrée.

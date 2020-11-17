@@ -6,6 +6,8 @@ permalink: civic-engagement/civic-empowerment/hackathons.html
 
 # Marathons de programmation
 
+### Applications : Marathons de programmation
+
 En informatique, la résolution de problème nécessite de la créativité. Les marathons de programmation \(ou « compétition de codage », ou « hackathon »\) sont des épreuves de conception au cours desquelles des citoyens concernés, des développeurs de logiciels, des concepteurs graphiques, des gestionnaires de projets et d’autres personnes unissent leurs efforts dans le but de créer, dans un court laps de temps, un logiciel qui répondra à un besoin précis de la société civile. L’objectif de ces marathons est de créer une application logicielle fonctionnelle avant la fin de l’événement. Le public est donc appelé à aider l’État à régler des problèmes qui le touchent. Les meilleurs marathons ont des ateliers de formation en parallèle de l’événement principal. Lorsque bien organisés, ils renforcent l’esprit de communauté en accueillant les débutants, en donnant aux participants l’occasion d’approfondir les sujets qui les intéressent et en encourageant l’engagement civique et la coopération.
 
 **Pratiques exemplaires des marathons de programmation**

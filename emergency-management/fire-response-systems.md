@@ -6,6 +6,8 @@ permalink: emergency-management/fire-response-systems
 
 # Systèmes d’intervention en cas d’incendie
 
+## Services : Systèmes d’intervention en cas d’incendie
+
 Lorsqu’un incendie se déclare, tout retard dans l’intervention des services d’incendie municipaux peut s’avérer coûteux, voire mortel. Généralement, les pompiers sont prévenus d’un incendie dans une résidence ou un commerce par le biais d’un appel au 911. Ce mécanisme présente des limites évidentes. Si la propriété n’est pas activement surveillée \(c’est-à-dire si personne n’y est présent\), l’incendie peut passer inaperçu jusqu’à ce que quelqu’un le remarque de l’extérieur. De plus, même si une personne est présente sur les lieux, elle peut avoir inhalé de la fumée ou s’être blessée et ne pas être en mesure de composer le 911 pour demander de l’aide.
 
 ## Applications et solutions : Surveillance active des incendies
