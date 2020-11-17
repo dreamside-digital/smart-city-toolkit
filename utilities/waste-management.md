@@ -4,7 +4,9 @@ title: Waste Management
 permalink: /utilities/waste-management
 ---
 
-# Waste Management
+# Gestion des déchets
+
+## Services : Gestion des déchets
 
 La gestion des déchets comprend la collecte et l’élimination des déchets dégradables et non dégradables. Elle regroupe différents services, dont le ramassage et l’élimination des déchets et le recyclage. Les technologies peuvent contribuer à l’optimisation des pratiques de gestion des déchets.
 

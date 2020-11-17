@@ -4,7 +4,9 @@ title: Promoting Facilities Use
 permalink: /park-recreation/promoting-facilities-use
 ---
 
-# Promoting Facilities Use
+# Promotion des installations
+
+## Services : Promotion des installations
 
 Il ne suffit pas d’offrir des espaces publics et de loisir, il faut aussi encourager et faciliter leur utilisation.
 

@@ -4,7 +4,9 @@ title: Vehicle Parking Management
 permalink: /transportation/vehicle-parking-management
 ---
 
-# Vehicle Parking Management
+# Gestion du stationnement
+
+## Services: Gestion du stationnement
 
 Le stationnement est souvent un défi un milieu urbain, en particulier durant les heures de pointe. Il peut mener à l’encombrement des routes, accroître les émissions de carbone et nuire à la qualité de l’air. En améliorant la gestion de leurs stationnements, les villes peuvent réduire leurs émissions de gaz à effet de serre, automatiser les paiements en ligne, réduire les frais associés à la mise en application des restrictions de stationnement et générer plus de revenus grâce à des stratégies de tarification dynamique. Ce service peut aussi être utile pour les événements municipaux destinés surtout aux touristes, comme les festivals et les concerts, et améliorer l’expérience de la clientèle et l’accessibilité aux centres urbains.
 

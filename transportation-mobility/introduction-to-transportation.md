@@ -4,7 +4,7 @@ title: Transportation
 permalink: /transportation
 ---
 
-# Introduction to Transportation
+# Introduction au transport
 
 L’une des tâches les plus importantes des municipalités est la planification et la proposition au public de moyens de transport tout au long de l’année. Les transports influencent l’aménagement et l’utilisation de l’espace dans nos communautés et l’offre dans les différents districts.
 

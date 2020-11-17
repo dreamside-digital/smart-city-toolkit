@@ -4,7 +4,9 @@ title: Road Maintenance
 permalink: /infrastructure/road-maintenance
 ---
 
-# Road Maintenance
+# Entretien des routes
+
+## Services : Entretien des routes
 
 L’entretien des routes – repavage, remplissage des nids de poule et peinture – est une activité permanente. Or, des problèmes saisonniers, comme la présence d’animaux morts sur les routes, peuvent nuire à leur entretien ainsi qu’à la circulation. Le problème du chevauchement entre l’entretien des routes et les passages pour animaux sauvages est également compliqué par le fait que ces questions sont souvent traitées par deux services municipaux distincts : \(i\) l’infrastructure et les routes, et \(ii\) l’environnement et la faune.
 

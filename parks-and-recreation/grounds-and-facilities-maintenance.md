@@ -4,7 +4,9 @@ title: Grounds and Facilities Maintenance
 permalink: /park-recreation/grounds-and-facilities-maintenance
 ---
 
-# Grounds and Facilities Maintenance
+# Entretien des terrains et des installations
+
+## Services : Entretien des terrains et des installations
 
 Les parcs et les centres récréatifs doivent être entretenus. Les travaux d’entretien nécessaires sont diversifiés et impliquent un important nombre d’heures-personnes et une grande consommation d’énergie et d’eau.
 

@@ -4,7 +4,9 @@ title: Integration of Cycling into Municipal Traffic Plan
 permalink: /transportation/integration-of-cycling
 ---
 
-# Integration of Cycling into Municipal Traffic Plan
+# Intégration du vélo dans le plan de circulation municipal
+
+## Services : Intégration du vélo dans le plan de circulation municipal
 
 Le vélo s’est imposé comme moyen de transport urbain : écologique, bon marché et compact, il favorise l’activité physique et ne contribue que de façon négligeable à l’usure des surfaces cyclables. Par conséquent, il joue un rôle important dans les plans de transport municipaux, les stratégies de réduction des émissions de gaz à effet de serre et même dans certaines stratégies de santé publique.
 

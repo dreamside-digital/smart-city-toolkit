@@ -4,7 +4,9 @@ title: Air Quality
 permalink: /public-health/air-quality
 ---
 
-# Air Quality
+# Qualité de l’air
+
+## Services : Qualité de l’air : mesure du pollen, de l’humidité et de la pollution
 
 Environ 20 à 25 % de la population canadienne souffre d’allergies saisonnières au pollen ou de maladies respiratoires comme l’asthme. Il est donc très intéressant pour les municipalités de pouvoir mesurer les niveaux de pollen, d’humidité et de pollution dans l’air. Si on leur fournit rapidement des données fiables sur le niveau d’allergènes, les citoyens pourront décider quand éviter de s’adonner à des activités à l’extérieur qui pourraient provoquer des problèmes respiratoires. Ce service soulage la pression sur les salles d’urgence et les services de premiers répondants.
 

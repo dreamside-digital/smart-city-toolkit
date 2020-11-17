@@ -53,41 +53,41 @@
 
 ## Infrastructure
 
-* [Introduction to Infrastructure](infrastructure/introduction-to-infrastructure.md)
-* [Building Management](infrastructure/building-management.md)
-* [Facilities Management](infrastructure/facilities-management.md)
-* [Road Maintenance](infrastructure/road-maintenance.md)
+* [Introduction à l'infrastructure](infrastructure/introduction-to-infrastructure.md)
+* [Gestion des bâtiments](infrastructure/building-management.md)
+* [Gestion des installations](infrastructure/facilities-management.md)
+* [Entretien des routes](infrastructure/road-maintenance.md)
 
-## Municipal Administration
+## Administration municipale <a id="municipal-administration"></a>
 
-* [Introduction to Municipal Administration](municipal-administration/introduction-to-municipal-administration.md)
+* [Introduction à l'administration municipale](municipal-administration/introduction-to-municipal-administration.md)
 * [Data Governance](municipal-administration/data-governance.md)
 
-## Parks and Recreation
+## Parcs et installations <a id="parks-and-recreation"></a>
 
-* [Introduction to Parks and Recreation](parks-and-recreation/introduction-to-parks-and-recreation.md)
-* [Grounds and Facilities Maintenance](parks-and-recreation/grounds-and-facilities-maintenance.md)
-* [Promoting Facilities Use](parks-and-recreation/promoting-facilities-use.md)
+* [Introduction aux parcs et installations](parks-and-recreation/introduction-to-parks-and-recreation.md)
+* [Entretien des terrains et des installations](parks-and-recreation/grounds-and-facilities-maintenance.md)
+* [Promotion des installations](parks-and-recreation/promoting-facilities-use.md)
 
-## Public Health
+## Santé publique <a id="public-health"></a>
 
-* [Introduction to Public Health](public-health/introduction-to-public-health.md)
-* [Air Quality](public-health/air-quality.md)
-* [Outbreak Management](public-health/outbreak-management.md)
-* [Public Health Intervention Initiatives](public-health/public-health-intervention-initiatives.md)
+* [Introduction à la santé publique](public-health/introduction-to-public-health.md)
+* [Qualité de l’air](public-health/air-quality.md)
+* [Gestion des éclosions](public-health/outbreak-management.md)
+* [Interventions de santé publique](public-health/public-health-intervention-initiatives.md)
 
-## Transportation and Mobility <a id="transportation-mobility"></a>
+## Transport et mobilité <a id="transportation-mobility"></a>
 
-* [Introduction to Transportation](transportation-mobility/introduction-to-transportation.md)
-* [Integration of Cycling into Municipal Traffic Plan](transportation-mobility/integration-of-cycling-into-municipal-traffic-plan.md)
-* [Vehicle Parking Management](transportation-mobility/vehicle-parking-management.md)
-* [Public Transit](transportation-mobility/public-transit.md)
+* [Introduction au transport](transportation-mobility/introduction-to-transportation.md)
+* [Intégration du vélo dans le plan de circulation municipal](transportation-mobility/integration-of-cycling-into-municipal-traffic-plan.md)
+* [Gestion du stationnement](transportation-mobility/vehicle-parking-management.md)
+* [Transport en commun](transportation-mobility/public-transit.md)
 
-## Utilities
+## Services publics <a id="utilities"></a>
 
-* [Introduction to Utilities](utilities/introduction-to-utilities.md)
-* [Grounds and Facilities Maintenance](utilities/grounds-and-facilities-maintenance.md)
-* [Waste Management](utilities/waste-management.md)
-* [Power](utilities/power.md)
-* [Reducing Emissions](utilities/reducing-emissions.md)
+* [Introduction aux services publics](utilities/introduction-to-utilities.md)
+* [Eau](utilities/water.md)
+* [Gestion des déchets](utilities/waste-management.md)
+* [Électricité](utilities/power.md)
+* [Réduction des émissions](utilities/reducing-emissions.md)
 

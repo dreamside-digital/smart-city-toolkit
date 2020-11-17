@@ -4,7 +4,9 @@ title: Building Management
 permalink: /infrastructure/building-management
 ---
 
-# Building Management
+# Gestion des bâtiments
+
+## Services : Gestion des bâtiments
 
 Le service de gestion des actifs des municipalités supervise généralement les calendriers de remplacement et de modernisation des bâtiments existants. Les bâtiments et les infrastructures vieillissants posent des défis permanents lorsque le remplacement des bâtiments n’est pas possible en raison de leur caractère historique. La conservation du patrimoine coûte cher, mais les principes qui les sous-tendent sont généralement dissociés des considérations de durabilité environnementale, se concentrant plutôt sur la sécurité incendie, l’accessibilité, le retrait du plomb et de l’amiante et le renforcement sismique. Cela dit, les coûts d’exploitation de ces bâtiments sont également élevés. L’inefficacité énergétique, l’isolation thermique, la ventilation et la qualité de l’air déficientes, ainsi que le manque d’étanchéité des fenêtres et des portes entraînent des coûts d’entretien élevés.
 

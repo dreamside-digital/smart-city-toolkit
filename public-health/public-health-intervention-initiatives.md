@@ -4,7 +4,9 @@ title: Public Health Intervention Initiatives
 permalink: /public-health/intervention-initiatives
 ---
 
-# Public Health Intervention Initiatives
+# Interventions de santé publique
+
+## Services : Interventions de santé publique
 
 Certaines personnes sont très soucieuses de leur santé et restent à l’affût du moindre signe avant-coureur de maladie ou d’affection, mais ce n’est pas le cas de tout le monde. Le niveau d’éducation sanitaire et les approches à préconiser pour parler des problèmes de santé peuvent varier grandement selon le groupe démographique, l’âge, la race et la culture. Dans certains cas, des barrières linguistiques et culturelles peuvent même venir entraver l’accès aux systèmes de santé publique.
 

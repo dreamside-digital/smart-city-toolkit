@@ -4,7 +4,9 @@ title: Facilities Management
 permalink: /infrastructure/facilities-management
 ---
 
-# Facilities Management
+# Gestion des installations
+
+## Services : Gestion des installations
 
 La gestion des immeubles municipaux comprend la climatisation, la conservation d’énergie, les utilisations et les analyses spécialisées de l’eau \(production de glace, chauffage à l’eau chaude, réutilisation des eaux grises, etc.\), la maintenance de l’éclairage, la sécurité incendie et la gestion de la sécurité pour le contrôle de l’accès et des entrées. Dans la plupart des bâtiments, des personnes travaillent à temps plein pour assurer la gestion, la maintenance et la surveillance de ces systèmes. Cependant, en raison de la maintenance planifiée, des coûts de mise en œuvre des audits énergétiques et de la complexité des systèmes immotiques, dans de nombreux immeubles, la priorité est accordée aux urgences, au détriment de l’optimisation.
 

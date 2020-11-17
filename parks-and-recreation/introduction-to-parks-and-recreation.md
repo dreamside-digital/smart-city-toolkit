@@ -4,7 +4,7 @@ title: Parks and Recreation
 permalink: /park-recreation
 ---
 
-# Introduction to Parks and Recreation
+# Introduction aux parcs et installations
 
 Les parcs publics et les installations de loisirs sont des espaces auxquels peuvent accéder tous les membres de la communauté pour bouger, jouer et profiter du plein air.
 

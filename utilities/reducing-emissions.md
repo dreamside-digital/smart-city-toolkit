@@ -4,7 +4,9 @@ title: Reducing Emissions
 permalink: /utilities/reducing-emissions
 ---
 
-# Reducing Emissions
+# Réduction des émissions
+
+## Services : Réduction des émissions de gaz à effet de serre \(GES\)
 
 Les changements climatiques sont une menace pour l’ensemble de la planète, du fait de l’augmentation rapide des niveaux d’émission de carbone et des températures mondiales. Les villes déploient des stratégies de réduction des émissions de gaz à effet de serre qui prévoient aussi l’introduction d’énergies propres. De grandes quantités de GES proviennent des systèmes de climatisation, de chauffage et d’éclairage des bâtiments résidentiels et commerciaux, ainsi que du transport des personnes et des marchandises. Les technologies durables peuvent freiner les changements climatiques grâce à leurs solutions de rechange sobres en carbone et à l’utilisation de sources d’énergie renouvelable dans les infrastructures nouvelles et existantes. Les municipalités peuvent également favoriser une culture plus durable de la consommation d’énergie chez leurs résidents au moyen de systèmes intelligents de suivi et de factures de services publics réduites pour les bons élèves. Les données recueillies peuvent être utilisées pour cibler les plus grands émetteurs, réduire le gaspillage énergétique et fournir des services publics plus résilients et plus efficaces.
 

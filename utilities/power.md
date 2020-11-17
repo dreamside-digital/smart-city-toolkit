@@ -4,7 +4,9 @@ title: Power
 permalink: /utilities/power
 ---
 
-# Power
+# Électricité
+
+## Services : Électricité
 
 L’accès à une alimentation électrique fiable et peu coûteuse constitue un service de base dans toutes les villes. Les services énergétiques de nombreuses municipalités canadiennes sont fournis par une société indépendante appartenant à la municipalité. Ces entreprises de services publics possèdent et exploitent généralement des lignes à basse tension pour fournir de l’électricité et, dans certains cas, produisent de l’électricité, en plus de fournir des services de conservation et de facturation aux consommateurs. Les municipalités sont également consommatrices d’énergie et doivent gérer leur consommation. Les responsables municipaux peuvent se servir d’outils technologiques pour améliorer les services énergétiques à la collectivité, réduire les coûts et la consommation énergétiques et améliorer l’incidence environnementale de la ville.
 

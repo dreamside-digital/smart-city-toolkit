@@ -4,7 +4,9 @@ title: Outbreak Management
 permalink: /public-health/outbreak-management
 ---
 
-# Outbreak Management
+# Gestion des éclosions
+
+## Services : Gestion des éclosions
 
 Bien que la question de la gestion des éclosions ait été propulsée à l’avant-plan par la pandémie mondiale actuelle, les éclosions de plus petite envergure ont toujours constitué un enjeu de santé publique. Quelle que soit la densité de leur population, toutes les municipalités peuvent être touchées par des maladies d’origine alimentaire, des virus ou d’autres pathogènes. Une réaction immédiate à une éclosion peut aider à réduire le risque d’infection et à appuyer les établissements de santé, mais les mesures sont parfois instaurées trop lentement pour arrêter complètement la propagation. Connaître l’origine de l’éclosion – de même qu’où et comment elle se propage – peut contribuer à éclairer les responsables de la santé publique et à accélérer l’instauration de mesures appropriées.
 

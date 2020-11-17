@@ -4,7 +4,7 @@ title: Infrastructure
 permalink: /infrastructure
 ---
 
-# Introduction to Infrastructure
+# Introduction à l'infrastructure
 
 Les municipalités sont responsables de la plupart des infrastructures essentielles à la santé, au bien-être, à la prospérité, à la mobilité et à la sécurité de la communauté. En voici quelques exemples :
 

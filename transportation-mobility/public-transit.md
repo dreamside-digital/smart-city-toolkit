@@ -4,7 +4,9 @@ title: Public Transit
 permalink: /transportation/public-transit
 ---
 
-# Public Transit
+# Transport en commun
+
+## Services : Transport en commun
 
 Le transport en commun est un service principal que les villes offrent pour relier les gens aux différents quartiers et ressources, y compris aux emplois, aux installations de loisirs, aux services essentiels, etc. Le transport en commun intelligent joue un rôle important dans la réduction de la pollution et des embouteillages et dans l’amélioration de la vie quotidienne des citoyens.
 
