@@ -1,15 +1,15 @@
 # Table of contents
 
 * [Accueil](README.md)
-* [About](about.md)
-* [Resources](resources.md)
-* [Glossary](glossary.md)
+* [À propos](about.md)
+* [Ressources](resources.md)
+* [Glossaire](glossary.md)
 * [Contact](contact.md)
 
 ## Meta-issues
 
-* [Privacy](meta-issues/privacy.md)
-* [Security](meta-issues/security.md)
+* [Vie privée](meta-issues/privacy.md)
+* [Sécurité](meta-issues/security.md)
 * [Inclusion](meta-issues/inclusion.md)
 * [Intellectual Property](meta-issues/intellectual-property.md)
 * [Procurement](meta-issues/procurement.md)

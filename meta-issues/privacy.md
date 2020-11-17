@@ -4,7 +4,7 @@ title: Privacy
 permalink: /privacy
 ---
 
-# Privacy
+# Vie privée
 
 ## Vie privée et municipalités
 

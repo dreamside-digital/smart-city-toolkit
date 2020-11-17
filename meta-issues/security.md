@@ -4,7 +4,7 @@ title: Security
 permalink: /security
 ---
 
-# Security
+# Sécurité
 
 Une ville intelligente doit aussi être une ville sûre. L’utilisation de technologies de l’information et de dispositifs en réseau élargit considérablement la marge de manœuvre d’attaquants éventuels. Les municipalités sont déjà la cible de cyberattaques et d’attaques par des rançongiciels. Par conséquent, la sécurité numérique sera un enjeu énorme pour les municipalités à l’avenir.
 

@@ -4,7 +4,7 @@ title: Glossary
 permalink: /glossary
 ---
 
-# Glossary
+# Glossaire
 
 **Chaînes de blocs** – La technologie des chaînes de blocs combine le cryptage, des applications similaires à des feuilles de calcul et l’informatique distribuée pour créer un système de registres extrêmement sécuritaire et transparent. Les chaînes de blocs sont des « registres distribués » qui assurent la sécurité de leur contenu.
 

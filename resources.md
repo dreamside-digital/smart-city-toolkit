@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources
 ---
 
-# Resources
+# Ressources
 
 ## Vie privée
 
