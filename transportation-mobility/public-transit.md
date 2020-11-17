@@ -3,71 +3,69 @@ layout: sidebar-page
 title: Public Transit
 permalink: /transportation/public-transit
 ---
+# Services : Transport en commun
 
-# Public Transit
+Le transport en commun est un service principal que les villes offrent pour relier les gens aux différents quartiers et ressources, y compris aux emplois, aux installations de loisirs, aux services essentiels, etc. Le transport en commun intelligent joue un rôle important dans la réduction de la pollution et des embouteillages et dans l’amélioration de la vie quotidienne des citoyens.
 
-Public transportation is a major service that cities offer to connect people to the city’s different neighborhoods and resources, including access to employment, recreational facilities, essential services, and more. Smart public transportation plays an important role in reducing pollution and traffic congestion and improving the daily lives of citizens.
+## Applications et solutions : Données en temps réel sur le transport en commun
 
-## Applications and Solutions: Real time public transit information
-
-Real time public transit information can reduce wait times, travel times, and increase transit use as a result of customers being enabled to make travel plans based on accurate information. Municipalities can use information systems to collect data about traffic and vehicles, mobile apps and new transportation solutions such as low emission vehicles to inform strategic decisions and improve citizen’s overall quality of life.
+Les données en temps réel sur le transport en commun peuvent réduire le temps d’attente et de déplacement et augmenter l’utilisation du transport en commun, car les clients peuvent planifier leurs déplacements en fonction de renseignements précis. Les municipalités peuvent se servir de systèmes d’information pour recueillir des données sur la circulation et les véhicules, d’applications mobiles, ainsi que de nouvelles solutions de transport, comme les véhicules à faibles émissions, en vue d’éclairer la prise de décisions stratégiques et d’améliorer la qualité de vie globale des citoyens.
 
 ## Technologies
 
-**GPS sensors in busses** – GPS devices on-board busses can be used to inform smart phone apps about how to plan their routes and can also connect to traffic sensors or smart traffic lights to respond to approaching busses to help the flow of traffic.
+**Capteurs GPS dans les autobus** – Les dispositifs GPS à bord des autobus peuvent être utilisés pour indiquer aux applications de téléphones intelligents comment planifier les itinéraires; ils peuvent également être reliés à des capteurs de circulation ou à des feux de circulation intelligents pour réagir face aux autobus qui approchent et fluidifier la circulation.
 
-**Real time public transit information** – Real-time transit data can include any information collected about the current status of vehicles which typically relies on GPS to provide predictive arrival and departure information. This real-time data can be used to send text/email alerts about route detours or delays and be integrated into mobile apps and dynamic messaging signs.
+**Données en temps réel sur le transport en commun** – Les données en temps réel sur le transport en commun peuvent comprendre tout renseignement recueilli sur l’état actuel des véhicules. Généralement, l’information prévisionnelle sur les arrivées et les départs est fondée sur les données GPS. Les données en temps réel peuvent servir à envoyer des alertes par SMS ou courriel sur les détours ou les retards, et être intégrées aux applications mobiles et aux panneaux de messagerie dynamique.
 
-**Smart phone app for users and route planner** – Smart phone apps with real-time bus location information lets users plan trips that minimizes wait times and missed connections. Apps can be a one-stop shop to set bus arrival reminders and get all bus information including schedules, delays, stops, and announcements.
+**Application téléphonique intelligente pour utilisateurs et planificateurs d’itinéraire** – Les applications téléphoniques intelligentes avec données en temps réel sur l’emplacement des autobus permettent aux utilisateurs de planifier des trajets qui réduisent au minimum le temps d’attente et les correspondances manquées. Ces applications peuvent être des guichets uniques servant à établir des rappels sur l’arrivée des autobus et obtenir tous les renseignements connexes, y compris les horaires, les retards, les arrêts et les annonces.
 
-**Tap card applications for smart phone payment** – Transit fare payment can be made through account-based smart phone applications in which users can purchase bus passes, top up accounts, auto-reload accounts, and transfer balances from lost cards. These apps are paired with card reader where users will tap their phone to pay.
+**Applications de cartes à puce sans contact pour le paiement par téléphone** – Le paiement des tarifs de transport en commun peut être effectué au moyen d’applications de téléphone intelligent fonctionnant par compte, avec lesquelles les utilisateurs peuvent acheter des cartes de transport, recharger leur compte manuellement ou automatiquement et transférer le solde des cartes perdues. Ces applications sont couplées à un lecteur de carte permettant aux utilisateurs de payer avec leur téléphone.
 
-**Digital public transit payment** – Digital or mobile ticketing allows passengers to buy and display their tickets using their mobile device. Similar to the tap card apps for fare payment, digital payment apps can let users purchase bus passes and top up accounts.
+**Paiement numérique des frais de transport** – La billetterie numérique ou mobile permet aux passagers d’acheter et d’afficher leur billet à l’écran de leur appareil mobile. Tout comme les applications de paiement par carte, les applications de paiement numérique permettent aux utilisateurs d’acheter des cartes de transport et de recharger leur compte.
 
-**Demand-based microtransit** – Demand-based microtransit is a service that offers flexible routing, stops, and scheduling based on demand. Customers can use request a microtransit service through a mobile app that allows for fare payment, trip planning, and operator requests. The service typically uses smaller vehicles like shuttle busses.
+**Transport microcollectif à la demande** – Le transport microcollectif à la demande est un service qui offre des itinéraires, des arrêts et des horaires flexibles en fonction de la demande. Les clients peuvent se prévaloir d’un service de transport microcollectif par l’intermédiaire d’une application mobile, qui permet de payer les tarifs, de planifier le trajet et de gérer les demandes des opérateurs. Le service utilise généralement des véhicules plus petits comme les bus-navettes.
 
-**E-hailing** – E-hailing is a process of ordering a vehicle pick up through a mobile device using GPS technology. Although primarily used for private ride-hailing such as Uber and Lyft, the concept can also be applied to public transportation with demand-based microtransit.
+**Hélage électronique** – Le hélage électronique consiste à commander les services d’un véhicule au moyen d’un appareil mobile qui se sert de la technologie GPS. Bien que principalement utilisé pour les services de covoiturage privés tels que Uber et Lyft, le concept peut également être appliqué au transport microcollectif à la demande.
 
-**Low emission vehicles** – Electric and hybrid busses can be used to as an environmentally friendly and quieter option on the road. Existing bus fleets can be converted to be hybrid electric vehicles to reduce greenhouse gas emissions and energy consumption. These low emission vehicles will require charging systems, which can have quick charge or slower overnight charge options. Another option is hydrogen-powered busses that
+**Véhicules à faibles émissions** – Les autobus électriques et hybrides peuvent être utilisés comme une option écologique et plus silencieuse sur la route. Les parcs d’autobus existants peuvent être convertis en véhicules électriques hybrides afin de réduire les émissions de gaz à effet de serre et la consommation d’énergie. Ces véhicules à faibles émissions nécessitent des systèmes de recharge, qui peuvent offrir des options de recharge rapide ou plus lente pendant la nuit. Une autre option est celle des bus à hydrogène.
 
-**Autonomous shuttles** – These vehicles navigate autonomously in lower speed roads along predetermined, learned paths in areas such as industrial campuses, suburbs and city centers. Some existing models use Light Detection and Ranging technology \(LiDARs\), inertial measurement unit \(IMU\), cameras, GPS, and motion sensors.
+**Navettes autonomes** – Ces véhicules circulent de façon autonome sur des routes à vitesse réduite, le long de trajets prédéfinis et intégrés, dans des zones telles que les campus industriels, les banlieues et les centres-villes. Certains modèles existants utilisent la technologie de détection et de télémétrie par ondes lumineuses (LIDAR), l’unité de mesure inertielle (IMU), les caméras, le GPS et les capteurs de mouvement.
 
-## Managing Liability Issues
+## Gestion des risques susceptibles d’engager la responsabilité
 
-| Privacy |
-| :--- |
-| **Issues.** |
-| ⚠ Public transit technologies will encounter privacy issues where they collect the personal information of an identifiable individual, including identifiers that can be linked to create a profile on a person. This data includes that coming from location-tracking technologies, mobile phone data, mobile app accounts and paid transactions can all be traceable to individuals. |
-| **Managing Issues.** |
-| ✅ Count, don’t track.  Record numbers and directions of transit routes and volume of passengers instead of tracing routes that can be associated with individuals. Numerical data about high density routes or stops and bus status \(ex. speed and accidents\) will not necessarily track identities. |
-| ✅ Inform users of privacy issues related to interactive and payment features. A disclaimer can be provided to users about data collection and its privacy implications when engaging with account-based and GPS apps. |
-| ✅ Obtain consent where possible. Consent should be obtained when the user downloads any route planning, e-hailing and transit payment apps, and again when signing up for the service. They should be informed of the purpose of data collection, use and retention of data. |
-| ✅ Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, do not include start and end points in route data so that a particular route cannot be traced to an individual. Similarly, fuzzing data of sensitive areas provides an additional layer of security for personal information. |
-| ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. Data should otherwise be reported anonymously where possible. |
-| ✅ Limit data collection to only that which is needed. Serious consideration and justification should be made for the collection of sensitive personal information. The minimum information necessary to accomplish transactions should be collected. |
-| ✅  Ensure that partners follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| Vie privée|
+|---|
+| **Risques**|
+|:warning: Il y a des risques d’atteinte à la vie privée lorsque les technologies de transport en commun recueillent des informations personnelles qui permettent d’identifier une personne, y compris les identifiants qui peuvent être rattachés au profil de la personne. Ces données comprennent celles provenant des technologies de localisation, des téléphones intelligents, des comptes des applications mobiles et des transactions payantes, qui peuvent toutes être retracées jusqu’aux personnes. |
+|**Gestion des risques**|
+|:heavy_check_mark: Misez sur les chiffres, pas sur le traçage. Enregistrez le nombre et la direction des itinéraires et le volume de passagers au lieu de tracer des itinéraires qui peuvent être rattachés aux personnes. Les données numériques sur les itinéraires ou les arrêts à fort achalandage et l’état des autobus (p. ex., vitesse et accidents) ne permettent pas nécessairement de déterminer l’identité d’une personne. |
+|:heavy_check_mark: Informez les utilisateurs des risques pour la vie privée qui sont associés aux fonctionnalités interactives et liées aux paiements. Un avis concernant la collecte de données et ses implications sur la vie privée peut être présenté aux utilisateurs lorsqu’ils utilisent des applications basées sur des comptes et des applications GPS. |
+|:heavy_check_mark: Obtenez le consentement dans la mesure du possible. Le consentement doit être obtenu lorsque l’utilisateur télécharge une application de planification d’itinéraire, de hélage électronique ou de paiement de transport, et à nouveau lorsqu’il s’inscrit à un tel service. Les utilisateurs doivent être informés de la raison de la collecte, de l’utilisation et de la conservation des données. |
+|:heavy_check_mark: Floutez les données. Utilisez des techniques de floutage des données pour en préserver la confidentialité. Par exemple, n’incluez pas les points de départ et d’arrivée dans les données sur les itinéraires, de sorte qu’on ne puisse pas relier un itinéraire à une personne précise. De même, flouter les données de secteurs sensibles contribue à la sécurité des informations personnelles.|
+|:heavy_check_mark: Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. Les données doivent aussi, dans la mesure du possible, être communiquées de manière anonyme. |
+|:heavy_check_mark: Limitez la collecte de données au strict minimum. La collecte d’informations personnelles sensibles ne doit pas être prise à la légère et doit être très bien justifiée. Il faut recueillir uniquement les informations minimales nécessaires à la réalisation des opérations. |
+|:heavy_check_mark: Assurez-vous que tous les partenaires emploient des mesures de protection adéquates. Si vous achetez des données à une société privée, vérifiez qu’elle respecte ses obligations en matière de respect de la vie privée prévues par les lois applicables. |
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
 
-| Security Issues |
-| :--- |
-| **Issues.** |
-| ⚠  Privacy issues inherent to public transit technologies will include security issues, as data that does not initially identify individuals can do so in combination with other data. The software programs and hardware components will require security measures to prevent unauthorized access to the data. |
-| ⚠ There is a potential for a greater vulnerability with a large network of connected devices because a single breached device may expose the entire network to unauthorized access. |
-| **Managing Issues.** |
-| ✅ Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location. |
-| ✅ Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information. |
-| ✅ Conduct scheduled security assessments on applications and transmissions for risks and vulnerabilities to ensure security approaches are appropriate and effective. |
-| ✅ Online payment systems should use end-to-encryption processes to secure communications and maximize the security of sensitive information in paid transactions. |
-| ✅ Where city data is stored on cloud-based servers, the cloud platform should be subject to consistent audits and security patches, with a data recovery strategy in place. |
-| ✅ All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control. |
-| ✅  Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| Risques pour la sécurité|
+|---|
+| **Risques**|
+|:warning: Les risques pour la vie privée inhérents aux technologies de transport en commun s’accompagnent aussi de risques pour la sécurité, puisqu’on pourrait identifier une personne en associant des données qui, prises isolément, n’y suffiraient pas. Les logiciels et les composants matériels devront être protégés afin d’empêcher tout accès non autorisé aux données.|
+|:warning: Il existe un potentiel de vulnérabilité plus important avec un vaste réseau d’appareils connectés, car un seul appareil endommagé peut exposer l’ensemble du réseau à un accès non autorisé. |
+|**Gestion des risques** |
+|:heavy_check_mark: Bon nombre des solutions aux risques pour la vie privée atténueront aussi les risques pour la sécurité, par exemple l’anonymisation à la source, sinon l’anonymisation dès que possible. Si des renseignements personnels sont recueillis, ils doivent être conservés dans un endroit sûr.|
+|:heavy_check_mark: Des mesures physiques, organisationnelles et technologiques devraient être mises en place pour limiter l’accès aux données à ceux qui en ont besoin. |
+|:heavy_check_mark: Effectuez des évaluations programmées de la sécurité des applications et des transmissions afin de repérer les risques et les vulnérabilités et garantir que les mesures de sécurité sont à jour, appropriées et efficaces. |
+|:heavy_check_mark: Les systèmes de paiement en ligne doivent employer des processus de cryptage de bout en bout pour protéger les communications et maximiser la sécurité des informations sensibles dans les opérations de paiement. |
+|:heavy_check_mark: Lorsque les données de la ville sont stockées sur des serveurs distants, la plateforme d’hébergement dans le nuage doit régulièrement faire l’objet d’audits et de correctifs de sécurité, et une stratégie de récupération des données doit être mise en place. |
+|:heavy_check_mark: Tous les partenaires et entrepreneurs doivent employer des mesures de protection adéquates selon la sensibilité des informations qu’ils détiennent.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html).|
 
-| Procurement |
-| :--- |
-| **Issues.** |
-| ⚠  Public transit solutions will involve the procurement of hardware, vehicles and software programs and developers from third parties. This will raise procurement issues of the risk of obsolescence or vendor lock-in, long-term costs of the technology including vehicle maintenance, and choosing between high-tech and low-tech solutions. |
-| **Managing Issues.** |
-| ✅  Procurement issues should be dealt with by following [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html) |
-| ✅  [Intellectual property issues](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html) will arise over ownership and confidentiality of data.  Access and other data entitlements should be addressed at the outset, as part of the conditions of procurement. |
-| ✅ Deciding between high-tech and low-tech solutions will depend on several factors: \(a\) What is the use case? Long-term planning, or baseline measurement of activity within the city, may not require the speed, accuracy, and scalability that “smarter” technologies offer. Real-time public transit information for customers, in contrast, will heavily rely on these features. \(b\) Cost - low-tech solutions tend to be cheaper to acquire and maintain. High-tech solutions such as autonomous shuttles may have high costs for risk mitigation such as custom insurance coverages and specialized maintenance services. \(c\) Scalability – Assess bid submissions on the risks of scalability and flexibility to deal with structured and unstructured data. Some considerations include use of consortium models for incremental expansions and non-relational databases. |
-
+| Approvisionnement|
+|---|
+| **Risques**|
+|:warning: Les solutions relatives au transport en commun requièrent l’acquisition de matériel, de véhicules et de logiciels, de même que les services de développeurs tiers. Ce processus s’accompagne de risques liés à l’obsolescence ou à l’asservissement à un fournisseur, aux coûts à long terme de la technologie, y compris ceux liés à l’entretien des véhicules, et au choix entre des solutions de pointe ou traditionnelles.
+|**Gestion des risques** |
+|:heavy_check_mark: Les risques liés à l’approvisionnement doivent être traités en suivant [les pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html)
+|:heavy_check_mark: Des [risques liés à la propriété intellectuelle](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html) sont à prévoir en lien avec la propriété et la confidentialité des données. Les droits d’accès et autres droits relatifs aux données doivent être abordés d’entrée de jeu, en tant que partie intégrante des conditions d’acquisition. |
+|:heavy_check_mark: Le choix de solutions de faible ou de haute technicité dépendra de plusieurs facteurs : a) L’utilisation prévue. – La planification à long terme ou la mesure de référence de l’activité dans la ville peuvent ne pas nécessiter la vitesse, la précision et la capacité de mise à l’échelle qu’offrent les technologies « plus intelligentes ». En revanche, les données en temps réel sur le transport en commun destinées aux clients comptent fortement sur ces attributs. b) Le coût. – Les solutions de faible technicité ont tendance à être moins coûteuses à acquérir et à entretenir. Les solutions de haute technologie comme les navettes autonomes peuvent engendrer des coûts importants liés à l’atténuation des risques (p. ex., couvertures d’assurance personnalisées et services d’entretien spécialisés). c) La mise à l’échelle. – Les offres soumises doivent être évaluées en fonction des risques liés à la mise à l’échelle et de la facilité à traiter les données structurées et non structurées. Il convient notamment de faire appel à un consortium de services pour les expansions progressives et les bases de données non relationnelles.|

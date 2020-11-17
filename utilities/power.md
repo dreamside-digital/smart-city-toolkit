@@ -3,52 +3,50 @@ layout: default
 title: Power
 permalink: /utilities/power
 ---
+# Services : Électricité
 
-# Power
+L’accès à une alimentation électrique fiable et peu coûteuse constitue un service de base dans toutes les villes. Les services énergétiques de nombreuses municipalités canadiennes sont fournis par une société indépendante appartenant à la municipalité. Ces entreprises de services publics possèdent et exploitent généralement des lignes à basse tension pour fournir de l’électricité et, dans certains cas, produisent de l’électricité, en plus de fournir des services de conservation et de facturation aux consommateurs. Les municipalités sont également consommatrices d’énergie et doivent gérer leur consommation. Les responsables municipaux peuvent se servir d’outils technologiques pour améliorer les services énergétiques à la collectivité, réduire les coûts et la consommation énergétiques et améliorer l’incidence environnementale de la ville.
 
-Access to reliable and inexpensive energy is a basic amenity in a city. In Canada, many municipalities’ energy services are provided by an arm’s length company owned by the municipality. These local utility companies typically own and operate low-voltage lines to deliver electricity, and in some cases engage in power generation, and provide conservation, and billing services to consumers. Municipalities are consumers of energy, as well, and need to manage their energy use. Municipal energy dealings can use technological tools to improve energy services for the community, reduce energy costs and power consumption, and improve the city’s environmental impact.
+## Problèmes, applications et solutions : Éclairage des voies publiques
 
-## Problems, Applications, and Solutions: Street Lighting
-
-Municipalities select and maintain street lighting to improve street safety for pedestrians and drivers. However, streetlights are generally effective to the extent that people are actively relying on them such as crossing the street after dark. Accordingly, electricity is often wasted on pre-determined static street lighting that is unseen and unused during overnight hours and sparsely populated areas. Modern lighting tools, such as LED lighting, are cheaper to operate than traditional streetlights, but still, much lighting is unnecessary. To reduce such consumption, municipalities are moving towards adaptive streetlights with networked controls that respond to objects in real-time.
+Les municipalités éclairent les rues afin d’améliorer la sécurité des piétons et des conducteurs. Or, les lampadaires ne sont généralement efficaces que si les gens s’en servent activement, par exemple pour traverser la rue après la tombée de la nuit. Il y a donc souvent gaspillage d’électricité, puisque l’éclairage public statique et prédéterminé est souvent invisible et inutilisé pendant la nuit et dans les zones peu peuplées. Le fonctionnement des appareils d’éclairage modernes, comme l’éclairage à DEL, est moins coûteux que celui des lampadaires traditionnels, mais il n’en reste pas moins que beaucoup d’électricité est consommée inutilement. Pour réduire cette consommation, les municipalités se tournent vers des lampadaires adaptatifs et des commandes en réseau qui réagissent aux objets en temps réel.
 
 ## Technologies
 
-**LED lighting with motion sensors** – These LED lights include sensors that detect movements of people, vehicles, and animals and respond in real-time without manual or networked controls. These LED lights which are stand-alone have a range of 1-5-minute timeouts.
+**Éclairage à DEL avec capteurs de mouvement** – Ces lampadaires à DEL, autonomes et ayant une plage de temporisation de 1 à 5 minutes, sont munis de capteurs qui détectent les mouvements des personnes, des véhicules et des animaux et réagissent en temps réel, sans commande manuelle ou en réseau.
 
-**LED lighting with computer vision presence detection** – These networked LED lights use video cameras and specific computer vision analysis to detect human presence in an area.
+**Éclairage à DEL avec détection de présence par vision artificielle** – Ces éclairages à DEL en réseau utilisent des caméras vidéo et une analyse précise par vision artificielle pour détecter la présence de personnes dans une zone.
 
-**LED Light Intensity Control using Light Dependent Resistor \(LDR\)** – The brightness of Street Lights is network controlled using LDR sensors. During daytime or at night, the LDR sensors sense the light intensity and programs the LED to either turn on or off. A dimming function can be incorporated to reduce energy consumption during off-peak hours on appropriate roadways or areas such as highways, downtown areas, or industrial zones.
+**Contrôle de l’intensité lumineuse des DEL à l’aide d’une photorésistance** – La luminosité des lampadaires est contrôlée en réseau à l’aide d’une cellule photorésistante. De jour comme de nuit, les photorésistances détectent l’intensité lumineuse et programment les DEL pour qu’elles s’allument ou s’éteignent. Une fonction de gradation peut être incorporée pour réduire la consommation d’énergie en dehors des heures de pointe aux endroits appropriés comme les autoroutes, les centres-villes ou les secteurs industriels.
 
-**Automatic LED Intensity Detection and Control using Passive Infrared \(PIR\) Sensor** – The streetlights using PIR Sensor automatically turn on when the sensors detect the human body or heat radiation and turn off when there is no presence detected.
+**Détection et contrôle automatique de l’intensité des DEL à l’aide d’un capteur infrarouge passif** – Les lampadaires munis de ce type de capteur s’allument automatiquement lorsque sont détectés un corps humain ou du rayonnement thermique et s’éteignent lorsque rien n’est détecté.
 
-**Central management network** – A central control system can connect smart streetlight devices to allow the controller to control each luminaire and gather performance data and real-time fault monitoring. The network can use different network configurations depending on the service range and data carrying ability, such as cellular, low power wide area networks \(LPWAN\), power line carrier, or radio frequency.
+**Réseau de gestion central** – Un système de commande central peut relier des dispositifs d’éclairage public intelligents pour que le contrôleur puisse commander chaque luminaire, recueillir des données sur le rendement et surveiller les pannes en temps réel. Le réseau peut utiliser différentes configurations en fonction de la plage de service et de la capacité de transport des données, comme les réseaux cellulaires, les réseaux étendus à faible puissance, le courant porteur en ligne ou la radiofréquence.
 
-## Managing Liability Energy Issues
+## Gestion des risques susceptibles d’engager la responsabilité
 
-| Privacy |
-| :--- |
-| **Issues.** |
-| ⚠  Privacy issues may arise where intelligent streetlight solutions can identify an individual using computer vision presence. There is a potential for a greater vulnerability with a large network of connected devices because a single breached device may expose the entire network to unauthorized access. |
-| **Managing Issues.** |
-| ✅ De-identify at the source. Many camera technologies allow for faces to be blurred at collection. |
-| ✅ De-identify as soon as possible. Data collected should de-identify persons captured in the process during the collection of information. |
-| ✅ Minimize data collection. This is the minimization of data collection to what is needed or required. Statistical data about optimal times for dimming lights will not require people’s personal information. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| Vie privée|
+|---|
+| **Risques**|
+|:warning: Il peut y avoir des risques d’atteinte à la vie privée lorsque les solutions intelligentes d’éclairage public permettent d’identifier une personne grâce à la vision artificielle. Le potentiel de vulnérabilité est plus important avec un vaste réseau d’appareils connectés, puisqu’il suffit d’un seul appareil endommagé pour exposer l’ensemble du réseau à un accès non autorisé. |
+|**Gestion des risques**|
+|:heavy_check_mark: Anonymisez à la source. Bon nombre de technologies de caméra permettent de flouter les visages à la source.
+|:heavy_check_mark: Anonymisez dès que possible. Les données recueillies doivent préserver l’anonymat des personnes visées durant la collecte.|
+|:heavy_check_mark: Réduisez au minimum la collecte de données. Il s’agit de réduire la collecte de données à ce qui est nécessaire ou requis. Les données statistiques sur les temps optimaux de gradation des lumières ne requièrent pas de renseignements personnels.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
 
-| Security |
-| :--- |
-| **Issues.** |
-| ⚠ Privacy and security work together. Protecting the privacy of individuals involves ensuring the security of the data collected. |
-| **Managing Issues.** |
-| ✅ Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location. |
-| ✅ Encryption. Encryption protects personal information by a process of scrambling data so that it can only be accessed with a unique decryption key which will translate the data back into its original readable form. There are several types of encryption algorithms to protect the actual personal information data as well as the channels of communication in which the data travels. |
-| ✅ Authentication. This prevents unauthorized access to the network control of these technologies using processes that verify their clearance to access the data. The level of authentication should commensurate with the risks. Two-factor authentication offers an extra layer of security by requiring two pieces of information, making it more difficult for someone to gain unauthorized access. |
-| ✅ Limit access to data. Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information. |
-| ✅ Regular audits and security patches. Where city data is stored on cloud-based servers, the cloud platform should be subject to consistent audits and security patches, with a data recovery strategy in place. |
-| ✅ Regular software updates. Most technologies have routine software updates to prevent hackers and eavesdroppers from loading malicious software that disrupts network data. Security assessments for software should look for risks and vulnerabilities to ensure security approaches are up-to-date, appropriate, and effective. |
-| ✅  Maintenance of Hardware. This prevents a breach of the security parameters on hardware by hackers or thieves. Hardware devices that are identified to be compromised can be isolated until maintenance is performed. |
-| ✅ Security platform. Establishing a security platform that analyzes data, searches for potential indicators of compromise with the capability of implementing security measures such as isolating affected devices. |
-| ✅ Ensure that partners have adequate safeguards. All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control. |
-| ✅ Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
-
+| Sécurité|
+|---|
+| **Risques**|
+|:warning: Vie privée et sécurité vont de pair. La protection de la vie privée signifie également garantir la sécurité des données recueillies. |
+|**Gestion des risques**|
+|:heavy_check_mark: Bon nombre des solutions aux risques pour la vie privée atténueront aussi les risques pour la sécurité, par exemple l’anonymisation à la source, sinon l’anonymisation dès que possible. Si des renseignements personnels sont recueillis, ils doivent être conservés dans un endroit sûr.|
+|:heavy_check_mark: Chiffrez les données. Le chiffrement protège les informations personnelles en brouillant les données, de sorte qu’elles ne sont accessibles qu’avec une clé de déchiffrement unique qui les restitue sous leur forme lisible initiale. Il existe plusieurs types d’algorithmes de chiffrement pour protéger les données personnelles ainsi que les canaux de communication par lesquels elles transitent. |
+|:heavy_check_mark: Authentifiez les utilisateurs. L’authentification empêche l’accès non autorisé au contrôle de ces technologies en réseau au moyen de processus de vérification des autorisations d’accès aux données. Le niveau d’authentification doit être proportionnel aux risques. L’authentification à deux facteurs offre un niveau de sécurité supplémentaire en exigeant deux informations, ce qui rend plus difficile l’accès non autorisé.|
+|:heavy_check_mark: Limitez l’accès aux données. Des mesures physiques, organisationnelles et technologiques doivent être mises en place pour limiter l’accès aux données à ceux qui en ont besoin. |
+|:heavy_check_mark: Prévoyez des audits et des correctifs de sécurité fréquents. Lorsque les données de la ville sont stockées sur des serveurs distants, la plateforme d’hébergement dans le nuage doit régulièrement faire l’objet d’audits et de correctifs de sécurité, et une stratégie de récupération des données doit être mise en place. |
+|:heavy_check_mark: Effectuez des mises à jour régulières des logiciels. La plupart des technologies proposent des mises à jour logicielles de routine pour empêcher les pirates et les espions d’y introduire des logiciels malveillants susceptibles de perturber les données du réseau. Les évaluations de la sécurité des logiciels devraient chercher à identifier les risques et les vulnérabilités afin de garantir que les mesures de sécurité sont à jour, appropriées et efficaces. |
+|:heavy_check_mark: Effectuez la maintenance du matériel. Cela permet d’éviter que des pirates ou des voleurs n’outrepassent les paramètres de sécurité. Les dispositifs matériels jugés compromis peuvent être isolés jusqu’à ce que la maintenance soit effectuée.|
+|:heavy_check_mark: Mettez en place une plateforme de sécurité. Une plateforme de sécurité analyse les données, recherche les indicateurs potentiels de compromission et permet de mettre en place des mesures de sécurité comme la mise en quarantaine des dispositifs contaminés.
+|:heavy_check_mark: Assurez-vous que les partenaires emploient des mesures de protection adéquates. Tous les partenaires et entrepreneurs doivent employer des mesures de protection adéquates selon la sensibilité des informations qu’ils détiennent.|
+|:heavy_check_mark: Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).|

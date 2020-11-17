@@ -4,13 +4,10 @@ title: Transportation
 permalink: /transportation
 ---
 
-# Introduction to Transportation
+L’une des tâches les plus importantes des municipalités est la planification et la proposition au public de moyens de transport tout au long de l’année. Les transports influencent l’aménagement et l’utilisation de l’espace dans nos communautés et l’offre dans les différents districts.
 
-One of municipalities’ primary tasks is to plan and provide the means by which people move through space over the course of the day, the week, and the year. Transportation informs the way we design communities, the use we make of their space, and the capacity enjoyed by community districts.
+Les services de transport et de mobilité englobent la planification de l’entretien des réseaux routiers, du déneigement, de l’écoulement du trafic et, dans beaucoup de municipalités, des transports en commun. Cependant, ils comprennent aussi des services favorisant les déplacements par d’autres moyens comme le vélo ou la marche.
 
-Transportation and mobility services include planning for road maintenance, snow clearance, traffic flow and, in many municipalities, public transit. But it also includes services enabling transportation by other means such as bicycling and even foot traffic.
+Une utilisation judicieuse des données et des technologies peut améliorer la prestation de ces services.
 
-Astute use of data and technology can assist in the provision of these services.
-
-**To explore smart city solutions and technologies, click any of the links on the sidebar to the left.**
-
+**Pour explorer les solutions et technologies de la ville intelligente, cliquez sur l’un des liens de la barre latérale à gauche.**

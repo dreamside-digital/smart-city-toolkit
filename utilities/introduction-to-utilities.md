@@ -4,9 +4,6 @@ title: Utilities
 permalink: /utilities
 ---
 
-# Introduction to Utilities
+Les services publics fournis par les municipalités sont au nombre de quatre : eau, électricité, énergie et gestion des déchets. Ils font partie des infrastructures essentielles de nos villes. Les technologies intelligentes peuvent aider les citoyens et les citoyennes à contrôler leur consommation et les municipalités à administrer les services plus efficacement.
 
-Municipal public utilities include four services - water, electricity, energy, and waste management. These utilities are key infrastructure in any city and smart technologies can help citizen control their utility usage and municipalities manage the services more efficiently.
-
-**To explore smart city solutions and technologies, click any of the links on the sidebar to the left.**
-
+**Pour explorer les solutions et technologies de la ville intelligente, cliquez sur l’un des liens de la barre latérale à gauche.**
