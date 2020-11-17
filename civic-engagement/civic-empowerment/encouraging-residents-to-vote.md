@@ -33,7 +33,7 @@ Voting demographics show that only a subset of residents end up voting. This can
 | ✅ Don’t track.  If it is unnecessary to track voters’ personal information, then the municipality should employ tools that don’t associate individuals with content. |
 | ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
 | ✅ Use non-identifying information as password to voting. Create a secure password on the resident’s voting card limiting the use of identifying information during the actual vote. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../../meta-issues/privacy.md). |
 
 | Voter Fraud |
 | :--- |

@@ -27,7 +27,7 @@ Municipalities struggle to regulate proper parking practices in residential area
 | ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
 | ✅ Limit data collection to only that which is needed.  Data collection strategies aggregate engagement numbers and location-less data collection rather than individual-specific engagement locales avoid engaging more serious privacy concerns. |
 | ✅ Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../../meta-issues/privacy.md). |
 
 | Security Issues |
 | :--- |
@@ -36,7 +36,7 @@ Municipalities struggle to regulate proper parking practices in residential area
 | **Managing Issues.** |
 | ✅ Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location. |
 | ✅ Access should be limited to those with a need to use the information. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Follow [good security practices](../../meta-issues/security.md). |
 
 
 

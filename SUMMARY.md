@@ -36,6 +36,8 @@
 * [Introduction to Emergency Management](emergency-management/introduction-to-emergency-management.md)
 * [Fire Response Systems](emergency-management/fire-response-systems.md)
 * [Medical Emergency Response](emergency-management/medical-emergency-response.md)
+* [Predictive Policing](emergency-management/predictive-policing.md)
+* [Community Engagement In Policing](emergency-management/community-engagement-in-policing.md)
 
 ## Housing
 

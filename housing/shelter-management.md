@@ -46,7 +46,7 @@ Tech solutions for homeless must consider that many homeless lack the capacity t
 | ⚠ Many homeless people are deeply suspicious of privacy invasions and are resistant to data gathering technologies. |
 | **Managing issues.** |
 | ✅ Protection of privacy and confidentiality must be a driving force in assessing technologies as participation will suffer if privacy invasions are allowed. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../meta-issues/privacy.md). |
 
 | Security |
 | :--- |
@@ -55,7 +55,7 @@ Tech solutions for homeless must consider that many homeless lack the capacity t
 | **Managing issues.** |
 | ✅ Low technology solutions such as the presence of security officers can increase the ‘jail-like’ perception of prisoners, turning away clients in need. Visual surveillance, video monitoring, other forms of control can backfire in homeless shelters because they provoke aggressiion, contemptuous behaviour, ‘bad moods’ and threats of violence among shelter residents. |
 | ✅ Defining shelter boundaries is a significant problem when making decisions about expulsion of bad actors. Technology can trigger who is violating shelter rules to improve orderly conduct and reduce criminal activities from being engaged onsite. The use of CCTV cameras to surveil shelter spaces is legitimized as necessary to protect shelter staff and occupants and manage violent situations when coupled with security workers. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Follow [good security practices](../meta-issues/security.md). |
 
 | Procurement |
 | :--- |
@@ -63,7 +63,7 @@ Tech solutions for homeless must consider that many homeless lack the capacity t
 | ⚠ Untested technologies can introduce unforeseen harms. |
 | **Managing issues.** |
 | ✅ Procuring dumb phones to distribute to homeless is key to adoption and program success. |
-| ✅ Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Follow [sound procurement practices](../meta-issues/untitled-2.md). |
 
 | Operations |
 | :--- |

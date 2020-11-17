@@ -51,7 +51,7 @@ Direct fire monitoring allows municipal fire services to be informed of fire ala
 | ✅ Only enable communication when absolutely necessary. Systems should be configured to only allow someone to “listen in” when an alarm has been activated. |
 | ✅ Don’t allow for communication at all. Delay windows between when a signal is received and when fire services are dispatched could allow for something like a false alarm button to be pressed. |
 | ✅ Don’t store any data. If it is necessary for a microphone to always be listening \(i.e. if it uses voice activated commands\), then no audio is receives should ever be stored to avoid identifying individuals. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../meta-issues/privacy.md). |
 
 
 

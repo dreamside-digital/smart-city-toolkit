@@ -38,7 +38,7 @@ Open Data is an approach to sharing the data that municipalities use to make dec
 | ✅ Have sensitive data be reviewed by an internal review board. A diverse board that includes a variety of experts and representatives will help ensure the risks of disclosure are measured in an accurate, balanced manner. Community stakeholders should also be included. |
 | ✅ Provide notice and allow for opt-out. If data provided by an individual may be disclosed through a municipality’s open data programs or platforms, they should be informed of this disclosure and its nature and scope. Objections should factor greatly into risk assessments and given heavy consideration. |
 | ✅ Redact if necessary. Data can be redacted to exclude identifying features. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../meta-issues/privacy.md). |
 
 | Inclusion: Accuracy, Equity, and Fairness |
 | :--- |
@@ -49,5 +49,5 @@ Open Data is an approach to sharing the data that municipalities use to make dec
 | ✅ Create correction and complaints systems. Municipalities should create clear and simple methods for the public to identify and correct inaccurate data. |
 | ✅ Reassess data as new facts emerge. Data should be amended or corrected as necessary. |
 | ✅ Establish review schedules for published data. All data, agreements, and licenses should be periodically reviewed in order to assess if it needs to be updated or amended. |
-| ✅ Follow [inclusive practices](https://cippic-ca.github.io/SmartCityToolkit/inclusion.html). |
+| ✅ Follow [inclusive practices](../meta-issues/inclusion.md). |
 

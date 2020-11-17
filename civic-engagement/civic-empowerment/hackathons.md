@@ -41,8 +41,8 @@ Hacking is creative problem solving. Hackathons, also called codefests or hackfe
 | ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
 | ✅ Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns. |
 | ✅ Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Follow [good privacy practices](../../meta-issues/privacy.md). |
+| ✅ Follow [good security practices](../../meta-issues/security.md). |
 
 | Intellectual Property Issues |
 | :--- |
@@ -56,7 +56,7 @@ Hacking is creative problem solving. Hackathons, also called codefests or hackfe
 | ✅ Licensing if use of a trademarked technology is necessary. |
 | ✅ Warranties and representations of ownership and/or non-infringement to avoid future disagreements. |
 | ✅ Contractually allocating liability arising from app use to either the municipality, the author or the user. |
-| ✅ See also: [intellectual property issues](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html). |
+| ✅ See also:[ intellectual property issues](../../meta-issues/untitled-1.md). |
 
 **Hackathon Resources**
 

@@ -47,6 +47,6 @@ Municipal Wi-Fi ensures that anyone with a wi-fi enabled device is able to acces
 | ✅ Encourage use of websites that use HTTPS protocol. HTTPS protocol is more secure and will help protect user’s private data. Sites that do not use HTTPS protocol that are accessed via municipal wifi could be accompanied by a warning or disclaimer. |
 | ✅ Encourage the use of VPNs. Virtual Private Networks \(VPNs\) help keep user data private and out of the hands of those unauthorized to possess it for a small fee. Municipal wi-fi systems may make use of a landing page that encourages use of a VPN when using the system. |
 | ✅ Include disclaimers. The wi-fi’s landing page should include a disclaimer that sets out the risk of using public wi-fi and allows users to agree to the risks to access the service. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Follow [good privacy practices](../meta-issues/privacy.md). |
+| ✅ Follow [good security practices](../meta-issues/security.md). |
 

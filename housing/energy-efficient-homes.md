@@ -49,7 +49,7 @@ Energy modelling ensures that building design will meet performance requirements
 | ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
 | ✅ Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns. |
 | ✅ Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../meta-issues/privacy.md). |
 
 | Security |
 | :--- |
@@ -57,7 +57,7 @@ Energy modelling ensures that building design will meet performance requirements
 | ⚠ Primary issues with energy efficiency technologies are impacted by scale. The security concerns and threats to a smart grid system are of a different level than the threats posed by a software application collecting data. The relevant question is whether an adversary could hack the system to interfere with delivering energy reliably. |
 | **Managing issues.** |
 | ✅ Security breaches against essential technologies can result in physical harm to an individual and requires thorough risk assessment. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Follow [good security practices](../meta-issues/security.md). |
 
 | Procurement |
 | :--- |
@@ -65,7 +65,7 @@ Energy modelling ensures that building design will meet performance requirements
 | ⚠ Compatibility and synchronicity across hardware and software systems is a critical liability risk because the effectiveness of smart systems relies upon coordinating functions. |
 | **Managing issues.** |
 | ✅ Linking sensors, monitors, and energy consumption information to optimize performance is envisioned as the ideal in theory. But introduces contractual, privacy, security and safety risks when examining  building systems at an ecosystem level. |
-| ✅ Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Follow [sound procurement practices](../meta-issues/untitled-2.md). |
 
 | Operations |
 | :--- |

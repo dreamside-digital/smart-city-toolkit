@@ -22,18 +22,18 @@ Smart city tools can bridge access to the disability community by making municip
 
 ## Managing Liabilities
 
-| Privacy |  |
-| :--- | :--- |
-| **Issues.** |   |
-| ⚠ Using public WIFI provided by the municipality to complete personal tasks may risk breach of an individual’s personal information. |  |
-| ⚠ Some provinces have passed provincial health privacy legislation, such as Ontario’s Personal Health Information Act, 2004,  to protect sensitive health information. Such data should only be accessible to certain types of professionals. Legal professionals, healthcare professionals, and social workers have different ethical obligations towards their clients that must be taken into account when integrating services. If confidential information relating to a person’s health is disclosed to third parties, it may lead to discrimination. |  |
-| **Managing Issues** |  |
-| ✅ Inform users of privacy issues pertaining to public WIFI. Include a disclaimer so residents are aware of the risks they take when they use public WIFI. |  |
-| ✅ Use VPNs. Include access to a free VPN to assist residents with tasks involving personally identifying information. |  |
-| ✅ Don’t track.  Civic engagement tools don’t necessarily need to track identities.  Employ tools that don’t associate individuals with content. |  |
-| ✅ De-identify at the source. Many tools allow for engagement without collecting personal information. Doing so at the source helps prevent privacy issues from cropping up later. |  |
-| ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |  |
-| ✅ Limit data collection to only that which is needed.  Data collection strategies aggregate engagement numbers and location-less data collection rather than individual-specific engagement locales avoid engaging more serious privacy concerns. |  |
-| ✅ Ensure that individual professionals \(legal, medical, or social\) are following their ethical and regulatory obligations. When integrating multidisciplinary services, ensure that each professional is upholding their privacy obligations under relevant legislation. Only provide necessary personal information on the resident to each professional. |  |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |  |
+| Privacy |
+| :--- |
+| **Issues.** |
+| ⚠ Using public WIFI provided by the municipality to complete personal tasks may risk breach of an individual’s personal information. |
+| ⚠ Some provinces have passed provincial health privacy legislation, such as Ontario’s Personal Health Information Act, 2004,  to protect sensitive health information. Such data should only be accessible to certain types of professionals. Legal professionals, healthcare professionals, and social workers have different ethical obligations towards their clients that must be taken into account when integrating services. If confidential information relating to a person’s health is disclosed to third parties, it may lead to discrimination. |
+| **Managing Issues** |
+| ✅ Inform users of privacy issues pertaining to public WIFI. Include a disclaimer so residents are aware of the risks they take when they use public WIFI. |
+| ✅ Use VPNs. Include access to a free VPN to assist residents with tasks involving personally identifying information. |
+| ✅ Don’t track.  Civic engagement tools don’t necessarily need to track identities.  Employ tools that don’t associate individuals with content. |
+| ✅ De-identify at the source. Many tools allow for engagement without collecting personal information. Doing so at the source helps prevent privacy issues from cropping up later. |
+| ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
+| ✅ Limit data collection to only that which is needed.  Data collection strategies aggregate engagement numbers and location-less data collection rather than individual-specific engagement locales avoid engaging more serious privacy concerns. |
+| ✅ Ensure that individual professionals \(legal, medical, or social\) are following their ethical and regulatory obligations. When integrating multidisciplinary services, ensure that each professional is upholding their privacy obligations under relevant legislation. Only provide necessary personal information on the resident to each professional. |
+| ✅ Follow [good privacy practices](../../meta-issues/privacy.md). |
 

@@ -45,7 +45,7 @@ The presence of children in public parks and recreational spaces make the liabil
 | ✅ De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. |
 | ✅ Limit data collection to only that which is needed. Serious consideration and justification should be made for the collection of sensitive personal information. |
 | ✅ Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. |
-| ✅ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
+| ✅ Follow [good privacy practices](../meta-issues/privacy.md). |
 
 | Security Issues |
 | :--- |
@@ -55,7 +55,7 @@ The presence of children in public parks and recreational spaces make the liabil
 | ✅ Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location. |
 | ✅ Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information. |
 | ✅ all partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control. |
-| ✅ Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
+| ✅ Follow [good security practices](../meta-issues/security.md). |
 
 | Intellectual Property Issues |
 | :--- |
@@ -73,5 +73,5 @@ The presence of children in public parks and recreational spaces make the liabil
 | ✅ The same solutions to IP will address procurement issues:  e.g., negotiating licensing agreements and contractual agreements at the outset. |
 | ✅ Negotiation of the ownership of data and other data entitlements as part of the conditions of procurement and contract. |
 | ✅ Deciding on high-tech and low-tech solutions will depend on several factors:  \(a\) What is the use case? Long-term planning, or baseline measurement of activity within the city, may not require the speed, accuracy, and scalability that “smarter” technologies offer. However, enhancing the user experience with real-time information and features may benefit from these features. \(b\) Technologies that rely on other hardware devices such as sensors may increase initial costs, as well as maintenance costs associated with TPMs. \(c\) Cost: low-tech solutions tend to be cheaper to acquire and maintain. |
-| ✅ Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
+| ✅ Follow[ sound procurement practices](../meta-issues/untitled-2.md). |
 
