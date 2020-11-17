@@ -3,13 +3,14 @@ layout: default
 title: Road Maintenance
 permalink: /infrastructure/road-maintenance
 ---
-# Services : Entretien des routes
 
-L’entretien des routes – repavage, remplissage des nids de poule et peinture – est une activité permanente. Or, des problèmes saisonniers, comme la présence d’animaux morts sur les routes, peuvent nuire à leur entretien ainsi qu’à la circulation. Le problème du chevauchement entre l’entretien des routes et les passages pour animaux sauvages est également compliqué par le fait que ces questions sont souvent traitées par deux services municipaux distincts : (i) l’infrastructure et les routes, et (ii) l’environnement et la faune.
+# Road Maintenance
 
-## Applications et solutions : Surveillance de la faune
+L’entretien des routes – repavage, remplissage des nids de poule et peinture – est une activité permanente. Or, des problèmes saisonniers, comme la présence d’animaux morts sur les routes, peuvent nuire à leur entretien ainsi qu’à la circulation. Le problème du chevauchement entre l’entretien des routes et les passages pour animaux sauvages est également compliqué par le fait que ces questions sont souvent traitées par deux services municipaux distincts : \(i\) l’infrastructure et les routes, et \(ii\) l’environnement et la faune.
 
-Nombre d’automobilistes, de passagers et d’animaux sont sérieusement blessés ou tués à la suite de collisions sur les routes municipales. Il s’agit d’un problème grave : selon les statistiques, de quatre à huit collisions avec des animaux se produisent toutes les heures au Canada. Chaque année, on estime qu’il y en a entre 10 000 et plus de 15 000 dans chaque province. Comme on peine à suivre les grands mammifères et à détecter leurs passages, il est difficile de déterminer les endroits où les automobilistes doivent ralentir et rouler avec prudence. Les panneaux affichés sur les routes à grande vitesse ne sont pas particulièrement utiles, car ils n’informent pas les conducteurs lorsqu’il y a un risque accru.
+## Applications et solutions : Surveillance de la faune
+
+Nombre d’automobilistes, de passagers et d’animaux sont sérieusement blessés ou tués à la suite de collisions sur les routes municipales. Il s’agit d’un problème grave : selon les statistiques, de quatre à huit collisions avec des animaux se produisent toutes les heures au Canada. Chaque année, on estime qu’il y en a entre 10 000 et plus de 15 000 dans chaque province. Comme on peine à suivre les grands mammifères et à détecter leurs passages, il est difficile de déterminer les endroits où les automobilistes doivent ralentir et rouler avec prudence. Les panneaux affichés sur les routes à grande vitesse ne sont pas particulièrement utiles, car ils n’informent pas les conducteurs lorsqu’il y a un risque accru.
 
 Les solutions de ville intelligente sont efficaces pour automatiser la surveillance, le suivi et la détection des animaux sur la route et peuvent avertir les automobilistes en temps réel.
 
@@ -19,45 +20,45 @@ Les solutions de ville intelligente sont efficaces pour automatiser la surveilla
 
 **Ponts verts supérieurs et inférieurs** – La création de passages fauniques à des endroits stratégiques peut encourager les animaux à utiliser ces structures sécuritaires plutôt que la route et réduire le nombre de collisions et les blessures et les décès qui en découlent. Cette solution peut faciliter le passage des animaux, mais aussi la recherche grâce à l’installation de caméras, comme ce fut le cas dans le Parc national de Banff où les passages supérieurs et inférieurs étaient très utilisés par plusieurs espèces, leur adoption pouvant prendre jusqu’à cinq ans dans le cas des ours et des loups.
 
-**Détecteurs à faisceau** – Les détecteurs à faisceau détectent les grands mammifères dont le corps bloque un faisceau infrarouge, laser ou de micro-ondes entre un émetteur et un détecteur. Cependant, ils manquent souvent les petits animaux et produisent beaucoup de faux positifs et de faux négatifs. Il faut continuellement les entretenir (tondre le gazon, ajouter des sources d’alimentation, construire des clôtures, etc.). Il faut aussi tenir compte des coûts de remplacement en raison des intempéries et des problèmes techniques (défaillance ou obstruction du signal, vandalisme, menaces, etc.), en plus du fait qu’ils peuvent être heurtés par des véhicules.
+**Détecteurs à faisceau** – Les détecteurs à faisceau détectent les grands mammifères dont le corps bloque un faisceau infrarouge, laser ou de micro-ondes entre un émetteur et un détecteur. Cependant, ils manquent souvent les petits animaux et produisent beaucoup de faux positifs et de faux négatifs. Il faut continuellement les entretenir \(tondre le gazon, ajouter des sources d’alimentation, construire des clôtures, etc.\). Il faut aussi tenir compte des coûts de remplacement en raison des intempéries et des problèmes techniques \(défaillance ou obstruction du signal, vandalisme, menaces, etc.\), en plus du fait qu’ils peuvent être heurtés par des véhicules.
 
 **Panneaux de signalisation numériques** – Ces panneaux préviennent les automobilistes des conditions de circulation et de sécurité sur la route et peuvent être programmés pour fournir des alertes en temps réel. Ils peuvent être utilisés conjointement avec des détecteurs à faisceau pour informer les usagers de la présence d’animaux sur la route. Utilisés indépendamment, ils peuvent inviter les automobilistes à redoubler de vigilance pendant les périodes où les passages sont les plus fréquents.
 
-**Caméras lidar** – La technologie lidar se présente sous forme de faisceaux laser associés à des détecteurs, installés dans des boîtiers compacts, balayant un endroit donné. Ces appareils peuvent couvrir un plan horizontal de 360° et un champ vertical de 30°, permettant une détection et un suivi avancés de la faune. Associés à des algorithmes de détection des cerfs qui filtrent l’arrière-plan, ils peuvent détecter un animal à une distance de 30 m dans un délai de 0,2 s.
+**Caméras lidar** – La technologie lidar se présente sous forme de faisceaux laser associés à des détecteurs, installés dans des boîtiers compacts, balayant un endroit donné. Ces appareils peuvent couvrir un plan horizontal de 360° et un champ vertical de 30°, permettant une détection et un suivi avancés de la faune. Associés à des algorithmes de détection des cerfs qui filtrent l’arrière-plan, ils peuvent détecter un animal à une distance de 30 m dans un délai de 0,2 s.
 
 ## Gestion des risques susceptibles d’engager la responsabilité
 
+| Vie privée |
+| :--- |
+| **Risques** |
+| :warning: Pensez à l’emplacement des appareils. Veillez à ce que les systèmes de détection avancés comme le lidar ne soient pas installés à proximité de résidences privées. |
+| **Gestion des risques** |
+| :heavy\_check\_mark: En modifiant les algorithmes pour éviter de reconnaître une forme humaine, on peut réduire les risques qu’une personne soit surveillée par inadvertance. |
+| :heavy\_check\_mark: Recueillez des données, mais ne surveillez pas les maisons. En principe, la surveillance de la faune ne doit pas porter atteinte au droit à la vie privée. Les appareils de collecte de données doivent être soigneusement sélectionnés pour réduire les risques en la matière. |
+| :heavy\_check\_mark: Choisissez la technologie appropriée. L’utilisation de solutions passives de faible technicité peut être préférable aux solutions très techniques après la construction, qui sont moins efficaces et sujettes à des défaillances \(en raison notamment des intempéries et des problèmes techniques\) et qui portent davantage atteinte à la vie privée. |
+| :heavy\_check\_mark: Floutez les données. Utilisez des techniques de floutage des données pour en préserver la confidentialité. Par exemple, si les appareils doivent être installés à proximité de résidences privées, veillez à ce qu’ils ne recueillent pas de données de cette zone. |
+| :heavy\_check\_mark: Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données à une société privée, vérifiez qu’elle respecte ses obligations en matière de respect de la vie privée prévues par les lois applicables. |
+| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
 
-| Vie privée|
-|---|
-| **Risques**|
-|:warning: Pensez à l’emplacement des appareils. Veillez à ce que les systèmes de détection avancés comme le lidar ne soient pas installés à proximité de résidences privées. |
-|**Gestion des risques** |
-|:heavy_check_mark: En modifiant les algorithmes pour éviter de reconnaître une forme humaine, on peut réduire les risques qu’une personne soit surveillée par inadvertance. |
-|:heavy_check_mark: Recueillez des données, mais ne surveillez pas les maisons. En principe, la surveillance de la faune ne doit pas porter atteinte au droit à la vie privée. Les appareils de collecte de données doivent être soigneusement sélectionnés pour réduire les risques en la matière. |
-|:heavy_check_mark: Choisissez la technologie appropriée. L’utilisation de solutions passives de faible technicité peut être préférable aux solutions très techniques après la construction, qui sont moins efficaces et sujettes à des défaillances (en raison notamment des intempéries et des problèmes techniques) et qui portent davantage atteinte à la vie privée. |
-|:heavy_check_mark: Floutez les données. Utilisez des techniques de floutage des données pour en préserver la confidentialité. Par exemple, si les appareils doivent être installés à proximité de résidences privées, veillez à ce qu’ils ne recueillent pas de données de cette zone. |
-|:heavy_check_mark: Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données à une société privée, vérifiez qu’elle respecte ses obligations en matière de respect de la vie privée prévues par les lois applicables.|
-|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
-
-| Sécurité|
-|---|
-| **Risques**|
-|:warning: Les dispositifs de détection installés en bordure des routes peuvent être vandalisés, volés ou encore détruits par des véhicules. |**Gestion des risques** |
-|:heavy_check_mark: Avant d’adopter un appareil, il faut tenir compte des frais de sécurité et de remplacement des appareils perdus ou endommagés. |
-|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html).|
+| Sécurité |  |
+| :--- | :--- |
+| **Risques** |  |
+| :warning: Les dispositifs de détection installés en bordure des routes peuvent être vandalisés, volés ou encore détruits par des véhicules. | **Gestion des risques** |
+| :heavy\_check\_mark: Avant d’adopter un appareil, il faut tenir compte des frais de sécurité et de remplacement des appareils perdus ou endommagés. |  |
+| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |  |
 
 | Approvisionnement |
-|---|
-| **Risques**|
-|:warning: Les coûts liés à l’aménagement de passages fauniques doivent être envisagés du point de vue du cycle de vie. |
-|**Gestion des risques** |
-|:heavy_check_mark: Les technologies intelligentes utilisées pour résoudre des problèmes peuvent engendrer des coûts d’exploitation et d’entretien importants (exigences structurelles, dommages causés par les intempéries, problèmes techniques, faux positifs et faux négatifs, etc.). |
-|:heavy_check_mark: Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).|
+| :--- |
+| **Risques** |
+| :warning: Les coûts liés à l’aménagement de passages fauniques doivent être envisagés du point de vue du cycle de vie. |
+| **Gestion des risques** |
+| :heavy\_check\_mark: Les technologies intelligentes utilisées pour résoudre des problèmes peuvent engendrer des coûts d’exploitation et d’entretien importants \(exigences structurelles, dommages causés par les intempéries, problèmes techniques, faux positifs et faux négatifs, etc.\). |
+| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière d’approvisionnement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html). |
 
-| Opérations|
-|---|
-| **Risques**|
-|:warning: Avant d’adopter une solution, il faut envisager son efficacité en ce qui a trait à la réduction du nombre de collisions entre les véhicules et les animaux. |
-|**Gestion des risques** |
-|:heavy_check_mark: Testez les appareils avant de les adopter ou de les déployer. Renseignez-vous suffisamment sur les solutions disponibles avant d’adopter une stratégie municipale. |
+| Opérations |
+| :--- |
+| **Risques** |
+| :warning: Avant d’adopter une solution, il faut envisager son efficacité en ce qui a trait à la réduction du nombre de collisions entre les véhicules et les animaux. |
+| **Gestion des risques** |
+| :heavy\_check\_mark: Testez les appareils avant de les adopter ou de les déployer. Renseignez-vous suffisamment sur les solutions disponibles avant d’adopter une stratégie municipale. |
+

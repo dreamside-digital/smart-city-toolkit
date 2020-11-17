@@ -2,21 +2,21 @@
 layout: default
 title: Affordable Housing
 permalink: /housing/affordable-housing
-
 ---
-# Services : Favoriser les projets de logement abordable
+
+# Affordable Housing
 
 Le coût du logement augmentant partout au Canada, on compte sur les municipalités pour offrir des solutions de logement abordable. On entend par logement abordable un vaste éventail de logements publics subventionnés, de locations privées, de coopératives et de logements à but non lucratif. Le contrôle de l’emplacement et de la conception du parc résidentiel abordable font partie des responsabilités des municipalités en matière de planification et de zonage.
 
 Pour surmonter les défis associés au logement abordable, il fait intégrer des incitatifs économiques au développement. Les sites idéaux pour construire des unités de logement abordable se trouvent habituellement en zone urbaine centrale, où la valeur des terrains est plus élevée. Lorsqu’il est possible de construire de tels logements en zone urbaine, ils sont souvent situés à côté d’autoroutes ou de secteurs industriels, loin des écoles, des centres communautaires, des parcs, des services de transport en commun et des lieux de travail.
 
-## Applications et solutions : Optimisation du mieux-être dans le logement abordable
+## Applications et solutions : Optimisation du mieux-être dans le logement abordable
 
 Les frais d’entretien, d’exploitation et de surveillance associés aux programmes communautaires demeurent un défi pour les municipalités. L’automatisation des calendriers d’entretien à l’aide d’un logiciel, afin de coordonner les résidents et les bénévoles, peut contribuer à assurer l’exploitation à long terme et diminuer le recours à du personnel à temps plein pour gérer les programmes.
 
-Parmi les incitatifs au développement, notons la subvention d’unités de logement abordable offrant des espaces commerciaux et communautaires au rez-de-chaussée et l’exigence d’inclure un pourcentage d’unités de logement abordable dans les constructions haut de gamme. Dans ces bâtiments à usages multiples, il est possible de récupérer les coûts de gestion et d’exploitation : on subventionne les frais accessoires tout en offrant aux locataires à faible revenu les avantages en matière de bien-être des communautés mieux nanties.
+Parmi les incitatifs au développement, notons la subvention d’unités de logement abordable offrant des espaces commerciaux et communautaires au rez-de-chaussée et l’exigence d’inclure un pourcentage d’unités de logement abordable dans les constructions haut de gamme. Dans ces bâtiments à usages multiples, il est possible de récupérer les coûts de gestion et d’exploitation : on subventionne les frais accessoires tout en offrant aux locataires à faible revenu les avantages en matière de bien-être des communautés mieux nanties.
 
-Considérations : coûts en capital, diminution des coûts d’exploitation et amélioration des résultats
+Considérations : coûts en capital, diminution des coûts d’exploitation et amélioration des résultats
 
 ## Technologies
 
@@ -38,33 +38,34 @@ Considérations : coûts en capital, diminution des coûts d’exploitation et 
 
 ## Gestion des risques susceptibles d’engager la responsabilité
 
-| Vie privée|
-|---|
-| **Risques**|
-|:warning: Les initiatives communautaires réussies reposent sur des relations interpersonnelles fondées sur la confiance. L’introduction de technologies d’extraction de données peut nuire aux objectifs du projet et à la participation. La technologie doit être utilisée pour déterminer les investissements fondés sur des faits et mesurer les résultats, et non pour envahir l’espace privé et public ou pour encourager la monétisation des données sur les utilisateurs.|
-|**Gestion des risques**|
-|:heavy_check_mark: Collectez les données de manière impersonnelle. Consignez les rétroactions et commentaires de sorte qu’ils ne puissent être associés aux personnes.|
-|:heavy_check_mark: Choisissez la technologie appropriée. Des solutions de faible technicité peuvent parfois être préférables aux solutions très techniques. Tenez compte des avantages non techniques d’une activité et évaluez si la technologie améliore les résultats et protège la vie privée, ou si elle nuit à l’établissement de la confiance et au développement de la communauté.|
-|:heavy_check_mark: Floutage des données. Utilisez des techniques de floutage des données pour préserver la vie privée. Par exemple, n’incluez pas les points de départ et d’arrivée dans les données sur les itinéraires, de sorte que les itinéraires particuliers ne permettent pas de remonter à quelqu’un. De même, flouter les données de secteurs sensibles contribue à la sécurité des informations personnelles.|
-|:heavy_check_mark: Anonymisez à la source. Bon nombre de technologies de caméra permettent de flouter les visages à la source.|
-|:heavy_check_mark: Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible.|
-|:heavy_check_mark: Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données comme les numéros de vélo ou les cartes de densité de circulation, plutôt que les trajets des cyclistes individuels, éviteront les atteintes graves à la vie privée.|
-|:heavy_check_mark: Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données de sociétés privées, vérifiez que celles-ci respectent leurs propres obligations en matière de respect de la vie privée en vertu des lois applicables.|
-|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
+| Vie privée |
+| :--- |
+| **Risques** |
+| :warning: Les initiatives communautaires réussies reposent sur des relations interpersonnelles fondées sur la confiance. L’introduction de technologies d’extraction de données peut nuire aux objectifs du projet et à la participation. La technologie doit être utilisée pour déterminer les investissements fondés sur des faits et mesurer les résultats, et non pour envahir l’espace privé et public ou pour encourager la monétisation des données sur les utilisateurs. |
+| **Gestion des risques** |
+| :heavy\_check\_mark: Collectez les données de manière impersonnelle. Consignez les rétroactions et commentaires de sorte qu’ils ne puissent être associés aux personnes. |
+| :heavy\_check\_mark: Choisissez la technologie appropriée. Des solutions de faible technicité peuvent parfois être préférables aux solutions très techniques. Tenez compte des avantages non techniques d’une activité et évaluez si la technologie améliore les résultats et protège la vie privée, ou si elle nuit à l’établissement de la confiance et au développement de la communauté. |
+| :heavy\_check\_mark: Floutage des données. Utilisez des techniques de floutage des données pour préserver la vie privée. Par exemple, n’incluez pas les points de départ et d’arrivée dans les données sur les itinéraires, de sorte que les itinéraires particuliers ne permettent pas de remonter à quelqu’un. De même, flouter les données de secteurs sensibles contribue à la sécurité des informations personnelles. |
+| :heavy\_check\_mark: Anonymisez à la source. Bon nombre de technologies de caméra permettent de flouter les visages à la source. |
+| :heavy\_check\_mark: Anonymisez dès que possible. Si des renseignements personnels doivent absolument être recueillis, anonymisez-les dès que possible. |
+| :heavy\_check\_mark: Limitez la collecte de données au strict minimum. Les stratégies qui misent sur la collecte de données comme les numéros de vélo ou les cartes de densité de circulation, plutôt que les trajets des cyclistes individuels, éviteront les atteintes graves à la vie privée. |
+| :heavy\_check\_mark: Assurez-vous que vos partenaires et entrepreneurs respectent les restrictions en matière de collecte. Si vous achetez des données de sociétés privées, vérifiez que celles-ci respectent leurs propres obligations en matière de respect de la vie privée en vertu des lois applicables. |
+| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de protection de la vie privée](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). |
 
-| Sécurité|
-|---|
-| **Risques**|
-|:warning: Les éléments matériels et logiciels de la technologie posent des risques pour la sécurité. L’emplacement du matériel dans les infrastructures urbaines peut l’exposer au vandalisme, à l’interférence ou au vol. Les problèmes de logiciels requièrent un examen de sécurité pour s’assurer qu’ils sont bien programmés et ne présentent pas de risques d’accès par porte dérobée ou de brèches de sécurité. |
-|**Gestion des risques** |
-|:heavy_check_mark: Dans le contexte des logements abordables, les risques à la sécurité peuvent transformer les objectifs en matière de mieux-être, pour le meilleur ou pour le pire. Ces risques peuvent toutefois être atténués par l’engagement de la communauté et la rétroaction. |
-|:heavy_check_mark: Bon nombre des solutions aux risques pour la vie privée atténueront aussi les risques pour la sécurité, par exemple l’anonymisation à la source, sinon l’anonymisation dès que possible. Si des renseignements personnels sont recueillis, ils doivent être conservés dans un endroit sûr.|
-|:heavy_check_mark: Seules les personnes qui ont besoin de consulter l’information doivent y avoir accès. |
-|:heavy_check_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html).|
+| Sécurité |
+| :--- |
+| **Risques** |
+| :warning: Les éléments matériels et logiciels de la technologie posent des risques pour la sécurité. L’emplacement du matériel dans les infrastructures urbaines peut l’exposer au vandalisme, à l’interférence ou au vol. Les problèmes de logiciels requièrent un examen de sécurité pour s’assurer qu’ils sont bien programmés et ne présentent pas de risques d’accès par porte dérobée ou de brèches de sécurité. |
+| **Gestion des risques** |
+| :heavy\_check\_mark: Dans le contexte des logements abordables, les risques à la sécurité peuvent transformer les objectifs en matière de mieux-être, pour le meilleur ou pour le pire. Ces risques peuvent toutefois être atténués par l’engagement de la communauté et la rétroaction. |
+| :heavy\_check\_mark: Bon nombre des solutions aux risques pour la vie privée atténueront aussi les risques pour la sécurité, par exemple l’anonymisation à la source, sinon l’anonymisation dès que possible. Si des renseignements personnels sont recueillis, ils doivent être conservés dans un endroit sûr. |
+| :heavy\_check\_mark: Seules les personnes qui ont besoin de consulter l’information doivent y avoir accès. |
+| :heavy\_check\_mark: Suivez les [pratiques exemplaires en matière de sécurité](https://cippic-ca.github.io/SmartCityToolkit/security.html). |
 
-| Opérations|
-|---|
-| **Risques**|
-|:warning: Les coûts du personnel nécessaires pour la prestation de programmes communautaires, des projets et développements sont souvent élevés. La constitution d’une capacité bénévole et d’organismes caritatifs communautaires est souvent essentielle à la réussite à long terme, puisqu’il est plutôt rare que les partenaires du secteur privé gèrent les services après la construction. Cependant, si les rôles sont mal attribués, on peut exposer les partenaires publics et privés à des risques susceptibles d’engager la responsabilité. |
-|**Gestion des risques** |
-|:heavy_check_mark: La formation hâtive de partenariats avec des intervenants clés au moyen d’ententes contractuelles permet de distribuer les risques avant qu’ils surviennent. Pour faciliter le processus, l’entente doit exposer les devoirs et clauses d’extinction lorsque les responsabilités prennent fin. La bonne compréhension du cycle de vie des projets et de l’évaluation hâtive des risques permet d’éviter que les municipalités n’héritent de programmes, de plans et de projets échoués. |
+| Opérations |
+| :--- |
+| **Risques** |
+| :warning: Les coûts du personnel nécessaires pour la prestation de programmes communautaires, des projets et développements sont souvent élevés. La constitution d’une capacité bénévole et d’organismes caritatifs communautaires est souvent essentielle à la réussite à long terme, puisqu’il est plutôt rare que les partenaires du secteur privé gèrent les services après la construction. Cependant, si les rôles sont mal attribués, on peut exposer les partenaires publics et privés à des risques susceptibles d’engager la responsabilité. |
+| **Gestion des risques** |
+| :heavy\_check\_mark: La formation hâtive de partenariats avec des intervenants clés au moyen d’ententes contractuelles permet de distribuer les risques avant qu’ils surviennent. Pour faciliter le processus, l’entente doit exposer les devoirs et clauses d’extinction lorsque les responsabilités prennent fin. La bonne compréhension du cycle de vie des projets et de l’évaluation hâtive des risques permet d’éviter que les municipalités n’héritent de programmes, de plans et de projets échoués. |
+

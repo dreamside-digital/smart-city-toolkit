@@ -11,19 +11,19 @@
 * [Privacy](meta-issues/privacy.md)
 * [Security](meta-issues/security.md)
 * [Inclusion](meta-issues/inclusion.md)
-* [Intellectual Property](meta-issues/untitled-1.md)
-* [Procurement](meta-issues/untitled-2.md)
+* [Intellectual Property](meta-issues/intellectual-property.md)
+* [Procurement](meta-issues/procurement.md)
 
-## Civic Engagement
+## Participation Civique <a id="civic-engagement"></a>
 
-* [Introduction to Civic Engagement](civic-engagement/introduction-to-civic-engagement.md)
-* [Public Outreach](civic-engagement/public-outreach/README.md)
-  * [Educating Neighbourhoods on Safe Street Practices](civic-engagement/public-outreach/educating-neighbourhoods-on-safe-street-practices.md)
-  * [Outreach to the Disability Community](civic-engagement/public-outreach/outreach-to-the-disability-community.md)
-* [Civic Empowerment](civic-engagement/civic-empowerment/README.md)
-  * [Improving Access to Townhall Meetings](civic-engagement/civic-empowerment/improving-access-to-townhall-meetings.md)
-  * [Encouraging Residents to Vote](civic-engagement/civic-empowerment/encouraging-residents-to-vote.md)
-  * [Hackathons](civic-engagement/civic-empowerment/hackathons.md)
+* [Introduction à la participation civique](civic-engagement/introduction-to-civic-engagement.md)
+* [Relations avec le public](civic-engagement/public-outreach/README.md)
+  * [La sensibilisation de la population locale à la sécurité dans les rues](civic-engagement/public-outreach/educating-neighbourhoods-on-safe-street-practices.md)
+  * [Les relations avec les personnes handicapées](civic-engagement/public-outreach/outreach-to-the-disability-community.md)
+* [Autonomisation civique](civic-engagement/civic-empowerment/README.md)
+  * [Améliorer l’accès aux assemblées publiques](civic-engagement/civic-empowerment/improving-access-to-townhall-meetings.md)
+  * [Encourager les résidents à voter](civic-engagement/civic-empowerment/encouraging-residents-to-vote.md)
+  * [Marathons de programmation](civic-engagement/civic-empowerment/hackathons.md)
 
 ## Economic Development and Culture
 
