@@ -8,7 +8,7 @@ La présente trousse décrit plusieurs des applications existantes et des outils
 
 Nous avons indiqué sous le paysage urbain cinq métapréoccupations : vie privée, sécurité, approvisionnement, propriété intellectuelle et inclusion. Ces métapréoccupations sont soulevées régulièrement lorsque les municipalités soupèsent, choisissent et instaurent des approches intelligentes pour la prestation de leurs services. En cliquant sur chaque métapréoccupation, vous en apprendrez davantage sur la manière d’y répondre, ainsi que sur les ressources et les outils nécessaires pour le faire de façon proactive.
 
-## About this Toolkit
+## À propos de la trousse 
 
-This toolkit was made available to you through an investment from [Infrastructure Canada](https://www.infrastructure.gc.ca/cities-villes/index-eng.html), and the hard work of the law students of CIPPIC, the [Samuelson-Glushko Canadian Internet Policy and Public Interest Clinic](https://cippic.ca/) of the [Common Law Section of the Faculty of Law, University of Ottawa](https://commonlaw.uottawa.ca/en).
+La trousse Ville intelligente vous a été mise à votre disposition grâce à un investissement d'[Infrastructure Canada](https://www.infrastructure.gc.ca/cities-villes/index-eng.html) et au travail acharné des étudiants en droit du [CIPPIC, la Clinique d'intérêt public et de politique Internet canadienne Samuelson-Glushko](https://cippic.ca/) de la [Section de common law de la Faculté de droit, Université d'Ottawa](https://commonlaw.uottawa.ca/en).
 
