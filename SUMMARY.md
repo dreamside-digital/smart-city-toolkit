@@ -5,6 +5,7 @@
 * [Resources](resources.md)
 * [Glossary](glossary.md)
 * [Contact](contact.md)
+* [Privacy Policy](privacy-policy.md)
 
 ## Meta-issues
 
