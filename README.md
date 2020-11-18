@@ -6,6 +6,8 @@ sitemap: false
 
 # Home
 
+![](.gitbook/assets/smart-city-title_eng.png)
+
 ## Exploring the Smart City
 
 Smart City tools and applications are all around us. This toolkit describes many different smart city applications and tools already in use in cities today. Explore the cityscape below to see the different areas of municipal activity and service that employ smart city approaches. Click on the map to explore specific applications and technologies. Smart city solutions should not be blindly adapted, but instead implemented in ways that assess and account for risks and unforeseen effects. Each solution described discusses common risks and their management.
