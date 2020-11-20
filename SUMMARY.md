@@ -26,11 +26,11 @@
   * [Encouraging Residents to Vote](civic-engagement/civic-empowerment/encouraging-residents-to-vote.md)
   * [Hackathons](civic-engagement/civic-empowerment/hackathons.md)
 
-## Economic Development and Culture
+## Economic Development and Culture <a id="economic-development"></a>
 
-* [Introduction to Economic Development and Culture](economic-development-and-culture/introduction-to-economic-development-and-culture.md)
-* [Tourism Promotion](economic-development-and-culture/tourism-promotion.md)
-* [Economic Support](economic-development-and-culture/economic-support.md)
+* [Introduction to Economic Development and Culture](economic-development/introduction-to-economic-development-and-culture.md)
+* [Tourism Promotion](economic-development/tourism-promotion.md)
+* [Economic Support](economic-development/economic-support.md)
 
 ## Emergency Management
 
@@ -66,11 +66,11 @@
 * [Introduction to Municipal Administration](municipal-administration/introduction-to-municipal-administration.md)
 * [Data Governance](municipal-administration/data-governance.md)
 
-## Parks and Recreation
+## Parks and Recreation <a id="parks-recreation"></a>
 
-* [Introduction to Parks and Recreation](parks-and-recreation/introduction-to-parks-and-recreation.md)
-* [Grounds and Facilities Maintenance](parks-and-recreation/grounds-and-facilities-maintenance.md)
-* [Promoting Facilities Use](parks-and-recreation/promoting-facilities-use.md)
+* [Introduction to Parks and Recreation](parks-recreation/introduction-to-parks-and-recreation.md)
+* [Grounds and Facilities Maintenance](parks-recreation/grounds-and-facilities-maintenance.md)
+* [Promoting Facilities Use](parks-recreation/promoting-facilities-use.md)
 
 ## Public Health
 
