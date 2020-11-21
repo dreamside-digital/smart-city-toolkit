@@ -4,17 +4,17 @@ title: Smart Cities
 sitemap: false
 ---
 
-# Home
+# About
 
 ![](.gitbook/assets/smart-city-title_eng.png)
 
-## Exploring the Smart City
+The Smart City Toolkit is intended to offer a practical description of a range of smart city applications and technologies that can be used to address the needs and services of municipalities across a broad range of municipal services. The Smart City Toolkit is intended to identify not only how data and technology can be applied to existing and new types of municipal services, but also how these approaches raise important issues that should be addressed through planning and informed implementation.
 
-Smart City tools and applications are all around us. This toolkit describes many different smart city applications and tools already in use in cities today. Explore the cityscape below to see the different areas of municipal activity and service that employ smart city approaches. Click on the map to explore specific applications and technologies. Smart city solutions should not be blindly adapted, but instead implemented in ways that assess and account for risks and unforeseen effects. Each solution described discusses common risks and their management.
+The Smart City Toolkit was created by CIPPIC, the [Samuelson-Glushko Canadian Internet Policy and Public Interest Clinic](https://cippic.ca/). CIPPIC is Canada’s only public interest technology law clinic, and is based at the University of Ottawa’s Faculty of Law, Common Law Section. CIPPIC General Counsel David Fewer led CIPPIC’s work on the project, supported by summer interns Jey Kumarasamy, Abby Lenner, Robin McLachlen, Nnubia Ogbuefi, Rachel Poon, Sundeep Virdi and Rohoma Zakir.
 
-Beneath the cityscape we've identified five "meta-issues": privacy, security, inclusion, intellectual property, and procurement. These meta-issues recur time and time again as municipalities consider, select, and implement smart city approaches to providing municipal services. Clicking on each meta-issue leads to a discussion of approaches to and resources and tools for addressing these meta-issues in pro-active ways.
+![CIPPIC logo](.gitbook/assets/cippic-logo%20%281%29.jpg)
 
-## About this Toolkit
+The Smart City Toolkit was made possible through an investment from Infrastructure Canada.
 
-This toolkit was made available to you through an investment from [Infrastructure Canada](https://www.infrastructure.gc.ca/cities-villes/index-eng.html), and the hard work of the law students of CIPPIC, the [Samuelson-Glushko Canadian Internet Policy and Public Interest Clinic](https://cippic.ca/) of the [Common Law Section of the Faculty of Law, University of Ottawa](https://commonlaw.uottawa.ca/en).
+![Infrastructure Logo](https://cippic-ca.github.io/SmartCityToolkit/assets/images/INFC-Col_transparent.png) ![Canada Logo](https://cippic-ca.github.io/SmartCityToolkit/assets/images/Canada_01.png)
 

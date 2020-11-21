@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
-* [About](about.md)
+* [About](README.md)
 * [Resources](resources.md)
 * [Glossary](glossary.md)
 * [Contact](contact.md)
