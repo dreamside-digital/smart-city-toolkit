@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Accueil](README.md)
-* [À propos](a-propos.md)
+* [À propos](README.md)
 * [Ressources](ressources.md)
 * [Glossaire](glossaire.md)
 * [Nous joindre](nous-joindre.md)
