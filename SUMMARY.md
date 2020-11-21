@@ -15,16 +15,16 @@
 * [Propriété intellectuelle](metapreoccupations/propriete-intellectuelle.md)
 * [Approvisionnement](metapreoccupations/approvisionnement.md)
 
-## Participation Civique <a id="civic-engagement"></a>
+## Participation Civique <a id="engagement-civique"></a>
 
-* [Introduction à la participation civique](civic-engagement/introduction-engagement-civique.md)
-* [Relations avec le public](civic-engagement/relations-avec-le-public/README.md)
-  * [La sensibilisation de la population locale à la sécurité dans les rues](civic-engagement/relations-avec-le-public/sensibilisation-de-la-population-locale-a-la-securite-dans-les-rues.md)
-  * [Les relations avec les personnes handicapées](civic-engagement/relations-avec-le-public/relations-avec-les-personnes-handicapees.md)
-* [Autonomisation civique](civic-engagement/autonomisation-civique/README.md)
-  * [Améliorer l’accès aux assemblées publiques](civic-engagement/autonomisation-civique/ameliorer-l-acces-aux-assemblees-publiques.md)
-  * [Encourager les résidents à voter](civic-engagement/autonomisation-civique/encourager-les-residents-a-voter.md)
-  * [Marathons de programmation](civic-engagement/autonomisation-civique/marathons-de-programmation.md)
+* [Introduction à la participation civique](engagement-civique/introduction-engagement-civique.md)
+* [Relations avec le public](engagement-civique/relations-avec-le-public/README.md)
+  * [La sensibilisation de la population locale à la sécurité dans les rues](engagement-civique/relations-avec-le-public/sensibilisation-de-la-population-locale-a-la-securite-dans-les-rues.md)
+  * [Les relations avec les personnes handicapées](engagement-civique/relations-avec-le-public/relations-avec-les-personnes-handicapees.md)
+* [Autonomisation civique](engagement-civique/autonomisation-civique/README.md)
+  * [Améliorer l’accès aux assemblées publiques](engagement-civique/autonomisation-civique/ameliorer-l-acces-aux-assemblees-publiques.md)
+  * [Encourager les résidents à voter](engagement-civique/autonomisation-civique/encourager-les-residents-a-voter.md)
+  * [Marathons de programmation](engagement-civique/autonomisation-civique/marathons-de-programmation.md)
 
 ## Développement économique et initiatives culturelles <a id="developpement-economique-culture"></a>
 
