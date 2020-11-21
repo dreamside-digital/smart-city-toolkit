@@ -47,12 +47,12 @@
 * [Shelter Management](housing/shelter-management.md)
 * [Energy Efficient Homes](housing/energy-efficient-homes.md)
 
-## Information Technology Services
+## Information Technology Services <a id="information-technology"></a>
 
-* [Introduction to Information Technology Services](information-technology-services/introduction-to-information-technology-services.md)
-* [Internet Accessibility](information-technology-services/internet-accessibility.md)
-* [Creating an Informed Public](information-technology-services/creating-an-informed-public.md)
-* [Library Services](information-technology-services/library-services.md)
+* [Introduction to Information Technology Services](information-technology/introduction-to-information-technology-services.md)
+* [Internet Accessibility](information-technology/internet-accessibility.md)
+* [Creating an Informed Public](information-technology/creating-an-informed-public.md)
+* [Library Services](information-technology/library-services.md)
 
 ## Infrastructure
 
