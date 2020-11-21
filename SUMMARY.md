@@ -4,8 +4,8 @@
 * [À propos](a-propos.md)
 * [Ressources](ressources.md)
 * [Glossaire](glossaire.md)
-* [Contact](nous-joindre.md)
-* [Privacy Policy](confidentialite.md)
+* [Nous joindre](nous-joindre.md)
+* [Privacy policy](confidentialite.md)
 
 ## Métapréoccupations
 
