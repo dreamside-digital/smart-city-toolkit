@@ -1,4 +1,4 @@
-# Privacy policy
+# Confidentialité
 
 Neither CIPPIC nor Infrastructure Canada collect any information about users of the Smart City Toolkit.
 

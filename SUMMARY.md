@@ -5,7 +5,7 @@
 * [Ressources](ressources.md)
 * [Glossaire](glossaire.md)
 * [Nous joindre](nous-joindre.md)
-* [Privacy policy](confidentialite.md)
+* [Confidentialité](confidentialite.md)
 
 ## Métapréoccupations
 
