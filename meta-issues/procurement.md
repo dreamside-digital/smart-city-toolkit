@@ -48,11 +48,11 @@ European Commission, [Guidance on Innovation Procurement](https://ec.europa.eu/d
 
 OpenNorth, [The State of Open Smart Communities 2019](https://drive.google.com/file/d/1sWySv6IDQE-Fyqm-FuU73NcIYqVJ8khi/view) - _Short section on procurement \(See p30-33\) The report evaluates the use of open procurement in smart cities. IT procurement is related to data governance and poses privacy and security risk to partners, stakeholders and the government. As a result, the report recommends data ownership, third party resale, re-use parameters, and privacy protection. Having provisions addressing privacy risks will increase trust and allow for transparent procurement processes._
 
-OpenNorth,[Open Smart Cities Guide v1.0](https://docs.google.com/document/d/1528rqTjzKWwk4s2xKuPf7ZJg-tLlRK8WcMZQbicoGTM/edit) - _This Open Smart City Guide is intended to assist stakeholders participating in smart city projects. It includes guidance and examples of open procurement practices._
+OpenNorth, [Open Smart Cities Guide v1.0](https://docs.google.com/document/d/13Oz7fdN1fcX29FikKoMn28DUkH738_296bqZmnYKYAs/edit?usp=sharing) - _This Open Smart City Guide is intended to assist stakeholders participating in smart city projects. It includes guidance and examples of open procurement practices._
 
 [Canada’s 2018-2020 National Action Plan on Open Government](https://open.canada.ca/en/content/canadas-2018-2020-national-action-plan-open-government#toc5) \(see 2. Financial Transparency and Accountability\) - _The government of Canada made a commitment to financial transparency which resulted in more transparency in government procurement and spending processes. This means that citizens now have access to open data on the government’s procurement spending and contracts._
 
-Sara Wilson, ["Building Canada’s Low-Carbon Approach to Infrastructure Investments through Prioritization, Policy and Procurement Future Cities Canada"](https://futurecitiescanada.ca/downloads/2018/FCC_ProcurementReport_201809.pdf), Evergreen 2017 - _This resource concentrates on sustainable, green infrastructure initiatives. However, the innovative approach to procurement is a good model for smart cities as well. The report recommends using procurement as a proactive tool for sustainability. Encouraging bidders to innovate, submit bids that are low-carbon and working on creating a more flexible procurement process. The report also cites “Going Green: Best Practices for Sustainable Procurement”. It outlines how national policy frameworks can change to promote better public procurement._
+Sara Wilson, ["Building Canada’s Low-Carbon Approach to Infrastructure Investments through Prioritization, Policy and Procurement Future Cities Canada"](https://futurecitiescanada.ca/downloads/2018/FCC_ProcurementReport_201809.pdf), Evergreen 2017 - _This resource concentrates on sustainable, green infrastructure initiatives. However, the innovative approach to procurement is a good model for smart cities as well. The report recommends using procurement as a proactive tool for sustainability, encouraging bidders to innovate, submit bids that are low-carbon, and work on creating a more flexible procurement process. The report also cites “Going Green: Best Practices for Sustainable Procurement”. It outlines how national policy frameworks can change to promote better public procurement._
 
 ### Foreign Sources
 
@@ -60,13 +60,13 @@ Smart Cities Stakeholder Platform – Finance Working Group, [Public Procurement
 
 ### Other Useful Sources
 
-Sean Kolenko, [“Procurement Process 101: The Stages in the Procurement Process”](https://blog.procurify.com/2014/09/16/stages-procurement-process/)
+Sean Kolenko, [“Procurement Process 101: The Stages in the Procurement Process”](https://blog.procurify.com/2014/09/16/stages-procurement-process/).
 
-Matt Lim, [“What is the Difference Between Procurement and Purchasing?”](https://blog.procurify.com/2014/02/07/what-is-the-difference-between-procurement-and-purchasing/)
+Matt Lim, [“What is the Difference Between Procurement and Purchasing?”](https://blog.procurify.com/2014/02/07/what-is-the-difference-between-procurement-and-purchasing/).
 
-Jeremy Devray-Benichou, [“Smart procurement for smart cities”](https://meetingoftheminds.org/smart-procurement-for-smart-cities-29894)
+Jeremy Devray-Benichou, [“Smart procurement for smart cities”](https://meetingoftheminds.org/smart-procurement-for-smart-cities-29894).
 
-Laffont, Jean-Jacques; Tirole, Jean \(1993\). A Theory of Incentives in Procurement and Regulation. MIT Press. p. 1. ISBN 9780262121743
+Laffont, Jean-Jacques; Tirole, Jean \(1993\). A Theory of Incentives in Procurement and Regulation. MIT Press. p. 1. ISBN 9780262121743.
 
 [BC Developers’ Exchange](https://www.bcdevexchange.org/) - _The BCDevExchange is a platform for delivering digital public services through partnerships with public and private sectors to deliver solutions to public challenges. They have the capacity to act as a matching platform between governments and tech suppliers. By providing a space for developers to innovate, the aim is to encourage and grow the private technology sector through public sector resources to develop products that meet public needs. The BCDevExchange offers the DevOps Platform and Exchange Lab which will host government projects that have been procured._
 
