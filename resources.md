@@ -25,8 +25,8 @@ Privacy International, [Smart Cities Resources](https://privacyinternational.org
 Public Safety Canada - Public Safety has release a number of guides on infrastructure security:
 
 * [Fundamentals of Cyber Security for Canada’s Critical Infrastructure Community](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2016-fndmntls-cybr-scrty-cmmnty/index-en.aspx)
-* [Mitigation Guidelines for Denial of Service Attacks](https://www.publicsafety.gc.ca/cnt/rsrcs/cybr-ctr/2012/tr12-001-en.aspx)
-* [Industrial Control System \(ICS\) Cyber Security: Recommended Best Practices](https://www.publicsafety.gc.ca/cnt/rsrcs/cybr-ctr/2012/tr12-002-en.aspx)
+* [Mitigation Guidelines for Denial of Service Attacks](https://www.publicsafety.gc.ca/cnt/rsrcs/cybr-ctr/2012/tr12-001-en.aspx) \[Note - currently offline\]
+* [Industrial Control System \(ICS\) Cyber Security: Recommended Best Practices](https://www.publicsafety.gc.ca/cnt/rsrcs/cybr-ctr/2012/tr12-002-en.aspx) \[Note - currently offline\].
 
 The Internet of Things Coalition Canada, [Privacy and Security in the Internet of Things Era: IoTCC Best Practices Guidance](https://insightaas.com/new-research-privacy-and-security-in-the-internet-of-things-era-iotcc-best-practices-guidance/) - _The Internet of Things Coalition Canada report outlining privacy and security risks in IoT environments and providing best practice guidance for prevention and remediation._
 
@@ -56,11 +56,13 @@ Aimi Hamraie, [“A Smart City Is an Accessible City”](https://www.theatlantic
 
 ### Inclusion - Algorithmic Bias
 
-[The Toronto Declaration, Protecting the right to equality and non-discrimination in machine learning systems](https://cyber.harvard.edu/sites/default/files/2018-09/2018-09_AIHumanRightsSmall.pdf), \(2018\)
+The Toronto Declaration, [Protecting the right to equality and non-discrimination in machine learning systems](https://www.accessnow.org/the-toronto-declaration-protecting-the-rights-to-equality-and-non-discrimination-in-machine-learning-systems/), \(2018\).
 
-Treasury Board, Canada, [“Directive on Automated Decision-Making”](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592), \(2019\)
+Treasury Board, Canada, [“Directive on Automated Decision-Making”](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592), \(2019\).
 
-Government of Canada, [Beta-version, Algorithmic Impact Assessment](https://open.canada.ca/aia-eia-js/?lang=en) The Berkman Klein Center for Internet & Society at Harvard University, ["Artificial Intelligence & Human Rights: Opportunities & Risks"](https://cyber.harvard.edu/sites/default/files/2018-09/2018-09_AIHumanRightsSmall.pdf), \(2018\)
+Government of Canada, [Beta-version, Algorithmic Impact Assessment](https://open.canada.ca/aia-eia-js/?lang=en). 
+
+The Berkman Klein Center for Internet & Society at Harvard University, ["Artificial Intelligence & Human Rights: Opportunities & Risks"](https://cyber.harvard.edu/sites/default/files/2018-09/2018-09_AIHumanRightsSmall.pdf), \(2018\).
 
 James Manyika , Jake Silberg and Brittany Presten, [“What Do We Do About the Biases in AI?”](https://hbr.org/2019/10/what-do-we-do-about-the-biases-in-ai), Harvard Business Review \(2019\)
 
