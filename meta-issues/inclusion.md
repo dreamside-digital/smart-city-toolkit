@@ -111,17 +111,21 @@ Global Commission on Internet Governance, [“One Internet”](https://www.cigio
 
 ### Resources - Algorithmic Bias
 
-[The Toronto Declaration, Protecting the right to equality and non-discrimination in machine learning systems](https://cyber.harvard.edu/sites/default/files/2018-09/2018-09_AIHumanRightsSmall.pdf), \(2018\)
+[The Toronto Declaration, Protecting the right to equality and non-discrimination in machine learning systems](https://www.accessnow.org/the-toronto-declaration-protecting-the-rights-to-equality-and-non-discrimination-in-machine-learning-systems/), \(2018\).
 
-Treasury Board, Canada, [“Directive on Automated Decision-Making”](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592), \(2019\)
+Treasury Board, Canada, [“Directive on Automated Decision-Making”](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592), \(2019\).
 
-Government of Canada, [Beta-version, Algorithmic Impact Assessment](https://open.canada.ca/aia-eia-js/?lang=en) The Berkman Klein Center for Internet & Society at Harvard University, ["Artificial Intelligence & Human Rights: Opportunities & Risks"](https://cyber.harvard.edu/sites/default/files/2018-09/2018-09_AIHumanRightsSmall.pdf), \(2018\)
+Government of Canada, [Beta-version, Algorithmic Impact Assessment](https://open.canada.ca/aia-eia-js/?lang=en). 
 
-James Manyika , Jake Silberg and Brittany Presten, [“What Do We Do About the Biases in AI?”](https://hbr.org/2019/10/what-do-we-do-about-the-biases-in-ai), Harvard Business Review \(2019\)
+The Berkman Klein Center for Internet & Society at Harvard University, ["Artificial Intelligence & Human Rights: Opportunities & Risks"](https://cyber.harvard.edu/sites/default/files/2018-09/2018-09_AIHumanRightsSmall.pdf), \(2018\).
 
-Will Knight, [“AI Is Biased. Here's How Scientists Are Trying to Fix It”](https://www.wired.com/story/ai-biased-how-scientists-trying-fix/), Wired \(2019\) Haro Ken, [“This is how AI bias really happens—and why it’s so hard to fix”](https://www.technologyreview.com/2019/02/04/137602/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix/), MIT Technology Review \(2019\)
+James Manyika , Jake Silberg and Brittany Presten, [“What Do We Do About the Biases in AI?”](https://hbr.org/2019/10/what-do-we-do-about-the-biases-in-ai), Harvard Business Review \(2019\).
 
-Andreas Tsamados, Nikita Aggarwal, Josh Cowls, Jessica Morley, Huw Roberts, Taddeo Mariarosaria and Luciano Floridi, [The Ethics of Algorithms: Key Problems and Solutions](http://dx.doi.org/10.2139/ssrn.3662302), \(July 28, 2020\)
+Will Knight, [“AI Is Biased. Here's How Scientists Are Trying to Fix It”](https://www.wired.com/story/ai-biased-how-scientists-trying-fix/), Wired \(2019\). 
+
+Haro Ken, [“This is how AI bias really happens—and why it’s so hard to fix”](https://www.technologyreview.com/2019/02/04/137602/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix/), MIT Technology Review \(2019\).
+
+Andreas Tsamados, Nikita Aggarwal, Josh Cowls, Jessica Morley, Huw Roberts, Taddeo Mariarosaria and Luciano Floridi, [The Ethics of Algorithms: Key Problems and Solutions](http://dx.doi.org/10.2139/ssrn.3662302), \(July 28, 2020\).
 
 ### Resources - Digital Divide
 
@@ -129,13 +133,15 @@ George Sciadas, [“The Digital Divide in Canada”](http://publications.gc.ca/C
 
 Allison Bramwell, Ken Coates, and Neil Bradford, [“Expanding digital opportunity in Canada?”](https://munkschool.utoronto.ca/ipl/files/2019/04/Bramwell_Coates_Bradford-Summary-Theme-IV-18AP2019.pdf)
 
-Nicole Goodman and Zac Spicer, [“Winning the smart cities challenge with equity, inclusion”](https://policyoptions.irpp.org/magazines/march-2018/winning-smart-cities-challenge-equity-inclusion/)
+Nicole Goodman and Zac Spicer, [“Winning the smart cities challenge with equity, inclusion”](https://policyoptions.irpp.org/magazines/march-2018/winning-smart-cities-challenge-equity-inclusion/).
 
-OECD, [“Bridging the Digital Divide”](https://www.oecd.org/site/schoolingfortomorrowknowledgebase/themes/ict/bridgingthedigitaldivide.htm)
+OECD, [“Bridging the Digital Divide”](https://www.oecd.org/site/schoolingfortomorrowknowledgebase/themes/ict/bridgingthedigitaldivide.htm).
 
-Open Media, [“11 things Canada should do now to close the Digital Divide for good”](https://openmedia.org/article/item/11-things-against-digital-divide), \(2020\)
+Open Media, [“11 things Canada should do now to close the Digital Divide for good”](https://openmedia.org/article/item/11-things-against-digital-divide), \(2020\).
 
-Public Interest Advocacy Centre, [“\#WCRD2017: Building an Affordable Digital World For Everyone”](https://www.piac.ca/our-specialities/wcrd2017-building-an-affordable-digital-world-for-everyone/), \(2017\)
+Public Interest Advocacy Centre, [“\#WCRD2017: Building an Affordable Digital World For Everyone”](https://www.piac.ca/our-specialities/wcrd2017-building-an-affordable-digital-world-for-everyone/), \(2017\).
 
-[“The Digital Divide, ICT, and Broadband Internet”](https://www.internetworldstats.com/links10.htm), Internet World Stats Stanford University, [“The Digital Divide”](https://cs.stanford.edu/people/eroberts/cs181/projects/digital-divide/start.html)
+[“The Digital Divide, ICT, and Broadband Internet”](https://www.internetworldstats.com/links10.htm), Internet World Stats. 
+
+Stanford University, [“The Digital Divide”](https://cs.stanford.edu/people/eroberts/cs181/projects/digital-divide/start.html).
 
