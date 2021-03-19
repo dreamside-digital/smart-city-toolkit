@@ -87,7 +87,15 @@ Aimi Hamraie, [“A Smart City Is an Accessible City”](https://www.theatlantic
 
 Global Commission on Internet Governance, [“One Internet”](https://www.cigionline.org/sites/default/files/gcig_final_report_-_with_cover.pdf).
 
-* Une étude détaillée sur la façon d’assurer qu’Internet demeure ouvert et accessible à tous, traitant aussi de la fracture numérique entre les personnes ayant accès à ce réseau et celles qui ne l’ont pas.
+* Une étude détaillée sur la façon d’assurer qu’Internet demeure ouvert et accessible à tous, traitant aussi de la fracture numérique entre les personnes ayant accès à ce réseau et celles qui ne l’ont pas.NPR, [Automating Inequality](https://www.npr.org/sections/alltechconsidered/2018/02/19/586387119/automating-inequality-algorithms-in-public-services-often-fail-the-most-vulnerab), \(2018\) - Un entretien avec Virginia Eubanks, l’auteure de Automating Inequality qui met en lumière l’utilisation inefficace des systèmes automatisés dans les services publics.
+
+NPR, [Automating Inequality](https://www.npr.org/sections/alltechconsidered/2018/02/19/586387119/automating-inequality-algorithms-in-public-services-often-fail-the-most-vulnerab), \(2018\)  
+
+* Un entretien avec Virginia Eubanks, l’auteure de Automating Inequality qui met en lumière l’utilisation inefficace des systèmes automatisés dans les services publics.
+
+Cititzenlab, [What’s the difference between diversity, equity, and inclusion?](https://www.citizenlab.co/blog/civic-engagement/whats-the-difference-between-diversity-equity-and-inclusion/) \(2021\) 
+
+* Une explication des différences entre les concepts de la diversité, l’équité et l’inclusion.  
 
 ### Ressources - Biais algorithmique
 
