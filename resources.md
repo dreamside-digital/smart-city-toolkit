@@ -31,6 +31,8 @@ CIPPIC and McMaster University, [Smart City Privacy](https://smartcityprivacy.ca
 
 Privacy International, [Smart Cities Resources](https://privacyinternational.org/learning-topics/smart-cities) - _Reports, news analysis and other resources published by Privacy International, a leading privacy advocate._
 
+Linnet Taylor, Liuciano Floridi & Bart van der Sloot \(Eds\), [Group Privacy: New Challenges of Data Technologies](https://www.springer.com/us/book/9783319466064), \(2017\) - Going one step further than existing research, this book considers group privacy rather than the individual.
+
 ## Security
 
 Public Safety Canada - Public Safety has released a number of guides on infrastructure security:
@@ -64,6 +66,10 @@ OpenNorth, [“Open Smart Cities Guide”](https://www.opennorth.ca/publications
 Frontiers, [“The Concept of Sustainability in Smart City Definitions”](https://doi.org/10.3389/fbuil.2020.00077) - _This paper reviews the definitions of smart cities found in literature and suggests that while sustainability-oriented definitions are prevalent, the current implementation of smart cities tend to prioritize technology before the social aspect._
 
 Aimi Hamraie, [“A Smart City Is an Accessible City”](https://www.theatlantic.com/technology/archive/2018/11/city-apps-help-and-hinder-disability/574963/), The Atlantic \(November 6, 2018\) - _An overview of digital-accessibility maps and related technologies that attempt to address inclusivity of persons with disabilities, including examples and potential issues._
+
+NPR, [Automating Inequality](https://www.npr.org/sections/alltechconsidered/2018/02/19/586387119/automating-inequality-algorithms-in-public-services-often-fail-the-most-vulnerab), \(2018\) - An interview with the author of Automating Inequality, Virginia Eubanks, highlighting the \(ineffective\) use of automated systems in public services.
+
+Cititzenlab, [What’s the difference between diversity, equity, and inclusion?](https://www.citizenlab.co/blog/civic-engagement/whats-the-difference-between-diversity-equity-and-inclusion/) \(2021\) - An explanation of how diversity, equity, and inclusion are three related concepts but are far from synonymous.
 
 ### Inclusion - Algorithmic Bias
 
