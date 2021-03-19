@@ -76,3 +76,8 @@ La modélisation énergétique permet de s’assurer qu’un bâtiment respecte 
 | **Gestion des risques** |
 | ✅ L’établissement de paramètres et l’allègement des restrictions sur le partage de fichiers peut profiter à l’utilisateur final et donner de meilleurs résultats. |
 
+## Ressources
+
+  
+Urban Hub, [Smart synergies: improving the connection between smart homes and smart cities](https://www.urban-hub.com/technology/using-smart-homes-to-create-better-smart-cities/), \(2019\) - Un aperçu de l’interaction entre les maisons intelligentes et les villes intelligentes.
+
