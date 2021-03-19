@@ -109,6 +109,14 @@ Global Commission on Internet Governance, [“One Internet”](https://www.cigio
 
 * A comprehensive look at building an open and accessible internet for everyone, including the issue of the “digital divide” between those with and without access to the Internet.
 
+NPR, [Automating Inequality](https://www.npr.org/sections/alltechconsidered/2018/02/19/586387119/automating-inequality-algorithms-in-public-services-often-fail-the-most-vulnerab), \(2018\). 
+
+* An interview with the author of Automating Inequality, Virginia Eubanks, highlighting the \(ineffective\) use of automated systems in public services.
+
+Cititzenlab, [What’s the difference between diversity, equity, and inclusion?](https://www.citizenlab.co/blog/civic-engagement/whats-the-difference-between-diversity-equity-and-inclusion/) \(2021\). 
+
+* An explanation of how diversity, equity, and inclusion are three related concepts but are far from synonymous.
+
 ### Resources - Algorithmic Bias
 
 [The Toronto Declaration, Protecting the right to equality and non-discrimination in machine learning systems](https://www.accessnow.org/the-toronto-declaration-protecting-the-rights-to-equality-and-non-discrimination-in-machine-learning-systems/), \(2018\).
