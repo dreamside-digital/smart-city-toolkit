@@ -94,3 +94,5 @@ PwC, [“The foundation for smart city success: Seven layers of data governance 
 
 Theresa Scassa, Merlynda Vilain, [Governing Smart Data in the Public Interest: Lessons from Ontario’s Smart Metering Entity CIGI Paper No. 221](https://www.cigionline.org/publications/governing-smart-data-public-interest-lessons-ontarios-smart-metering-entity), \(2019\) - This paper focuses on the governance of data captured through “smart” technologies and uses Ontario’s smart metering program as a case study.
 
+GeoConnections, [Geospatial Data Preservation Primer](https://doi.org/10.4095/296299), \(2015\) - An introduction to digital geospatial data archiving and preservation. This primer outlines how to include archiving and preservation in data management processes for the entire data life cycle.
+
