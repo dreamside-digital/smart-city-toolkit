@@ -78,3 +78,5 @@ Meijer, Albert & Martijn Wessels, [“Predictive Policing: Review of Benefits an
 
 Groupe Speciale Mobile, [“GSMA Smart Cities Guide: Crowd Management”](https://www.gsma.com/iot//wp-content/uploads/2016/10/GSMA-Crowd-management-case-study-web.pdf). _Global mobile network operators’ guide to crowd management using smart phones linked to mobile networks._
 
+RAND Corporation, [Predictive Policing: Forecasting Crime for Law Enforcement](https://www.rand.org/pubs/research_briefs/RB9735.html), \(2013\)_._ An overview of how predictive policing—the use of quantitative analytical techniques to prevent crime—can be used in practice.
+
