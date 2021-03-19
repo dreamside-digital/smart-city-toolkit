@@ -6,6 +6,17 @@ permalink: /resources
 
 # Ressources
 
+## Générale
+
+  
+Infrastructure Canada, [Défi des villes intelligentes](https://impact.canada.ca/fr/defis/villes-intelligentes) - Un aperçu du Défi des villes intelligentes par le gouvernement du Canada.  Le Défi des villes intelligentes incite les collectivités au défi d’utiliser des données et les technologies connectées afin de résoudre leurs problèmes les plus pressants.
+
+Union des municipalités du Québec, [Outil d’autodiagnostic de la ville intelligente](https://diagnostic.umq.qc.ca/) - Ressource fournissant des informations sur les villes intelligentes, des exemples de projets de municipalités et un outil d’autodiagnostic permettant aux municipalités d’obtenir des conseils pour évoluer comme ville intelligente.
+
+[Open North](https://opennorth.ca/) - Organisation à but non lucratif spécialisée dans l’utilisation responsable et efficace des données et de la technologie pour résoudre des problèmes complexes.
+
+Future Cities Canada, [Community Solutions Portal](https://portal.futurecitiescanada.ca/) - Plateforme permettant aux communautés de se connecter et de se partager des informations et renseignements sur les villes intelligentes.
+
 ## Vie privée
 
 IAPP, [Privacy By Design](https://iapp.org/resources/article/privacy-by-design-the-7-foundational-principles/) - _Aperçu de l’approche visant à intégrer dès le départ le respect de la vie privée à la technologie._
@@ -19,6 +30,8 @@ Commissaire à l’information et à la protection de la vie privée de l’Onta
 CIPPIC et Université McMaster, [Smart City Privacy](https://smartcityprivacy.ca/) - _Guide sur les questions de protection de la vie privée et les lois applicables aux approches de ville intelligente au Canada. Comprend une étude géographique des outils de ville intelligente utilisés au pays, ainsi qu’un énoncé des meilleures pratiques de protection de la vie privée._
 
 Privacy International, [Smart Cities Resources](https://privacyinternational.org/learning-topics/smart-cities) - _Rapports, analyses de l’actualité et autres ressources publiés par Privacy International, un organisme réputé pour sa promotion du droit à la vie privée._
+
+Linnet Taylor, Liuciano Floridi & Bart van der Sloot \(Eds\), [Group Privacy: New Challenges of Data Technologies](https://www.springer.com/us/book/9783319466064), \(2017\) - Cet ouvrage analyse la protection des renseignements collectifs plutôt que la protection des renseignements personnels individuels.
 
 ## Sécurité
 
@@ -53,6 +66,10 @@ NordOuvert, [Guide des villes intelligentes ouvertes](https://www.nordouvert.ca/
 Frontiers in Built Environment, [The Concept of Sustainability in Smart City Definitions](https://doi.org/10.3389/fbuil.2020.00077) - _Revue des définitions de la ville intelligente dans la littérature. On y affirme que si les définitions axées sur le développement durable sont répandues, l’aspect technologique tend à l’emporter sur l’aspect social dans le contexte d’implantation actuel._
 
 Aimi Hamraie, [A Smart City Is an Accessible City](https://www.theatlantic.com/technology/archive/2018/11/city-apps-help-and-hinder-disability/574963/), The Atlantic \(6 novembre 2018\) - _Aperçu des cartes d’accessibilité numérique et des technologies d’inclusion des personnes ayant un handicap, accompagné d’exemples et de problèmes potentiels._
+
+NPR, [Automating Inequality](https://www.npr.org/sections/alltechconsidered/2018/02/19/586387119/automating-inequality-algorithms-in-public-services-often-fail-the-most-vulnerab), \(2018\) - Un entretien avec Virginia Eubanks, l’auteure de Automating Inequality qui met en lumière l’utilisation inefficace des systèmes automatisés dans les services publics.
+
+Cititzenlab, [What’s the difference between diversity, equity, and inclusion?](https://www.citizenlab.co/blog/civic-engagement/whats-the-difference-between-diversity-equity-and-inclusion/) \(2021\) - Une explication des différences entre les concepts de la diversité, l’équité et l’inclusion.  
 
 ### Biais algorithmique
 
@@ -91,4 +108,6 @@ Commission européenne, [Guidance on Innovation Procurement](https://ec.europa.e
 NordOuvert, [Guide des villes intelligentes ouvertes v1.0](https://docs.google.com/document/d/14BuvTBFylHeK9WrPsmJ5XCJrhRBKTL51mAEIrQVwnM0/edit) - _Guide à l’intention des intervenants qui participent à un projet de ville intelligente. Il fournit des conseils et des exemples sur les pratiques d’approvisionnement ouvert._
 
 Smart Cities Stakeholder Platform – Finance Working Group, [Public Procurement for Smart Cities](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwja6KLS79DpAhXMdN8KHbguCuoQFjABegQIChAD&url=http%3A%2F%2Fwww.sustainable-procurement.org%2Ffileadmin%2Ftemplates%2Fsp_platform%2Flib%2Fsp_platform_resources%2Ftools%2Fpush_resource_file.php%3Fuid%3D42abe812&usg=AOvVaw2N8fO6j8c5uQG9GDEARAs2) - _Guide à l’intention des villes pour la mise en place de cadres d’approvisionnement adaptés aux villes intelligentes. Il définit non seulement les meilleures pratiques en matière d’approvisionnement, mais aussi les obstacles à leur adoption. Enfin, ce document concerne le secteur des biens et services environnementaux à faible émission de carbone, mais traite d’enjeux communs à d’autres procédures des villes intelligentes._
+
+Open North, [Procurement](https://opennorth.ca/publicationdetail?id=2HVKzrLUjUFylSVXGf7li5), \(2020\) - Guide pour les municipalités sur l’approvisionnement lorsqu’elles négocient avec le secteur privé.
 
