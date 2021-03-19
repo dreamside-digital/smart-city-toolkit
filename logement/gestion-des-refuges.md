@@ -72,3 +72,12 @@ Il faut tenir compte du fait que bon nombre de personnes itinérantes sont incap
 | **Gestion des risques** |
 | ✅ L’établissement de paramètres et l’allègement des restrictions sur le partage de fichiers peuvent profiter à l’utilisateur final et donner de meilleurs résultats. |
 
+## Ressources
+
+  
+[Calgary Homeless Foundation](https://www.calgaryhomeless.com/), \(2021\) - Une organisation albertaine à la tête des interventions communautaires pour les personnes en situation d’itinérance.
+
+Emploi et Développement social Canada, [Système d’information sur les personnes familles sans abri](https://www.canada.ca/fr/emploi-developpement-social/programmes/sans-abri/sisa.html), \(2020\) - Une explication du système de gestion de l’information sur les sans-abri développé par Emploi et Développement social Canada.
+
+Canadian Observatory on Homelessness, [Homeless Hub](https://homelesshub.ca/), \(2021\) - Une bibliothèque de ressources axée sur l’itinérance au Canada.
+
