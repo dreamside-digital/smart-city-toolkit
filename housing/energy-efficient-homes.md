@@ -74,3 +74,7 @@ Energy modelling ensures that building design will meet performance requirements
 | **Managing issues.** |
 | ✅ Developing metrics and easing file sharing restrictions can benefit the end user and produce better outcomes. |
 
+## Resources
+
+Urban Hub, [Smart synergies: improving the connection between smart homes and smart cities](https://www.urban-hub.com/technology/using-smart-homes-to-create-better-smart-cities/), \(2019\) - An overview of the interaction between smart homes and smart cities.
+
