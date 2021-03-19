@@ -106,3 +106,5 @@ CBC, Spark [« To Protect Privacy, There Need to be Limits on Smart City Surveil
 
 Stephen Pritchard, [« Securing the Smart City »](https://www.infosecurity-magazine.com/magazine-features/securing-the-smart-city-1/), Infosecurity - _Article sur les risques pour la vie privée et la sécurité dans les villes intelligentes._
 
+Linnet Taylor, Liuciano Floridi & Bart van der Sloot \(Eds\), [Group Privacy: New Challenges of Data Technologies](https://www.springer.com/us/book/9783319466064), \(2017\) - _Cet ouvrage analyse la protection des renseignements collectifs plutôt que la protection des renseignements personnels individuels._
+
