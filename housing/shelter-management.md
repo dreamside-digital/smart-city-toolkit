@@ -81,5 +81,3 @@ Employment and Social Development Canada, [Homeless Individuals and Families Inf
 
 Canadian Observatory on Homelessness, [Homeless Hub](https://homelesshub.ca/), \(2021\) - A resource library focused on homelessness in Canada. 
 
-Urban Hub, [Smart synergies: improving the connection between smart homes and smart cities](https://www.urban-hub.com/technology/using-smart-homes-to-create-better-smart-cities/), \(2019\) - An overview of the interaction between smart homes and smart cities.
-
