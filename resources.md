@@ -6,7 +6,18 @@ permalink: /resources.html
 
 # Resources
 
-## Privacy
+## General
+
+  
+Infrastructure Canada, [Smart Cities Challenge](https://impact.canada.ca/en/challenges/smart-cities) - Infrastructure Canada’s competition, open to Canadian municipalities, local or regional governments, and Indigenous communities, for government support to develop smart cities proposals.
+
+L'Union des Municipalités du Québec, [Smart City Self-Assessment Tool](https://diagnostic.umq.qc.ca/) - An assessment tool for municipalities to use for obtaining advice on developing smart cities.
+
+[Open North](https://opennorth.ca/) - Non-profit organization specializing in the responsible and effective use of data & technology to solve complex problems.
+
+Future Cities Canada, [Community Solutions Portal](https://portal.futurecitiescanada.ca/) – Non-profit providing a platform for communities to connect and share information on smart cities.
+
+## **Privacy**
 
 IAPP, [Privacy By Design](https://iapp.org/resources/article/privacy-by-design-the-7-foundational-principles/) - _An overview of privacy by design, a design approach to embedding privacy in technology from the outset._
 
@@ -112,5 +123,7 @@ OpenNorth, [Open Smart Cities Guide v1.0](https://docs.google.com/document/d/13O
 
 Smart Cities Stakeholder Platform – Finance Working Group, [Public Procurement for Smart Cities](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwja6KLS79DpAhXMdN8KHbguCuoQFjABegQIChAD&url=http%3A%2F%2Fwww.sustainable-procurement.org%2Ffileadmin%2Ftemplates%2Fsp_platform%2Flib%2Fsp_platform_resources%2Ftools%2Fpush_resource_file.php%3Fuid%3D42abe812&usg=AOvVaw2N8fO6j8c5uQG9GDEARAs2) - _This guide assists cities in implementing public procurement frameworks suitable for smart cities. The guide not only identifies best practices in procurement practices but also identifies barriers to implementing best practices. Finally, the document is designed in the context of the low-carbon and environmental goods and services \(LCEGS\) sector but addresses problems that are common to other smart city procedures as well._
 
-John Loxley and Salim Loxley, [“Asking the right questions: A guide for municipalities considering P3s”](https://cupe.ca/guide-municipalities-p3s), CUPE \(2d ed.\) \(2020\). -_This Guide provides municipalities with specific questions to ask prior to engaging in public-private partnerships to understand their costs and benefits._
+John Loxley and Salim Loxley, [“Asking the right questions: A guide for municipalities considering P3s”](https://cupe.ca/guide-municipalities-p3s), CUPE \(2d ed.\) \(2020\) -_This Guide provides municipalities with specific questions to ask prior to engaging in public-private partnerships to understand their costs and benefits._
+
+Open North, [Procurement](https://opennorth.ca/publicationdetail?id=2HVKzrLUjUFylSVXGf7li5), \(2020\) - Guide for municipalities on procurement when engaging with the private sector.
 
