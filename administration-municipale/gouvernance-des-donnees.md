@@ -93,3 +93,5 @@ Jack Hardinges et coll., [« Data trusts: lessons from three pilots »](https://
 
 PwC, [« The foundation for smart city success: Seven layers of data governance and management »](https://www.pwc.com/us/en/industries/capital-projects-infrastructure/library/assets/pwc-foundation-of-smart-cities.pdf) – \*Le rapport de PricewaterhouseCoopers \(PwC\) propose sept couches de base de gestion de la gouvernance des données pour des villes intelligentes réussies. Se fondant sur un examen des meilleures pratiques mondiales et une analyse indépendante, PwC affirme que les sept couches \(catégories, consentement, collecte, anonymisation, stockage, accès et monétisation\) créent une base pour des données sûres et exploitables.
 
+Theresa Scassa, Merlynda Vilain, [Governing Smart Data in the Public Interest: Lessons from Ontario’s Smart Metering Entity CIGI Paper No. 221](https://www.cigionline.org/publications/governing-smart-data-public-interest-lessons-ontarios-smart-metering-entity), \(2019\) - This paper focuses on the governance of data captured through “smart” technologies and uses Ontario’s smart metering program as a case study.
+
