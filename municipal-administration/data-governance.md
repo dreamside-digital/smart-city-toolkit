@@ -92,3 +92,5 @@ Jack Hardinges et al, [“Data trusts: lessons from three pilots”](https://doc
 
 PwC, [“The foundation for smart city success: Seven layers of data governance and management”](https://www.pwc.com/us/en/industries/capital-projects-infrastructure/library/assets/pwc-foundation-of-smart-cities.pdf). - \*The report by PricewaterhouseCoopers \(PwC\) describes seven foundational layers of data governance management for successful smart cities. Based on a review of global best practices and independent analysis, PwC writes that the seven layers, categories, consent, collection, anonymization, storage, access, and monetization, create a foundation for secure and actionable data.
 
+Theresa Scassa, Merlynda Vilain, [Governing Smart Data in the Public Interest: Lessons from Ontario’s Smart Metering Entity CIGI Paper No. 221](https://www.cigionline.org/publications/governing-smart-data-public-interest-lessons-ontarios-smart-metering-entity), \(2019\) - This paper focuses on the governance of data captured through “smart” technologies and uses Ontario’s smart metering program as a case study.
+
